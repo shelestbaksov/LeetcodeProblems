@@ -1,2 +1,5 @@
-
-print(minSetSize([3,3,3,3,5,5,5,2,2,7]))
+import Foundation
+print(minCost(
+    "aabaa",
+    [1,2,3,4,1]
+))
