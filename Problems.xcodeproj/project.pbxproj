@@ -63,6 +63,8 @@
 		408A3DCF28B36AD900B0DF19 /* CanBeIncreasing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408A3DCE28B36AD900B0DF19 /* CanBeIncreasing.swift */; };
 		408A3DD128B3798400B0DF19 /* ThirdMax.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408A3DD028B3798400B0DF19 /* ThirdMax.swift */; };
 		408A3DD328B39C0000B0DF19 /* HasGroupSizeX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408A3DD228B39C0000B0DF19 /* HasGroupSizeX.swift */; };
+		408A3DD528B3D8E900B0DF19 /* ValidPerfectSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408A3DD428B3D8E900B0DF19 /* ValidPerfectSquare.swift */; };
+		408A3DD728B4BE6200B0DF19 /* LinkedListIsPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408A3DD628B4BE6100B0DF19 /* LinkedListIsPalindrome.swift */; };
 		408A919928AE329200231F15 /* MinSetSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408A919828AE329200231F15 /* MinSetSize.swift */; };
 		4091A82228ACDCA500C079CE /* MorseCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4091A82128ACDCA500C079CE /* MorseCode.swift */; };
 		4091A82428ACE50900C079CE /* RearrangedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4091A82328ACE50900C079CE /* RearrangedArray.swift */; };
@@ -148,6 +150,8 @@
 		408A3DCE28B36AD900B0DF19 /* CanBeIncreasing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanBeIncreasing.swift; sourceTree = "<group>"; };
 		408A3DD028B3798400B0DF19 /* ThirdMax.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdMax.swift; sourceTree = "<group>"; };
 		408A3DD228B39C0000B0DF19 /* HasGroupSizeX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HasGroupSizeX.swift; sourceTree = "<group>"; };
+		408A3DD428B3D8E900B0DF19 /* ValidPerfectSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPerfectSquare.swift; sourceTree = "<group>"; };
+		408A3DD628B4BE6100B0DF19 /* LinkedListIsPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListIsPalindrome.swift; sourceTree = "<group>"; };
 		408A919828AE329200231F15 /* MinSetSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinSetSize.swift; sourceTree = "<group>"; };
 		4091A82128ACDCA500C079CE /* MorseCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MorseCode.swift; sourceTree = "<group>"; };
 		4091A82328ACE50900C079CE /* RearrangedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RearrangedArray.swift; sourceTree = "<group>"; };
@@ -195,6 +199,7 @@
 			isa = PBXGroup;
 			children = (
 				408A3DAC28AE584400B0DF19 /* MinCost.swift */,
+				408A3DD428B3D8E900B0DF19 /* ValidPerfectSquare.swift */,
 				408A3DCA28AF9FD500B0DF19 /* SearchInsert.swift */,
 				408A3DC828AF8B6200B0DF19 /* RemoveElement.swift */,
 				4078177228ABB0110089BB06 /* FirstUniqueChar.swift */,
@@ -219,6 +224,7 @@
 				40B38C402887E578000AAB4B /* DecryptIntToStr.swift */,
 				40C97C3B28991535006EFB17 /* Subsequence.swift */,
 				4089E8C4289A7C4800F52F84 /* LinkedListsMerge.swift */,
+				408A3DD628B4BE6100B0DF19 /* LinkedListIsPalindrome.swift */,
 				40C5E8D42897CD25006F8C66 /* HaystackNeedle.swift */,
 				40C97C3928990B52006EFB17 /* IsomorphicStrings.swift */,
 				40C5E8D22897BD79006F8C66 /* DominantIndex.swift */,
@@ -351,6 +357,7 @@
 				408A3DAD28AE584400B0DF19 /* MinCost.swift in Sources */,
 				4078170928AA61960089BB06 /* GridProblems.swift in Sources */,
 				4091A82228ACDCA500C079CE /* MorseCode.swift in Sources */,
+				408A3DD528B3D8E900B0DF19 /* ValidPerfectSquare.swift in Sources */,
 				40C5E8D32897BD79006F8C66 /* DominantIndex.swift in Sources */,
 				4078171728AA63D80089BB06 /* IsPowerOfTwo.swift in Sources */,
 				407816FF28AA608C0089BB06 /* AccumulatingFunc.swift in Sources */,
@@ -361,6 +368,7 @@
 				40C5E8CF2897B732006F8C66 /* RunningSum.swift in Sources */,
 				4050AE4C288572640037782F /* MaxWealth.swift in Sources */,
 				4016201128816B7600172E7E /* HappyNumber.swift in Sources */,
+				408A3DD728B4BE6200B0DF19 /* LinkedListIsPalindrome.swift in Sources */,
 				4016201C28854BB600172E7E /* NextGreaterElement.swift in Sources */,
 				4078171928AA63FA0089BB06 /* PrintAllNumbersFrom.swift in Sources */,
 				408A919928AE329200231F15 /* MinSetSize.swift in Sources */,

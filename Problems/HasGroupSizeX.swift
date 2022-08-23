@@ -16,15 +16,23 @@ func hasGroupsSizeX(_ deck: [Int]) -> Bool {
         dictOfCards[card] = dictOfCards[card, default: 0] + 1
     }
     
-    for x in 2..<deck.count {
-        if deck.count % x == 0 {
-            for (_, value) in dictOfCards {
-                if value % x == 0 {
-                    continue
-                }
-                return true
-            }
+    var maxCount = Int.min
+    
+    for (_, value) in dictOfCards {
+        if value > maxCount {
+            maxCount = value
         }
     }
-    return false
+    
+    for x in 2..<maxCount {
+        var isDivisable = true
+        for value in dictOfCards.values {
+            isDivisable = isDivisable && value % x == 0
+        }
+        
+        if isDivisable {
+            return true
+        }
+    }
+    return true
 }
