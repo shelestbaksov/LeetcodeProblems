@@ -1,1 +1,1 @@
-print(hasGroupsSizeX([1,2,3,4,4,3,2,1]))
+print(wateringPlants([1,1,1,4,2,3], 4))
