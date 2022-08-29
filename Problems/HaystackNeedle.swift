@@ -14,16 +14,19 @@ func strStr(_ haystack: String, _ needle: String) -> Int {
     
     let arrayOfHaystack = Array(haystack)
     let arrayOfNeedle = Array(needle)
+    var result = -1
+    var haystackPointer = 0
     var needlePointer = 0
-    var index = -1
     
-    for haystackPointer in 0..<arrayOfHaystack.count {
-        if arrayOfHaystack[haystackPointer] == arrayOfNeedle.first {
-            index = haystackPointer
+    for index in 0..<arrayOfHaystack.count {
+        if arrayOfHaystack[index] == arrayOfNeedle[needlePointer] {
             needlePointer += 1
+            if needlePointer == arrayOfNeedle.count {
+                return index
+            } else {
+                
+            }
         }
-            
-        
     }
-    return index
+    return result
 }

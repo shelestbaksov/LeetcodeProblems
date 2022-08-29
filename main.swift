@@ -1,1 +1,1 @@
-print(checkIfExist([0,0]))
+print(maxSatisfaction([-1,-8,0,5,-9]))
