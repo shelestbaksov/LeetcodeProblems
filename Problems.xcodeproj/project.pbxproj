@@ -89,6 +89,8 @@
 		40F9C3BB28BCBBEE00C72C5E /* CountKdifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3BA28BCBBEE00C72C5E /* CountKdifference.swift */; };
 		40F9C3BD28BCC80C00C72C5E /* MinimumOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3BC28BCC80C00C72C5E /* MinimumOperations.swift */; };
 		40F9C3BF28BD049B00C72C5E /* maxSatisfaction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3BE28BD049B00C72C5E /* maxSatisfaction.swift */; };
+		40F9C3C128BDFD3B00C72C5E /* Intersection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3C028BDFD3B00C72C5E /* Intersection.swift */; };
+		40F9C3C928BE35B200C72C5E /* ArithmeticSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3C828BE35B200C72C5E /* ArithmeticSubarray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -187,6 +189,8 @@
 		40F9C3BA28BCBBEE00C72C5E /* CountKdifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountKdifference.swift; sourceTree = "<group>"; };
 		40F9C3BC28BCC80C00C72C5E /* MinimumOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumOperations.swift; sourceTree = "<group>"; };
 		40F9C3BE28BD049B00C72C5E /* maxSatisfaction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maxSatisfaction.swift; sourceTree = "<group>"; };
+		40F9C3C028BDFD3B00C72C5E /* Intersection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intersection.swift; sourceTree = "<group>"; };
+		40F9C3C828BE35B200C72C5E /* ArithmeticSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSubarray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -221,6 +225,8 @@
 			isa = PBXGroup;
 			children = (
 				40D25FB228B618C000CE8D05 /* WateringPlants.swift */,
+				40F9C3C028BDFD3B00C72C5E /* Intersection.swift */,
+				40F9C3C828BE35B200C72C5E /* ArithmeticSubarray.swift */,
 				40F9C3B628BCAE9900C72C5E /* CreateTargetArray.swift */,
 				40F9C3B828BCB12100C72C5E /* MinMovesToSeat.swift */,
 				40F9C3BE28BD049B00C72C5E /* maxSatisfaction.swift */,
@@ -409,8 +415,10 @@
 				4078171928AA63FA0089BB06 /* PrintAllNumbersFrom.swift in Sources */,
 				40F9C3B928BCB12100C72C5E /* MinMovesToSeat.swift in Sources */,
 				408A919928AE329200231F15 /* MinSetSize.swift in Sources */,
+				40F9C3C928BE35B200C72C5E /* ArithmeticSubarray.swift in Sources */,
 				408A3DC928AF8B6200B0DF19 /* RemoveElement.swift in Sources */,
 				408A3DD328B39C0000B0DF19 /* HasGroupSizeX.swift in Sources */,
+				40F9C3C128BDFD3B00C72C5E /* Intersection.swift in Sources */,
 				401620132881773000172E7E /* EqualStrings.swift in Sources */,
 				4078170D28AA62250089BB06 /* BackSpaceCompare.swift in Sources */,
 				40161FB528801CE100172E7E /* Perimeterr.swift in Sources */,
