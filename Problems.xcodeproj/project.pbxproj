@@ -91,6 +91,7 @@
 		40F9C3BF28BD049B00C72C5E /* maxSatisfaction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3BE28BD049B00C72C5E /* maxSatisfaction.swift */; };
 		40F9C3C128BDFD3B00C72C5E /* Intersection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3C028BDFD3B00C72C5E /* Intersection.swift */; };
 		40F9C3C928BE35B200C72C5E /* ArithmeticSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3C828BE35B200C72C5E /* ArithmeticSubarray.swift */; };
+		40F9C3CB28BF4E4C00C72C5E /* ConvertToBaseSeven.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3CA28BF4E4C00C72C5E /* ConvertToBaseSeven.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -191,6 +192,7 @@
 		40F9C3BE28BD049B00C72C5E /* maxSatisfaction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maxSatisfaction.swift; sourceTree = "<group>"; };
 		40F9C3C028BDFD3B00C72C5E /* Intersection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intersection.swift; sourceTree = "<group>"; };
 		40F9C3C828BE35B200C72C5E /* ArithmeticSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSubarray.swift; sourceTree = "<group>"; };
+		40F9C3CA28BF4E4C00C72C5E /* ConvertToBaseSeven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertToBaseSeven.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -225,6 +227,7 @@
 			isa = PBXGroup;
 			children = (
 				40D25FB228B618C000CE8D05 /* WateringPlants.swift */,
+				40F9C3CA28BF4E4C00C72C5E /* ConvertToBaseSeven.swift */,
 				40F9C3C028BDFD3B00C72C5E /* Intersection.swift */,
 				40F9C3C828BE35B200C72C5E /* ArithmeticSubarray.swift */,
 				40F9C3B628BCAE9900C72C5E /* CreateTargetArray.swift */,
@@ -402,6 +405,7 @@
 				4078171728AA63D80089BB06 /* IsPowerOfTwo.swift in Sources */,
 				407816FF28AA608C0089BB06 /* AccumulatingFunc.swift in Sources */,
 				40F9C3BB28BCBBEE00C72C5E /* CountKdifference.swift in Sources */,
+				40F9C3CB28BF4E4C00C72C5E /* ConvertToBaseSeven.swift in Sources */,
 				4078172B28AA65CB0089BB06 /* CountOfLetters.swift in Sources */,
 				4050AE562886A15D0037782F /* FindTheDifference.swift in Sources */,
 				40C97C3C28991535006EFB17 /* Subsequence.swift in Sources */,
