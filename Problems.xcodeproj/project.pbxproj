@@ -92,6 +92,8 @@
 		40F9C3C128BDFD3B00C72C5E /* Intersection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3C028BDFD3B00C72C5E /* Intersection.swift */; };
 		40F9C3C928BE35B200C72C5E /* ArithmeticSubarray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3C828BE35B200C72C5E /* ArithmeticSubarray.swift */; };
 		40F9C3CB28BF4E4C00C72C5E /* ConvertToBaseSeven.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3CA28BF4E4C00C72C5E /* ConvertToBaseSeven.swift */; };
+		40F9C3CD28BF958900C72C5E /* DivisorGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3CC28BF958900C72C5E /* DivisorGame.swift */; };
+		40F9C3CF28BFA78B00C72C5E /* Sqrt(x).swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3CE28BFA78B00C72C5E /* Sqrt(x).swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -193,6 +195,8 @@
 		40F9C3C028BDFD3B00C72C5E /* Intersection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intersection.swift; sourceTree = "<group>"; };
 		40F9C3C828BE35B200C72C5E /* ArithmeticSubarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithmeticSubarray.swift; sourceTree = "<group>"; };
 		40F9C3CA28BF4E4C00C72C5E /* ConvertToBaseSeven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertToBaseSeven.swift; sourceTree = "<group>"; };
+		40F9C3CC28BF958900C72C5E /* DivisorGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisorGame.swift; sourceTree = "<group>"; };
+		40F9C3CE28BFA78B00C72C5E /* Sqrt(x).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sqrt(x).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -228,6 +232,8 @@
 			children = (
 				40D25FB228B618C000CE8D05 /* WateringPlants.swift */,
 				40F9C3CA28BF4E4C00C72C5E /* ConvertToBaseSeven.swift */,
+				40F9C3CC28BF958900C72C5E /* DivisorGame.swift */,
+				40F9C3CE28BFA78B00C72C5E /* Sqrt(x).swift */,
 				40F9C3C028BDFD3B00C72C5E /* Intersection.swift */,
 				40F9C3C828BE35B200C72C5E /* ArithmeticSubarray.swift */,
 				40F9C3B628BCAE9900C72C5E /* CreateTargetArray.swift */,
@@ -378,6 +384,7 @@
 				40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */,
 				408A3DCD28B3675300B0DF19 /* PowerOfFour.swift in Sources */,
 				4078171528AA63840089BB06 /* IsEqualColor.swift in Sources */,
+				40F9C3CD28BF958900C72C5E /* DivisorGame.swift in Sources */,
 				40161FAB287D573400172E7E /* BinarySearch.swift in Sources */,
 				40161FA9287D570600172E7E /* LongestCommonPrefix.swift in Sources */,
 				4078170328AA611C0089BB06 /* MaxProfit.swift in Sources */,
@@ -403,6 +410,7 @@
 				408A3DD528B3D8E900B0DF19 /* ValidPerfectSquare.swift in Sources */,
 				40C5E8D32897BD79006F8C66 /* DominantIndex.swift in Sources */,
 				4078171728AA63D80089BB06 /* IsPowerOfTwo.swift in Sources */,
+				40F9C3CF28BFA78B00C72C5E /* Sqrt(x).swift in Sources */,
 				407816FF28AA608C0089BB06 /* AccumulatingFunc.swift in Sources */,
 				40F9C3BB28BCBBEE00C72C5E /* CountKdifference.swift in Sources */,
 				40F9C3CB28BF4E4C00C72C5E /* ConvertToBaseSeven.swift in Sources */,
