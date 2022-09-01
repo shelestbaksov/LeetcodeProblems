@@ -87,6 +87,7 @@
 		40D588B828C0952C00FC157E /* SingleNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B728C0952C00FC157E /* SingleNum.swift */; };
 		40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B928C09C6B00FC157E /* isPalindromeString.swift */; };
 		40D588BC28C0A2B500FC157E /* ReduceMapFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */; };
+		40D5891B28C1098100FC157E /* MajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5891A28C1098100FC157E /* MajorityElement.swift */; };
 		40F9C3B728BCAE9900C72C5E /* CreateTargetArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3B628BCAE9900C72C5E /* CreateTargetArray.swift */; };
 		40F9C3B928BCB12100C72C5E /* MinMovesToSeat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3B828BCB12100C72C5E /* MinMovesToSeat.swift */; };
 		40F9C3BB28BCBBEE00C72C5E /* CountKdifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3BA28BCBBEE00C72C5E /* CountKdifference.swift */; };
@@ -193,6 +194,7 @@
 		40D588B728C0952C00FC157E /* SingleNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNum.swift; sourceTree = "<group>"; };
 		40D588B928C09C6B00FC157E /* isPalindromeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPalindromeString.swift; sourceTree = "<group>"; };
 		40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMapFilter.swift; sourceTree = "<group>"; };
+		40D5891A28C1098100FC157E /* MajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElement.swift; sourceTree = "<group>"; };
 		40F9C3B628BCAE9900C72C5E /* CreateTargetArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateTargetArray.swift; sourceTree = "<group>"; };
 		40F9C3B828BCB12100C72C5E /* MinMovesToSeat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinMovesToSeat.swift; sourceTree = "<group>"; };
 		40F9C3BA28BCBBEE00C72C5E /* CountKdifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountKdifference.swift; sourceTree = "<group>"; };
@@ -239,6 +241,7 @@
 				40D25FB228B618C000CE8D05 /* WateringPlants.swift */,
 				40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */,
 				40D588B928C09C6B00FC157E /* isPalindromeString.swift */,
+				40D5891A28C1098100FC157E /* MajorityElement.swift */,
 				40D588B728C0952C00FC157E /* SingleNum.swift */,
 				40F9C3CA28BF4E4C00C72C5E /* ConvertToBaseSeven.swift */,
 				40F9C3CC28BF958900C72C5E /* DivisorGame.swift */,
@@ -453,6 +456,7 @@
 				40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */,
 				4078170B28AA620B0089BB06 /* CountPoints.swift in Sources */,
 				4078171B28AA64420089BB06 /* FindSum.swift in Sources */,
+				40D5891B28C1098100FC157E /* MajorityElement.swift in Sources */,
 				40161FB3288012C000172E7E /* NearestPoint.swift in Sources */,
 				4078172328AA65000089BB06 /* FineTheGCD.swift in Sources */,
 				40D25FB328B618C100CE8D05 /* WateringPlants.swift in Sources */,
