@@ -95,6 +95,10 @@
 		40D5892728C1FF1B00FC157E /* KidsWithGreatestNumberOfCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5892628C1FF1B00FC157E /* KidsWithGreatestNumberOfCandies.swift */; };
 		40D5892928C2003300FC157E /* SmallerNumbersThanCurrent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5892828C2003300FC157E /* SmallerNumbersThanCurrent.swift */; };
 		40D5892D28C2074B00FC157E /* ShuffleString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5892C28C2074B00FC157E /* ShuffleString.swift */; };
+		40D5893328C5DE2900FC157E /* CountNumberOfConsistentString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5893228C5DE2900FC157E /* CountNumberOfConsistentString.swift */; };
+		40D5893528C5E13500FC157E /* CheckIfTwoStringAreEqual.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5893428C5E13500FC157E /* CheckIfTwoStringAreEqual.swift */; };
+		40D5893728C5E31400FC157E /* TruncateSentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5893628C5E31400FC157E /* TruncateSentence.swift */; };
+		40D5893928C5E67E00FC157E /* MaximumProductDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5893828C5E67E00FC157E /* MaximumProductDifference.swift */; };
 		40F9C3B728BCAE9900C72C5E /* CreateTargetArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3B628BCAE9900C72C5E /* CreateTargetArray.swift */; };
 		40F9C3B928BCB12100C72C5E /* MinMovesToSeat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3B828BCB12100C72C5E /* MinMovesToSeat.swift */; };
 		40F9C3BB28BCBBEE00C72C5E /* CountKdifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F9C3BA28BCBBEE00C72C5E /* CountKdifference.swift */; };
@@ -209,6 +213,10 @@
 		40D5892628C1FF1B00FC157E /* KidsWithGreatestNumberOfCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KidsWithGreatestNumberOfCandies.swift; sourceTree = "<group>"; };
 		40D5892828C2003300FC157E /* SmallerNumbersThanCurrent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallerNumbersThanCurrent.swift; sourceTree = "<group>"; };
 		40D5892C28C2074B00FC157E /* ShuffleString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleString.swift; sourceTree = "<group>"; };
+		40D5893228C5DE2900FC157E /* CountNumberOfConsistentString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNumberOfConsistentString.swift; sourceTree = "<group>"; };
+		40D5893428C5E13500FC157E /* CheckIfTwoStringAreEqual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfTwoStringAreEqual.swift; sourceTree = "<group>"; };
+		40D5893628C5E31400FC157E /* TruncateSentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TruncateSentence.swift; sourceTree = "<group>"; };
+		40D5893828C5E67E00FC157E /* MaximumProductDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductDifference.swift; sourceTree = "<group>"; };
 		40F9C3B628BCAE9900C72C5E /* CreateTargetArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateTargetArray.swift; sourceTree = "<group>"; };
 		40F9C3B828BCB12100C72C5E /* MinMovesToSeat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinMovesToSeat.swift; sourceTree = "<group>"; };
 		40F9C3BA28BCBBEE00C72C5E /* CountKdifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountKdifference.swift; sourceTree = "<group>"; };
@@ -253,6 +261,10 @@
 			isa = PBXGroup;
 			children = (
 				40D25FB228B618C000CE8D05 /* WateringPlants.swift */,
+				40D5893228C5DE2900FC157E /* CountNumberOfConsistentString.swift */,
+				40D5893428C5E13500FC157E /* CheckIfTwoStringAreEqual.swift */,
+				40D5893628C5E31400FC157E /* TruncateSentence.swift */,
+				40D5893828C5E67E00FC157E /* MaximumProductDifference.swift */,
 				40D5892C28C2074B00FC157E /* ShuffleString.swift */,
 				40D5891E28C1FA2C00FC157E /* BuildArrayPermutation.swift */,
 				40D5892028C1FAF800FC157E /* FinalValueAfterOperations.swift */,
@@ -460,15 +472,18 @@
 				40C5E8CF2897B732006F8C66 /* RunningSum.swift in Sources */,
 				4050AE4C288572640037782F /* MaxWealth.swift in Sources */,
 				4016201128816B7600172E7E /* HappyNumber.swift in Sources */,
+				40D5893928C5E67E00FC157E /* MaximumProductDifference.swift in Sources */,
 				40D588B828C0952C00FC157E /* SingleNum.swift in Sources */,
 				408A3DD728B4BE6200B0DF19 /* LinkedListIsPalindrome.swift in Sources */,
 				4016201C28854BB600172E7E /* NextGreaterElement.swift in Sources */,
 				4078171928AA63FA0089BB06 /* PrintAllNumbersFrom.swift in Sources */,
 				40F9C3B928BCB12100C72C5E /* MinMovesToSeat.swift in Sources */,
 				408A919928AE329200231F15 /* MinSetSize.swift in Sources */,
+				40D5893528C5E13500FC157E /* CheckIfTwoStringAreEqual.swift in Sources */,
 				40F9C3C928BE35B200C72C5E /* ArithmeticSubarray.swift in Sources */,
 				408A3DC928AF8B6200B0DF19 /* RemoveElement.swift in Sources */,
 				408A3DD328B39C0000B0DF19 /* HasGroupSizeX.swift in Sources */,
+				40D5893728C5E31400FC157E /* TruncateSentence.swift in Sources */,
 				40F9C3C128BDFD3B00C72C5E /* Intersection.swift in Sources */,
 				401620132881773000172E7E /* EqualStrings.swift in Sources */,
 				4078170D28AA62250089BB06 /* BackSpaceCompare.swift in Sources */,
@@ -502,6 +517,7 @@
 				40161FA5287C2CC700172E7E /* Skobochki.swift in Sources */,
 				40D5892728C1FF1B00FC157E /* KidsWithGreatestNumberOfCandies.swift in Sources */,
 				4078172128AA64EC0089BB06 /* FindTheAmountOfEvenNumbers.swift in Sources */,
+				40D5893328C5DE2900FC157E /* CountNumberOfConsistentString.swift in Sources */,
 				4078170128AA60FB0089BB06 /* ContainsDuplicates.swift in Sources */,
 				4016200D28814EA700172E7E /* SignFunc.swift in Sources */,
 				4078172928AA656D0089BB06 /* GetNewSortedArray.swift in Sources */,
