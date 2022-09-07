@@ -12,6 +12,9 @@
 		400FC22428C793C2009CC30E /* FindFirstPalindromicStringInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400FC22328C793C2009CC30E /* FindFirstPalindromicStringInArray.swift */; };
 		400FC22828C79AE7009CC30E /* QueriesOnAPermutationWithKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400FC22728C79AE7009CC30E /* QueriesOnAPermutationWithKey.swift */; };
 		400FC22A28C7A1A1009CC30E /* FindingTheUAM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400FC22928C7A1A1009CC30E /* FindingTheUAM.swift */; };
+		400FC22C28C89C9C009CC30E /* MaxNumberOfCoinsYouCanGet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400FC22B28C89C9C009CC30E /* MaxNumberOfCoinsYouCanGet.swift */; };
+		400FC22E28C8A64E009CC30E /* DesignStackWithIncrementOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400FC22D28C8A64E009CC30E /* DesignStackWithIncrementOperation.swift */; };
+		400FC23028C8AA30009CC30E /* FindAllDisappearedNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400FC22F28C8AA30009CC30E /* FindAllDisappearedNumbers.swift */; };
 		40161FA5287C2CC700172E7E /* Skobochki.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA4287C2CC700172E7E /* Skobochki.swift */; };
 		40161FA7287D56DF00172E7E /* RomanToInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA6287D56DE00172E7E /* RomanToInt.swift */; };
 		40161FA9287D570600172E7E /* LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA8287D570600172E7E /* LongestCommonPrefix.swift */; };
@@ -134,6 +137,9 @@
 		400FC22328C793C2009CC30E /* FindFirstPalindromicStringInArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindFirstPalindromicStringInArray.swift; sourceTree = "<group>"; };
 		400FC22728C79AE7009CC30E /* QueriesOnAPermutationWithKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QueriesOnAPermutationWithKey.swift; sourceTree = "<group>"; };
 		400FC22928C7A1A1009CC30E /* FindingTheUAM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindingTheUAM.swift; sourceTree = "<group>"; };
+		400FC22B28C89C9C009CC30E /* MaxNumberOfCoinsYouCanGet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxNumberOfCoinsYouCanGet.swift; sourceTree = "<group>"; };
+		400FC22D28C8A64E009CC30E /* DesignStackWithIncrementOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignStackWithIncrementOperation.swift; sourceTree = "<group>"; };
+		400FC22F28C8AA30009CC30E /* FindAllDisappearedNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllDisappearedNumbers.swift; sourceTree = "<group>"; };
 		40161FA4287C2CC700172E7E /* Skobochki.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skobochki.swift; sourceTree = "<group>"; };
 		40161FA6287D56DE00172E7E /* RomanToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInt.swift; sourceTree = "<group>"; };
 		40161FA8287D570600172E7E /* LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix.swift; sourceTree = "<group>"; };
@@ -271,6 +277,9 @@
 			isa = PBXGroup;
 			children = (
 				40D25FB228B618C000CE8D05 /* WateringPlants.swift */,
+				400FC22D28C8A64E009CC30E /* DesignStackWithIncrementOperation.swift */,
+				400FC22F28C8AA30009CC30E /* FindAllDisappearedNumbers.swift */,
+				400FC22B28C89C9C009CC30E /* MaxNumberOfCoinsYouCanGet.swift */,
 				400FC21F28C78D6D009CC30E /* MaximumProductOfTwoElements.swift */,
 				400FC22128C79161009CC30E /* FindTheHighestAltitude.swift */,
 				400FC22328C793C2009CC30E /* FindFirstPalindromicStringInArray.swift */,
@@ -467,6 +476,7 @@
 				40161FA7287D56DF00172E7E /* RomanToInt.swift in Sources */,
 				4078171D28AA645D0089BB06 /* FindTheAmountOfNumbers.swift in Sources */,
 				40C97C3A28990B52006EFB17 /* IsomorphicStrings.swift in Sources */,
+				400FC22C28C89C9C009CC30E /* MaxNumberOfCoinsYouCanGet.swift in Sources */,
 				40D5892528C1FDBA00FC157E /* NumOfGoodPairs.swift in Sources */,
 				4078171128AA62660089BB06 /* TopKfrequent.swift in Sources */,
 				408A3DAD28AE584400B0DF19 /* MinCost.swift in Sources */,
@@ -481,6 +491,7 @@
 				407816FF28AA608C0089BB06 /* AccumulatingFunc.swift in Sources */,
 				40F9C3BB28BCBBEE00C72C5E /* CountKdifference.swift in Sources */,
 				40F9C3CB28BF4E4C00C72C5E /* ConvertToBaseSeven.swift in Sources */,
+				400FC23028C8AA30009CC30E /* FindAllDisappearedNumbers.swift in Sources */,
 				40D5892928C2003300FC157E /* SmallerNumbersThanCurrent.swift in Sources */,
 				4078172B28AA65CB0089BB06 /* CountOfLetters.swift in Sources */,
 				4050AE562886A15D0037782F /* FindTheDifference.swift in Sources */,
@@ -528,6 +539,7 @@
 				408A3DCF28B36AD900B0DF19 /* CanBeIncreasing.swift in Sources */,
 				40C5E8D12897B9F6006F8C66 /* PivotIndex.swift in Sources */,
 				40161FAD287D57B200172E7E /* FirstBadVersion.swift in Sources */,
+				400FC22E28C8A64E009CC30E /* DesignStackWithIncrementOperation.swift in Sources */,
 				40F9C3BD28BCC80C00C72C5E /* MinimumOperations.swift in Sources */,
 				40D5892328C1FBA800FC157E /* MostWordsFound.swift in Sources */,
 				40161FAF287D5F0700172E7E /* MergeTwoSortedLists.swift in Sources */,
