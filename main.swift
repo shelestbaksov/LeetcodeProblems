@@ -1,1 +1,1 @@
-
+print(numJewelsInStones("aA", "aAAbbbb"))
