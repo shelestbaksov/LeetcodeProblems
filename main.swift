@@ -1,1 +1,2 @@
-print(numJewelsInStones("aA", "aAAbbbb"))
+
+print(sumZero(4))
