@@ -1,2 +1,2 @@
 
-print(sumZero(4))
+print(numberOfPairs([1,3,2,1,3,2,2]))
