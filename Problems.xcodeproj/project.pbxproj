@@ -46,6 +46,7 @@
 		4033816828D0A28E00ABBCD2 /* SumOfUnique.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033816728D0A28E00ABBCD2 /* SumOfUnique.swift */; };
 		4033816A28D0A3CF00ABBCD2 /* FinalPricesWithASpecialDiscount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033816928D0A3CF00ABBCD2 /* FinalPricesWithASpecialDiscount.swift */; };
 		4033816C28D0A6F200ABBCD2 /* CountNegativeNumbersInMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033816B28D0A6F200ABBCD2 /* CountNegativeNumbersInMatrix.swift */; };
+		4033816E28D0BB7F00ABBCD2 /* KeepMultiplyingFoundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033816D28D0BB7F00ABBCD2 /* KeepMultiplyingFoundValue.swift */; };
 		4050AE4A288569E20037782F /* RemoveZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE49288569E20037782F /* RemoveZeros.swift */; };
 		4050AE4C288572640037782F /* MaxWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE4B288572640037782F /* MaxWealth.swift */; };
 		4050AE522886951C0037782F /* MergeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE512886951C0037782F /* MergeWords.swift */; };
@@ -187,6 +188,7 @@
 		4033816728D0A28E00ABBCD2 /* SumOfUnique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfUnique.swift; sourceTree = "<group>"; };
 		4033816928D0A3CF00ABBCD2 /* FinalPricesWithASpecialDiscount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalPricesWithASpecialDiscount.swift; sourceTree = "<group>"; };
 		4033816B28D0A6F200ABBCD2 /* CountNegativeNumbersInMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNegativeNumbersInMatrix.swift; sourceTree = "<group>"; };
+		4033816D28D0BB7F00ABBCD2 /* KeepMultiplyingFoundValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeepMultiplyingFoundValue.swift; sourceTree = "<group>"; };
 		4050AE49288569E20037782F /* RemoveZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveZeros.swift; sourceTree = "<group>"; };
 		4050AE4B288572640037782F /* MaxWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxWealth.swift; sourceTree = "<group>"; };
 		4050AE512886951C0037782F /* MergeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeWords.swift; sourceTree = "<group>"; };
@@ -317,6 +319,7 @@
 				4033816728D0A28E00ABBCD2 /* SumOfUnique.swift */,
 				4033816928D0A3CF00ABBCD2 /* FinalPricesWithASpecialDiscount.swift */,
 				4033816B28D0A6F200ABBCD2 /* CountNegativeNumbersInMatrix.swift */,
+				4033816D28D0BB7F00ABBCD2 /* KeepMultiplyingFoundValue.swift */,
 				4033814D28CB24E000ABBCD2 /* MergeSortedArray.swift */,
 				4033815128CB422B00ABBCD2 /* DestinationCity.swift */,
 				4033815328CB426300ABBCD2 /* ReversePrefixOfWord.swift */,
@@ -527,6 +530,7 @@
 				4078171D28AA645D0089BB06 /* FindTheAmountOfNumbers.swift in Sources */,
 				40C97C3A28990B52006EFB17 /* IsomorphicStrings.swift in Sources */,
 				400FC22C28C89C9C009CC30E /* MaxNumberOfCoinsYouCanGet.swift in Sources */,
+				4033816E28D0BB7F00ABBCD2 /* KeepMultiplyingFoundValue.swift in Sources */,
 				40D5892528C1FDBA00FC157E /* NumOfGoodPairs.swift in Sources */,
 				4078171128AA62660089BB06 /* TopKfrequent.swift in Sources */,
 				4033816428D09CB300ABBCD2 /* NumberOfStudentsDoingHW.swift in Sources */,
