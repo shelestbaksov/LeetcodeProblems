@@ -1,2 +1,2 @@
 
-print(numberOfPairs([1,3,2,1,3,2,2]))
+print(finalPrices([8,4,6,2,3]))
