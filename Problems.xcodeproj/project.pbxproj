@@ -47,6 +47,13 @@
 		4033816A28D0A3CF00ABBCD2 /* FinalPricesWithASpecialDiscount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033816928D0A3CF00ABBCD2 /* FinalPricesWithASpecialDiscount.swift */; };
 		4033816C28D0A6F200ABBCD2 /* CountNegativeNumbersInMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033816B28D0A6F200ABBCD2 /* CountNegativeNumbersInMatrix.swift */; };
 		4033816E28D0BB7F00ABBCD2 /* KeepMultiplyingFoundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033816D28D0BB7F00ABBCD2 /* KeepMultiplyingFoundValue.swift */; };
+		4033817F28D2067100ABBCD2 /* DecodeMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033817E28D2067100ABBCD2 /* DecodeMessage.swift */; };
+		4033818128D209BC00ABBCD2 /* CountItemsMatchingArule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033818028D209BC00ABBCD2 /* CountItemsMatchingArule.swift */; };
+		4033818328D20E3E00ABBCD2 /* GenerateStringWithCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033818228D20E3E00ABBCD2 /* GenerateStringWithCharacters.swift */; };
+		4033818528D2101A00ABBCD2 /* DetermineColorOfChessBoardSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033818428D2101A00ABBCD2 /* DetermineColorOfChessBoardSquare.swift */; };
+		4033818728D214D400ABBCD2 /* PercentageOfLetterInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033818628D214D400ABBCD2 /* PercentageOfLetterInString.swift */; };
+		4033818928D21A1900ABBCD2 /* CountPrefixes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033818828D21A1900ABBCD2 /* CountPrefixes.swift */; };
+		4033818B28D21CEB00ABBCD2 /* CheckIfAllAAppersBeforeB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033818A28D21CEB00ABBCD2 /* CheckIfAllAAppersBeforeB.swift */; };
 		4050AE4A288569E20037782F /* RemoveZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE49288569E20037782F /* RemoveZeros.swift */; };
 		4050AE4C288572640037782F /* MaxWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE4B288572640037782F /* MaxWealth.swift */; };
 		4050AE522886951C0037782F /* MergeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE512886951C0037782F /* MergeWords.swift */; };
@@ -189,6 +196,13 @@
 		4033816928D0A3CF00ABBCD2 /* FinalPricesWithASpecialDiscount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalPricesWithASpecialDiscount.swift; sourceTree = "<group>"; };
 		4033816B28D0A6F200ABBCD2 /* CountNegativeNumbersInMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNegativeNumbersInMatrix.swift; sourceTree = "<group>"; };
 		4033816D28D0BB7F00ABBCD2 /* KeepMultiplyingFoundValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeepMultiplyingFoundValue.swift; sourceTree = "<group>"; };
+		4033817E28D2067100ABBCD2 /* DecodeMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodeMessage.swift; sourceTree = "<group>"; };
+		4033818028D209BC00ABBCD2 /* CountItemsMatchingArule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountItemsMatchingArule.swift; sourceTree = "<group>"; };
+		4033818228D20E3E00ABBCD2 /* GenerateStringWithCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerateStringWithCharacters.swift; sourceTree = "<group>"; };
+		4033818428D2101A00ABBCD2 /* DetermineColorOfChessBoardSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetermineColorOfChessBoardSquare.swift; sourceTree = "<group>"; };
+		4033818628D214D400ABBCD2 /* PercentageOfLetterInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PercentageOfLetterInString.swift; sourceTree = "<group>"; };
+		4033818828D21A1900ABBCD2 /* CountPrefixes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrefixes.swift; sourceTree = "<group>"; };
+		4033818A28D21CEB00ABBCD2 /* CheckIfAllAAppersBeforeB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfAllAAppersBeforeB.swift; sourceTree = "<group>"; };
 		4050AE49288569E20037782F /* RemoveZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveZeros.swift; sourceTree = "<group>"; };
 		4050AE4B288572640037782F /* MaxWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxWealth.swift; sourceTree = "<group>"; };
 		4050AE512886951C0037782F /* MergeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeWords.swift; sourceTree = "<group>"; };
@@ -311,6 +325,13 @@
 			isa = PBXGroup;
 			children = (
 				400FC23528CA161D009CC30E /* SearchInsertPosition.swift */,
+				4033817E28D2067100ABBCD2 /* DecodeMessage.swift */,
+				4033818028D209BC00ABBCD2 /* CountItemsMatchingArule.swift */,
+				4033818228D20E3E00ABBCD2 /* GenerateStringWithCharacters.swift */,
+				4033818428D2101A00ABBCD2 /* DetermineColorOfChessBoardSquare.swift */,
+				4033818628D214D400ABBCD2 /* PercentageOfLetterInString.swift */,
+				4033818828D21A1900ABBCD2 /* CountPrefixes.swift */,
+				4033818A28D21CEB00ABBCD2 /* CheckIfAllAAppersBeforeB.swift */,
 				4033815D28CF7EB900ABBCD2 /* FindClosestNumber.swift */,
 				4033815F28CF80CE00ABBCD2 /* CountingWordsWithAgivenPrefix.swift */,
 				4033816128CF818600ABBCD2 /* MaxNumberOfPairs.swift */,
@@ -468,7 +489,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1300;
-				LastUpgradeCheck = 1300;
+				LastUpgradeCheck = 1340;
 				TargetAttributes = {
 					406A44522843DE33007BE6F6 = {
 						CreatedOnToolsVersion = 13.0;
@@ -506,10 +527,12 @@
 				40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */,
 				408A3DCD28B3675300B0DF19 /* PowerOfFour.swift in Sources */,
 				4078171528AA63840089BB06 /* IsEqualColor.swift in Sources */,
+				4033818B28D21CEB00ABBCD2 /* CheckIfAllAAppersBeforeB.swift in Sources */,
 				400FC22A28C7A1A1009CC30E /* FindingTheUAM.swift in Sources */,
 				4033816228CF818600ABBCD2 /* MaxNumberOfPairs.swift in Sources */,
 				40F9C3CD28BF958900C72C5E /* DivisorGame.swift in Sources */,
 				40161FAB287D573400172E7E /* BinarySearch.swift in Sources */,
+				4033818528D2101A00ABBCD2 /* DetermineColorOfChessBoardSquare.swift in Sources */,
 				4033815228CB422B00ABBCD2 /* DestinationCity.swift in Sources */,
 				40161FA9287D570600172E7E /* LongestCommonPrefix.swift in Sources */,
 				4078170328AA611C0089BB06 /* MaxProfit.swift in Sources */,
@@ -543,6 +566,7 @@
 				40C5E8D32897BD79006F8C66 /* DominantIndex.swift in Sources */,
 				4078171728AA63D80089BB06 /* IsPowerOfTwo.swift in Sources */,
 				40F9C3CF28BFA78B00C72C5E /* Sqrt(x).swift in Sources */,
+				4033818928D21A1900ABBCD2 /* CountPrefixes.swift in Sources */,
 				407816FF28AA608C0089BB06 /* AccumulatingFunc.swift in Sources */,
 				40F9C3BB28BCBBEE00C72C5E /* CountKdifference.swift in Sources */,
 				4033814A28CA2DD800ABBCD2 /* JewelsAndStones.swift in Sources */,
@@ -553,6 +577,7 @@
 				4050AE562886A15D0037782F /* FindTheDifference.swift in Sources */,
 				40C97C3C28991535006EFB17 /* Subsequence.swift in Sources */,
 				4078170F28AA62490089BB06 /* LastStoneWeight.swift in Sources */,
+				4033818728D214D400ABBCD2 /* PercentageOfLetterInString.swift in Sources */,
 				40D25FB528B77C4100CE8D05 /* RansomNote.swift in Sources */,
 				40C5E8CF2897B732006F8C66 /* RunningSum.swift in Sources */,
 				4050AE4C288572640037782F /* MaxWealth.swift in Sources */,
@@ -588,6 +613,7 @@
 				40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */,
 				4033816C28D0A6F200ABBCD2 /* CountNegativeNumbersInMatrix.swift in Sources */,
 				4078170B28AA620B0089BB06 /* CountPoints.swift in Sources */,
+				4033818128D209BC00ABBCD2 /* CountItemsMatchingArule.swift in Sources */,
 				4033815628CB48BD00ABBCD2 /* FindNUniqueIntSum.swift in Sources */,
 				4078171B28AA64420089BB06 /* FindSum.swift in Sources */,
 				400FC23828CA1C2B009CC30E /* PlusOne.swift in Sources */,
@@ -617,6 +643,7 @@
 				40D5892728C1FF1B00FC157E /* KidsWithGreatestNumberOfCandies.swift in Sources */,
 				4078172128AA64EC0089BB06 /* FindTheAmountOfEvenNumbers.swift in Sources */,
 				40D5893328C5DE2900FC157E /* CountNumberOfConsistentString.swift in Sources */,
+				4033817F28D2067100ABBCD2 /* DecodeMessage.swift in Sources */,
 				4078170128AA60FB0089BB06 /* ContainsDuplicates.swift in Sources */,
 				4033816828D0A28E00ABBCD2 /* SumOfUnique.swift in Sources */,
 				4016200D28814EA700172E7E /* SignFunc.swift in Sources */,
@@ -625,6 +652,7 @@
 				40D25FB128B60DA800CE8D05 /* MinOperations.swift in Sources */,
 				4078177528ABC70D0089BB06 /* GroupThePeople.swift in Sources */,
 				40D25FBF28B8E66700CE8D05 /* SetMismatch.swift in Sources */,
+				4033818328D20E3E00ABBCD2 /* GenerateStringWithCharacters.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -749,6 +777,7 @@
 		406A445B2843DE33007BE6F6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4R74NDZ36U;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -760,6 +789,7 @@
 		406A445C2843DE33007BE6F6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4R74NDZ36U;
 				ENABLE_HARDENED_RUNTIME = YES;
