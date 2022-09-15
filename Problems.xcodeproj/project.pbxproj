@@ -54,6 +54,16 @@
 		4033818728D214D400ABBCD2 /* PercentageOfLetterInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033818628D214D400ABBCD2 /* PercentageOfLetterInString.swift */; };
 		4033818928D21A1900ABBCD2 /* CountPrefixes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033818828D21A1900ABBCD2 /* CountPrefixes.swift */; };
 		4033818B28D21CEB00ABBCD2 /* CheckIfAllAAppersBeforeB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033818A28D21CEB00ABBCD2 /* CheckIfAllAAppersBeforeB.swift */; };
+		4033818F28D3067300ABBCD2 /* DecompressRunLengthEncode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */; };
+		4033819128D30D0800ABBCD2 /* NumberOfArithmeticTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033819028D30D0800ABBCD2 /* NumberOfArithmeticTriplets.swift */; };
+		4033819328D30E1C00ABBCD2 /* CountGoodTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033819228D30E1C00ABBCD2 /* CountGoodTriplets.swift */; };
+		4033819528D311E900ABBCD2 /* CountEqualAndDivisible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033819428D311E900ABBCD2 /* CountEqualAndDivisible.swift */; };
+		4033819928D3229700ABBCD2 /* FindGCDOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033819828D3229700ABBCD2 /* FindGCDOfArray.swift */; };
+		4033819B28D323D700ABBCD2 /* FindNumbersWithEvenNumberOfDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033819A28D323D700ABBCD2 /* FindNumbersWithEvenNumberOfDigits.swift */; };
+		4033819D28D3281D00ABBCD2 /* ArrayPartition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033819C28D3281D00ABBCD2 /* ArrayPartition.swift */; };
+		4033819F28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033819E28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift */; };
+		403381A128D32A6D00ABBCD2 /* DivideArrayIntoPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403381A028D32A6D00ABBCD2 /* DivideArrayIntoPairs.swift */; };
+		403381A328D32D2E00ABBCD2 /* HeightChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403381A228D32D2E00ABBCD2 /* HeightChecker.swift */; };
 		4050AE4A288569E20037782F /* RemoveZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE49288569E20037782F /* RemoveZeros.swift */; };
 		4050AE4C288572640037782F /* MaxWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE4B288572640037782F /* MaxWealth.swift */; };
 		4050AE522886951C0037782F /* MergeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE512886951C0037782F /* MergeWords.swift */; };
@@ -203,6 +213,16 @@
 		4033818628D214D400ABBCD2 /* PercentageOfLetterInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PercentageOfLetterInString.swift; sourceTree = "<group>"; };
 		4033818828D21A1900ABBCD2 /* CountPrefixes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountPrefixes.swift; sourceTree = "<group>"; };
 		4033818A28D21CEB00ABBCD2 /* CheckIfAllAAppersBeforeB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfAllAAppersBeforeB.swift; sourceTree = "<group>"; };
+		4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecompressRunLengthEncode.swift; sourceTree = "<group>"; };
+		4033819028D30D0800ABBCD2 /* NumberOfArithmeticTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfArithmeticTriplets.swift; sourceTree = "<group>"; };
+		4033819228D30E1C00ABBCD2 /* CountGoodTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodTriplets.swift; sourceTree = "<group>"; };
+		4033819428D311E900ABBCD2 /* CountEqualAndDivisible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountEqualAndDivisible.swift; sourceTree = "<group>"; };
+		4033819828D3229700ABBCD2 /* FindGCDOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindGCDOfArray.swift; sourceTree = "<group>"; };
+		4033819A28D323D700ABBCD2 /* FindNumbersWithEvenNumberOfDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNumbersWithEvenNumberOfDigits.swift; sourceTree = "<group>"; };
+		4033819C28D3281D00ABBCD2 /* ArrayPartition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayPartition.swift; sourceTree = "<group>"; };
+		4033819E28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NrepeatedElementInSize2NArray.swift; sourceTree = "<group>"; };
+		403381A028D32A6D00ABBCD2 /* DivideArrayIntoPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideArrayIntoPairs.swift; sourceTree = "<group>"; };
+		403381A228D32D2E00ABBCD2 /* HeightChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeightChecker.swift; sourceTree = "<group>"; };
 		4050AE49288569E20037782F /* RemoveZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveZeros.swift; sourceTree = "<group>"; };
 		4050AE4B288572640037782F /* MaxWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxWealth.swift; sourceTree = "<group>"; };
 		4050AE512886951C0037782F /* MergeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeWords.swift; sourceTree = "<group>"; };
@@ -324,6 +344,16 @@
 		406A44552843DE33007BE6F6 /* Problems */ = {
 			isa = PBXGroup;
 			children = (
+				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
+				4033819828D3229700ABBCD2 /* FindGCDOfArray.swift */,
+				4033819A28D323D700ABBCD2 /* FindNumbersWithEvenNumberOfDigits.swift */,
+				4033819C28D3281D00ABBCD2 /* ArrayPartition.swift */,
+				4033819E28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift */,
+				403381A028D32A6D00ABBCD2 /* DivideArrayIntoPairs.swift */,
+				403381A228D32D2E00ABBCD2 /* HeightChecker.swift */,
+				4033819028D30D0800ABBCD2 /* NumberOfArithmeticTriplets.swift */,
+				4033819428D311E900ABBCD2 /* CountEqualAndDivisible.swift */,
+				4033819228D30E1C00ABBCD2 /* CountGoodTriplets.swift */,
 				400FC23528CA161D009CC30E /* SearchInsertPosition.swift */,
 				4033817E28D2067100ABBCD2 /* DecodeMessage.swift */,
 				4033818028D209BC00ABBCD2 /* CountItemsMatchingArule.swift */,
@@ -523,7 +553,9 @@
 				400FC23628CA161D009CC30E /* SearchInsertPosition.swift in Sources */,
 				400FC22228C79161009CC30E /* FindTheHighestAltitude.swift in Sources */,
 				407816FB28AA60450089BB06 /* AverageSalary.swift in Sources */,
+				4033819528D311E900ABBCD2 /* CountEqualAndDivisible.swift in Sources */,
 				406A44572843DE33007BE6F6 /* main.swift in Sources */,
+				403381A128D32A6D00ABBCD2 /* DivideArrayIntoPairs.swift in Sources */,
 				40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */,
 				408A3DCD28B3675300B0DF19 /* PowerOfFour.swift in Sources */,
 				4078171528AA63840089BB06 /* IsEqualColor.swift in Sources */,
@@ -531,6 +563,7 @@
 				400FC22A28C7A1A1009CC30E /* FindingTheUAM.swift in Sources */,
 				4033816228CF818600ABBCD2 /* MaxNumberOfPairs.swift in Sources */,
 				40F9C3CD28BF958900C72C5E /* DivisorGame.swift in Sources */,
+				4033819928D3229700ABBCD2 /* FindGCDOfArray.swift in Sources */,
 				40161FAB287D573400172E7E /* BinarySearch.swift in Sources */,
 				4033818528D2101A00ABBCD2 /* DetermineColorOfChessBoardSquare.swift in Sources */,
 				4033815228CB422B00ABBCD2 /* DestinationCity.swift in Sources */,
@@ -539,6 +572,7 @@
 				40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */,
 				4050AE5428869A360037782F /* Goal.swift in Sources */,
 				4078172528AA65430089BB06 /* ReturnReversed.swift in Sources */,
+				4033819128D30D0800ABBCD2 /* NumberOfArithmeticTriplets.swift in Sources */,
 				40D25FBD28B8D20A00CE8D05 /* CheckIfExists.swift in Sources */,
 				4078172728AA65560089BB06 /* FindAmountOfPairs.swift in Sources */,
 				40C5E8D52897CD25006F8C66 /* HaystackNeedle.swift in Sources */,
@@ -575,6 +609,7 @@
 				40D5892928C2003300FC157E /* SmallerNumbersThanCurrent.swift in Sources */,
 				4078172B28AA65CB0089BB06 /* CountOfLetters.swift in Sources */,
 				4050AE562886A15D0037782F /* FindTheDifference.swift in Sources */,
+				403381A328D32D2E00ABBCD2 /* HeightChecker.swift in Sources */,
 				40C97C3C28991535006EFB17 /* Subsequence.swift in Sources */,
 				4078170F28AA62490089BB06 /* LastStoneWeight.swift in Sources */,
 				4033818728D214D400ABBCD2 /* PercentageOfLetterInString.swift in Sources */,
@@ -591,6 +626,7 @@
 				40F9C3B928BCB12100C72C5E /* MinMovesToSeat.swift in Sources */,
 				408A919928AE329200231F15 /* MinSetSize.swift in Sources */,
 				4033816028CF80CE00ABBCD2 /* CountingWordsWithAgivenPrefix.swift in Sources */,
+				4033819B28D323D700ABBCD2 /* FindNumbersWithEvenNumberOfDigits.swift in Sources */,
 				40D5893528C5E13500FC157E /* CheckIfTwoStringAreEqual.swift in Sources */,
 				40F9C3C928BE35B200C72C5E /* ArithmeticSubarray.swift in Sources */,
 				4033814C28CA309900ABBCD2 /* SortingTheSentence.swift in Sources */,
@@ -603,6 +639,8 @@
 				40161FB528801CE100172E7E /* Perimeterr.swift in Sources */,
 				4078171F28AA64D20089BB06 /* FindTheAmountOfMaxNumber.swift in Sources */,
 				4033816628D09DB900ABBCD2 /* SortArrayByParity.swift in Sources */,
+				4033819D28D3281D00ABBCD2 /* ArrayPartition.swift in Sources */,
+				4033819F28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift in Sources */,
 				40D5892128C1FAF800FC157E /* FinalValueAfterOperations.swift in Sources */,
 				4033816A28D0A3CF00ABBCD2 /* FinalPricesWithASpecialDiscount.swift in Sources */,
 				4033815E28CF7EB900ABBCD2 /* FindClosestNumber.swift in Sources */,
@@ -631,6 +669,8 @@
 				408A3DCF28B36AD900B0DF19 /* CanBeIncreasing.swift in Sources */,
 				40C5E8D12897B9F6006F8C66 /* PivotIndex.swift in Sources */,
 				40161FAD287D57B200172E7E /* FirstBadVersion.swift in Sources */,
+				4033819328D30E1C00ABBCD2 /* CountGoodTriplets.swift in Sources */,
+				4033818F28D3067300ABBCD2 /* DecompressRunLengthEncode.swift in Sources */,
 				400FC22E28C8A64E009CC30E /* DesignStackWithIncrementOperation.swift in Sources */,
 				40F9C3BD28BCC80C00C72C5E /* MinimumOperations.swift in Sources */,
 				40D5892328C1FBA800FC157E /* MostWordsFound.swift in Sources */,
