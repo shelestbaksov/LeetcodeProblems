@@ -31,6 +31,9 @@
 		4016201128816B7600172E7E /* HappyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4016201028816B7600172E7E /* HappyNumber.swift */; };
 		401620132881773000172E7E /* EqualStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 401620122881773000172E7E /* EqualStrings.swift */; };
 		4016201C28854BB600172E7E /* NextGreaterElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4016201B28854BB600172E7E /* NextGreaterElement.swift */; };
+		402EF3C428D9AE9800A1D8A9 /* RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3C328D9AE9800A1D8A9 /* RotateString.swift */; };
+		402EF3C628D9B0D600A1D8A9 /* FindErrorNums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3C528D9B0D600A1D8A9 /* FindErrorNums.swift */; };
+		402EF3C828D9BCBA00A1D8A9 /* IntersectionOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3C728D9BCBA00A1D8A9 /* IntersectionOfTwoArrays.swift */; };
 		4033814828CA2CF100ABBCD2 /* DefangingAnIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814728CA2CF100ABBCD2 /* DefangingAnIPAddress.swift */; };
 		4033814A28CA2DD800ABBCD2 /* JewelsAndStones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814928CA2DD800ABBCD2 /* JewelsAndStones.swift */; };
 		4033814C28CA309900ABBCD2 /* SortingTheSentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814B28CA309900ABBCD2 /* SortingTheSentence.swift */; };
@@ -125,7 +128,6 @@
 		40D25FB328B618C100CE8D05 /* WateringPlants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D25FB228B618C000CE8D05 /* WateringPlants.swift */; };
 		40D25FB528B77C4100CE8D05 /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D25FB428B77C4100CE8D05 /* RansomNote.swift */; };
 		40D25FBD28B8D20A00CE8D05 /* CheckIfExists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D25FBC28B8D20A00CE8D05 /* CheckIfExists.swift */; };
-		40D25FBF28B8E66700CE8D05 /* SetMismatch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D25FBE28B8E66700CE8D05 /* SetMismatch.swift */; };
 		40D588B828C0952C00FC157E /* SingleNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B728C0952C00FC157E /* SingleNum.swift */; };
 		40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B928C09C6B00FC157E /* isPalindromeString.swift */; };
 		40D588BC28C0A2B500FC157E /* ReduceMapFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */; };
@@ -190,6 +192,9 @@
 		4016201028816B7600172E7E /* HappyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyNumber.swift; sourceTree = "<group>"; };
 		401620122881773000172E7E /* EqualStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EqualStrings.swift; sourceTree = "<group>"; };
 		4016201B28854BB600172E7E /* NextGreaterElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreaterElement.swift; sourceTree = "<group>"; };
+		402EF3C328D9AE9800A1D8A9 /* RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateString.swift; sourceTree = "<group>"; };
+		402EF3C528D9B0D600A1D8A9 /* FindErrorNums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindErrorNums.swift; sourceTree = "<group>"; };
+		402EF3C728D9BCBA00A1D8A9 /* IntersectionOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays.swift; sourceTree = "<group>"; };
 		4033814728CA2CF100ABBCD2 /* DefangingAnIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefangingAnIPAddress.swift; sourceTree = "<group>"; };
 		4033814928CA2DD800ABBCD2 /* JewelsAndStones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JewelsAndStones.swift; sourceTree = "<group>"; };
 		4033814B28CA309900ABBCD2 /* SortingTheSentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingTheSentence.swift; sourceTree = "<group>"; };
@@ -285,7 +290,6 @@
 		40D25FB228B618C000CE8D05 /* WateringPlants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WateringPlants.swift; sourceTree = "<group>"; };
 		40D25FB428B77C4100CE8D05 /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
 		40D25FBC28B8D20A00CE8D05 /* CheckIfExists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfExists.swift; sourceTree = "<group>"; };
-		40D25FBE28B8E66700CE8D05 /* SetMismatch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMismatch.swift; sourceTree = "<group>"; };
 		40D588B728C0952C00FC157E /* SingleNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNum.swift; sourceTree = "<group>"; };
 		40D588B928C09C6B00FC157E /* isPalindromeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPalindromeString.swift; sourceTree = "<group>"; };
 		40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMapFilter.swift; sourceTree = "<group>"; };
@@ -345,6 +349,9 @@
 			isa = PBXGroup;
 			children = (
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
+				402EF3C328D9AE9800A1D8A9 /* RotateString.swift */,
+				402EF3C728D9BCBA00A1D8A9 /* IntersectionOfTwoArrays.swift */,
+				402EF3C528D9B0D600A1D8A9 /* FindErrorNums.swift */,
 				4033819828D3229700ABBCD2 /* FindGCDOfArray.swift */,
 				4033819A28D323D700ABBCD2 /* FindNumbersWithEvenNumberOfDigits.swift */,
 				4033819C28D3281D00ABBCD2 /* ArrayPartition.swift */,
@@ -415,7 +422,6 @@
 				40F9C3BC28BCC80C00C72C5E /* MinimumOperations.swift */,
 				40D25FB428B77C4100CE8D05 /* RansomNote.swift */,
 				40D25FBC28B8D20A00CE8D05 /* CheckIfExists.swift */,
-				40D25FBE28B8E66700CE8D05 /* SetMismatch.swift */,
 				40D25FB028B60DA800CE8D05 /* MinOperations.swift */,
 				408A3DAC28AE584400B0DF19 /* MinCost.swift */,
 				408A3DD428B3D8E900B0DF19 /* ValidPerfectSquare.swift */,
@@ -549,6 +555,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				402EF3C628D9B0D600A1D8A9 /* FindErrorNums.swift in Sources */,
 				4078170728AA61720089BB06 /* Fibonacci.swift in Sources */,
 				400FC23628CA161D009CC30E /* SearchInsertPosition.swift in Sources */,
 				400FC22228C79161009CC30E /* FindTheHighestAltitude.swift in Sources */,
@@ -640,6 +647,7 @@
 				4078171F28AA64D20089BB06 /* FindTheAmountOfMaxNumber.swift in Sources */,
 				4033816628D09DB900ABBCD2 /* SortArrayByParity.swift in Sources */,
 				4033819D28D3281D00ABBCD2 /* ArrayPartition.swift in Sources */,
+				402EF3C828D9BCBA00A1D8A9 /* IntersectionOfTwoArrays.swift in Sources */,
 				4033819F28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift in Sources */,
 				40D5892128C1FAF800FC157E /* FinalValueAfterOperations.swift in Sources */,
 				4033816A28D0A3CF00ABBCD2 /* FinalPricesWithASpecialDiscount.swift in Sources */,
@@ -674,6 +682,7 @@
 				400FC22E28C8A64E009CC30E /* DesignStackWithIncrementOperation.swift in Sources */,
 				40F9C3BD28BCC80C00C72C5E /* MinimumOperations.swift in Sources */,
 				40D5892328C1FBA800FC157E /* MostWordsFound.swift in Sources */,
+				402EF3C428D9AE9800A1D8A9 /* RotateString.swift in Sources */,
 				40161FAF287D5F0700172E7E /* MergeTwoSortedLists.swift in Sources */,
 				40D25FAF28B60B6600CE8D05 /* PowerOfThree.swift in Sources */,
 				4033815428CB426300ABBCD2 /* ReversePrefixOfWord.swift in Sources */,
@@ -691,7 +700,6 @@
 				40161FB1287EB30700172E7E /* ProductAndSum.swift in Sources */,
 				40D25FB128B60DA800CE8D05 /* MinOperations.swift in Sources */,
 				4078177528ABC70D0089BB06 /* GroupThePeople.swift in Sources */,
-				40D25FBF28B8E66700CE8D05 /* SetMismatch.swift in Sources */,
 				4033818328D20E3E00ABBCD2 /* GenerateStringWithCharacters.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
