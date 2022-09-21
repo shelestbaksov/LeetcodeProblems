@@ -42,6 +42,8 @@
 		402EF3DA28DB043F00A1D8A9 /* MinNumberOfOperationsToConvertTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3D928DB043F00A1D8A9 /* MinNumberOfOperationsToConvertTime.swift */; };
 		402EF3DC28DB10A600A1D8A9 /* UglyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3DB28DB10A600A1D8A9 /* UglyNumber.swift */; };
 		402EF3DE28DB1AEF00A1D8A9 /* RearrangeSpaces.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3DD28DB1AEF00A1D8A9 /* RearrangeSpaces.swift */; };
+		402EF3E028DB4BFD00A1D8A9 /* GuessNumberHigherOrLower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3DF28DB4BFD00A1D8A9 /* GuessNumberHigherOrLower.swift */; };
+		402EF3E228DB579A00A1D8A9 /* ConvertNumToHexadecimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3E128DB579A00A1D8A9 /* ConvertNumToHexadecimal.swift */; };
 		4033814828CA2CF100ABBCD2 /* DefangingAnIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814728CA2CF100ABBCD2 /* DefangingAnIPAddress.swift */; };
 		4033814A28CA2DD800ABBCD2 /* JewelsAndStones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814928CA2DD800ABBCD2 /* JewelsAndStones.swift */; };
 		4033814C28CA309900ABBCD2 /* SortingTheSentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814B28CA309900ABBCD2 /* SortingTheSentence.swift */; };
@@ -211,6 +213,8 @@
 		402EF3D928DB043F00A1D8A9 /* MinNumberOfOperationsToConvertTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinNumberOfOperationsToConvertTime.swift; sourceTree = "<group>"; };
 		402EF3DB28DB10A600A1D8A9 /* UglyNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UglyNumber.swift; sourceTree = "<group>"; };
 		402EF3DD28DB1AEF00A1D8A9 /* RearrangeSpaces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RearrangeSpaces.swift; sourceTree = "<group>"; };
+		402EF3DF28DB4BFD00A1D8A9 /* GuessNumberHigherOrLower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessNumberHigherOrLower.swift; sourceTree = "<group>"; };
+		402EF3E128DB579A00A1D8A9 /* ConvertNumToHexadecimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertNumToHexadecimal.swift; sourceTree = "<group>"; };
 		4033814728CA2CF100ABBCD2 /* DefangingAnIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefangingAnIPAddress.swift; sourceTree = "<group>"; };
 		4033814928CA2DD800ABBCD2 /* JewelsAndStones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JewelsAndStones.swift; sourceTree = "<group>"; };
 		4033814B28CA309900ABBCD2 /* SortingTheSentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingTheSentence.swift; sourceTree = "<group>"; };
@@ -369,6 +373,8 @@
 				402EF3D928DB043F00A1D8A9 /* MinNumberOfOperationsToConvertTime.swift */,
 				402EF3DB28DB10A600A1D8A9 /* UglyNumber.swift */,
 				402EF3DD28DB1AEF00A1D8A9 /* RearrangeSpaces.swift */,
+				402EF3DF28DB4BFD00A1D8A9 /* GuessNumberHigherOrLower.swift */,
+				402EF3E128DB579A00A1D8A9 /* ConvertNumToHexadecimal.swift */,
 				402EF3C328D9AE9800A1D8A9 /* RotateString.swift */,
 				402EF3C728D9BCBA00A1D8A9 /* IntersectionOfTwoArrays.swift */,
 				402EF3C928D9CF6B00A1D8A9 /* LengthOfLastWord.swift */,
@@ -640,6 +646,7 @@
 				4033814A28CA2DD800ABBCD2 /* JewelsAndStones.swift in Sources */,
 				40F9C3CB28BF4E4C00C72C5E /* ConvertToBaseSeven.swift in Sources */,
 				400FC23028C8AA30009CC30E /* FindAllDisappearedNumbers.swift in Sources */,
+				402EF3E228DB579A00A1D8A9 /* ConvertNumToHexadecimal.swift in Sources */,
 				402EF3DA28DB043F00A1D8A9 /* MinNumberOfOperationsToConvertTime.swift in Sources */,
 				40D5892928C2003300FC157E /* SmallerNumbersThanCurrent.swift in Sources */,
 				4078172B28AA65CB0089BB06 /* CountOfLetters.swift in Sources */,
@@ -678,6 +685,7 @@
 				4033819D28D3281D00ABBCD2 /* ArrayPartition.swift in Sources */,
 				402EF3C828D9BCBA00A1D8A9 /* IntersectionOfTwoArrays.swift in Sources */,
 				4033819F28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift in Sources */,
+				402EF3E028DB4BFD00A1D8A9 /* GuessNumberHigherOrLower.swift in Sources */,
 				40D5892128C1FAF800FC157E /* FinalValueAfterOperations.swift in Sources */,
 				4033816A28D0A3CF00ABBCD2 /* FinalPricesWithASpecialDiscount.swift in Sources */,
 				4033815E28CF7EB900ABBCD2 /* FindClosestNumber.swift in Sources */,

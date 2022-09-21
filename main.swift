@@ -1,2 +1,2 @@
 
-print(reorderSpaces("a a a a"))
+print(toHex(26))
