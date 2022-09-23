@@ -55,6 +55,9 @@
 		402EF3F628DCA08600A1D8A9 /* MaximumBagsWithFullCapcity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3F528DCA08600A1D8A9 /* MaximumBagsWithFullCapcity.swift */; };
 		402EF3F828DDC32D00A1D8A9 /* PartitionArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3F728DDC32D00A1D8A9 /* PartitionArray.swift */; };
 		402EF3FA28DDCD4300A1D8A9 /* MinimizeMaxPairSumInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3F928DDCD4300A1D8A9 /* MinimizeMaxPairSumInArray.swift */; };
+		402EF3FC28DDDF2600A1D8A9 /* SmallestEvenMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3FB28DDDF2600A1D8A9 /* SmallestEvenMultiple.swift */; };
+		402EF3FE28DDECE500A1D8A9 /* RootEqualsSumOfChildren.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3FD28DDECE500A1D8A9 /* RootEqualsSumOfChildren.swift */; };
+		402EF40028DDEEB200A1D8A9 /* RingsAndRods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF3FF28DDEEB200A1D8A9 /* RingsAndRods.swift */; };
 		4033814828CA2CF100ABBCD2 /* DefangingAnIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814728CA2CF100ABBCD2 /* DefangingAnIPAddress.swift */; };
 		4033814A28CA2DD800ABBCD2 /* JewelsAndStones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814928CA2DD800ABBCD2 /* JewelsAndStones.swift */; };
 		4033814C28CA309900ABBCD2 /* SortingTheSentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814B28CA309900ABBCD2 /* SortingTheSentence.swift */; };
@@ -237,6 +240,9 @@
 		402EF3F528DCA08600A1D8A9 /* MaximumBagsWithFullCapcity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumBagsWithFullCapcity.swift; sourceTree = "<group>"; };
 		402EF3F728DDC32D00A1D8A9 /* PartitionArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionArray.swift; sourceTree = "<group>"; };
 		402EF3F928DDCD4300A1D8A9 /* MinimizeMaxPairSumInArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizeMaxPairSumInArray.swift; sourceTree = "<group>"; };
+		402EF3FB28DDDF2600A1D8A9 /* SmallestEvenMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestEvenMultiple.swift; sourceTree = "<group>"; };
+		402EF3FD28DDECE500A1D8A9 /* RootEqualsSumOfChildren.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootEqualsSumOfChildren.swift; sourceTree = "<group>"; };
+		402EF3FF28DDEEB200A1D8A9 /* RingsAndRods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingsAndRods.swift; sourceTree = "<group>"; };
 		4033814728CA2CF100ABBCD2 /* DefangingAnIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefangingAnIPAddress.swift; sourceTree = "<group>"; };
 		4033814928CA2DD800ABBCD2 /* JewelsAndStones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JewelsAndStones.swift; sourceTree = "<group>"; };
 		4033814B28CA309900ABBCD2 /* SortingTheSentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingTheSentence.swift; sourceTree = "<group>"; };
@@ -401,6 +407,9 @@
 				402EF3F528DCA08600A1D8A9 /* MaximumBagsWithFullCapcity.swift */,
 				402EF3F728DDC32D00A1D8A9 /* PartitionArray.swift */,
 				402EF3F928DDCD4300A1D8A9 /* MinimizeMaxPairSumInArray.swift */,
+				402EF3FB28DDDF2600A1D8A9 /* SmallestEvenMultiple.swift */,
+				402EF3FD28DDECE500A1D8A9 /* RootEqualsSumOfChildren.swift */,
+				402EF3FF28DDEEB200A1D8A9 /* RingsAndRods.swift */,
 				402EF3D728DAFAA700A1D8A9 /* MinimumAmountOfTimeToFillCups.swift */,
 				402EF3D928DB043F00A1D8A9 /* MinNumberOfOperationsToConvertTime.swift */,
 				402EF3DB28DB10A600A1D8A9 /* UglyNumber.swift */,
@@ -630,6 +639,7 @@
 				403381A128D32A6D00ABBCD2 /* DivideArrayIntoPairs.swift in Sources */,
 				40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */,
 				408A3DCD28B3675300B0DF19 /* PowerOfFour.swift in Sources */,
+				402EF3FE28DDECE500A1D8A9 /* RootEqualsSumOfChildren.swift in Sources */,
 				4078171528AA63840089BB06 /* IsEqualColor.swift in Sources */,
 				402EF3F428DC991100A1D8A9 /* MaximumUnitsOnATrack.swift in Sources */,
 				4033818B28D21CEB00ABBCD2 /* CheckIfAllAAppersBeforeB.swift in Sources */,
@@ -782,7 +792,9 @@
 				4016200D28814EA700172E7E /* SignFunc.swift in Sources */,
 				4078172928AA656D0089BB06 /* GetNewSortedArray.swift in Sources */,
 				40161FB1287EB30700172E7E /* ProductAndSum.swift in Sources */,
+				402EF3FC28DDDF2600A1D8A9 /* SmallestEvenMultiple.swift in Sources */,
 				40D25FB128B60DA800CE8D05 /* MinOperations.swift in Sources */,
+				402EF40028DDEEB200A1D8A9 /* RingsAndRods.swift in Sources */,
 				4078177528ABC70D0089BB06 /* GroupThePeople.swift in Sources */,
 				4033818328D20E3E00ABBCD2 /* GenerateStringWithCharacters.swift in Sources */,
 			);
