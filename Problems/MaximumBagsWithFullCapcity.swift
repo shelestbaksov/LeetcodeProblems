@@ -16,7 +16,7 @@ func maximumBags(_ capacity: [Int], _ rocks: [Int], _ additionalRocks: Int) -> I
     }
     
     for rocksInNeed in rocksNeeded.sorted(by: <) {
-        if rocksInNeed >= 0 && remainder > rocksInNeed {
+        if rocksInNeed >= 0 && remainder >= rocksInNeed {
             result += 1
             remainder -= rocksInNeed
         }
