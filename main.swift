@@ -1,2 +1,2 @@
 
-print(minSteps("leetcode", "coats"))
+print(stoneGame([5,3,4,5]))
