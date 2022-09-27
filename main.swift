@@ -1,2 +1,2 @@
 
-print(selfDividingNumbers(1, 22))
+print(minSteps("leetcode", "coats"))
