@@ -1,2 +1,1 @@
-print(addSpaces("LeetcodeHelpsMeLearn",
-                [8,13,15]))
+print(removeElements(ListNode(7, ListNode(7, ListNode(7, ListNode(7)))), 7))
