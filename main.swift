@@ -1,1 +1,1 @@
-print(removeElements(ListNode(7, ListNode(7, ListNode(7, ListNode(7)))), 7))
+print(findWords(["Hello","Alaska","Dad","Peace"]))
