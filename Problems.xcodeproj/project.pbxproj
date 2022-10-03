@@ -91,6 +91,8 @@
 		402EF44A28E7028300A1D8A9 /* DistributeCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF44928E7028300A1D8A9 /* DistributeCandies.swift */; };
 		402EF44C28E710C000A1D8A9 /* DesignHashMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF44B28E710C000A1D8A9 /* DesignHashMap.swift */; };
 		402EF44E28EAC72200A1D8A9 /* DesignHashSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF44D28EAC72200A1D8A9 /* DesignHashSet.swift */; };
+		402EF45028EACAD300A1D8A9 /* MinPartitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF44F28EACAD300A1D8A9 /* MinPartitions.swift */; };
+		402EF45228EACDCE00A1D8A9 /* MinimumSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF45128EACDCE00A1D8A9 /* MinimumSum.swift */; };
 		4033814828CA2CF100ABBCD2 /* DefangingAnIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814728CA2CF100ABBCD2 /* DefangingAnIPAddress.swift */; };
 		4033814A28CA2DD800ABBCD2 /* JewelsAndStones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814928CA2DD800ABBCD2 /* JewelsAndStones.swift */; };
 		4033814C28CA309900ABBCD2 /* SortingTheSentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814B28CA309900ABBCD2 /* SortingTheSentence.swift */; };
@@ -309,6 +311,8 @@
 		402EF44928E7028300A1D8A9 /* DistributeCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistributeCandies.swift; sourceTree = "<group>"; };
 		402EF44B28E710C000A1D8A9 /* DesignHashMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignHashMap.swift; sourceTree = "<group>"; };
 		402EF44D28EAC72200A1D8A9 /* DesignHashSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignHashSet.swift; sourceTree = "<group>"; };
+		402EF44F28EACAD300A1D8A9 /* MinPartitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinPartitions.swift; sourceTree = "<group>"; };
+		402EF45128EACDCE00A1D8A9 /* MinimumSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumSum.swift; sourceTree = "<group>"; };
 		4033814728CA2CF100ABBCD2 /* DefangingAnIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefangingAnIPAddress.swift; sourceTree = "<group>"; };
 		4033814928CA2DD800ABBCD2 /* JewelsAndStones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JewelsAndStones.swift; sourceTree = "<group>"; };
 		4033814B28CA309900ABBCD2 /* SortingTheSentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingTheSentence.swift; sourceTree = "<group>"; };
@@ -470,6 +474,8 @@
 				402EF44928E7028300A1D8A9 /* DistributeCandies.swift */,
 				402EF44B28E710C000A1D8A9 /* DesignHashMap.swift */,
 				402EF44D28EAC72200A1D8A9 /* DesignHashSet.swift */,
+				402EF44F28EACAD300A1D8A9 /* MinPartitions.swift */,
+				402EF45128EACDCE00A1D8A9 /* MinimumSum.swift */,
 				402EF43128E4806C00A1D8A9 /* RemoveStonesToMinimize.swift */,
 				402EF43328E49CA700A1D8A9 /* AddingSpaces.swift */,
 				402EF43728E5A51D00A1D8A9 /* ConvertBinaryToIntLinkedList.swift */,
@@ -823,6 +829,7 @@
 				4033814828CA2CF100ABBCD2 /* DefangingAnIPAddress.swift in Sources */,
 				40D5893928C5E67E00FC157E /* MaximumProductDifference.swift in Sources */,
 				40D588B828C0952C00FC157E /* SingleNum.swift in Sources */,
+				402EF45228EACDCE00A1D8A9 /* MinimumSum.swift in Sources */,
 				408A3DD728B4BE6200B0DF19 /* LinkedListIsPalindrome.swift in Sources */,
 				4016201C28854BB600172E7E /* NextGreaterElement.swift in Sources */,
 				4078171928AA63FA0089BB06 /* PrintAllNumbersFrom.swift in Sources */,
@@ -833,6 +840,7 @@
 				4033816028CF80CE00ABBCD2 /* CountingWordsWithAgivenPrefix.swift in Sources */,
 				402EF40228E1970C00A1D8A9 /* BalancedSplitString.swift in Sources */,
 				402EF44428E6E75C00A1D8A9 /* ReverseVowelsOfString.swift in Sources */,
+				402EF45028EACAD300A1D8A9 /* MinPartitions.swift in Sources */,
 				4033819B28D323D700ABBCD2 /* FindNumbersWithEvenNumberOfDigits.swift in Sources */,
 				40D5893528C5E13500FC157E /* CheckIfTwoStringAreEqual.swift in Sources */,
 				40F9C3C928BE35B200C72C5E /* ArithmeticSubarray.swift in Sources */,
