@@ -1,1 +1,1 @@
-print(minimumSum(2932))
+print(sumBase(34, 6))
