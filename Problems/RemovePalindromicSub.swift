@@ -9,5 +9,5 @@ import Foundation
 
 func removePalindromeSub(_ s: String) -> Int {
  
-    return s == s.reversed() ? 1 : 2
+    return String(s) == String(s.reversed()) ? 1 : 2
 }
