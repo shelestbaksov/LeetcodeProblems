@@ -31,6 +31,7 @@
 		4015230628EDA44E00168595 /* SmallestIndexWithEqualValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015230528EDA44E00168595 /* SmallestIndexWithEqualValue.swift */; };
 		4015230828EDABFB00168595 /* IntersectionOfMultipleArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015230728EDABFB00168595 /* IntersectionOfMultipleArrays.swift */; };
 		4015230A28EDAE1800168595 /* FindDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015230928EDAE1800168595 /* FindDifference.swift */; };
+		4015230C28EDB83D00168595 /* FindTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015230B28EDB83D00168595 /* FindTriplets.swift */; };
 		40161FA5287C2CC700172E7E /* Skobochki.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA4287C2CC700172E7E /* Skobochki.swift */; };
 		40161FA7287D56DF00172E7E /* RomanToInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA6287D56DE00172E7E /* RomanToInt.swift */; };
 		40161FA9287D570600172E7E /* LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA8287D570600172E7E /* LongestCommonPrefix.swift */; };
@@ -265,6 +266,7 @@
 		4015230528EDA44E00168595 /* SmallestIndexWithEqualValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestIndexWithEqualValue.swift; sourceTree = "<group>"; };
 		4015230728EDABFB00168595 /* IntersectionOfMultipleArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfMultipleArrays.swift; sourceTree = "<group>"; };
 		4015230928EDAE1800168595 /* FindDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDifference.swift; sourceTree = "<group>"; };
+		4015230B28EDB83D00168595 /* FindTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTriplets.swift; sourceTree = "<group>"; };
 		40161FA4287C2CC700172E7E /* Skobochki.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skobochki.swift; sourceTree = "<group>"; };
 		40161FA6287D56DE00172E7E /* RomanToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInt.swift; sourceTree = "<group>"; };
 		40161FA8287D570600172E7E /* LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix.swift; sourceTree = "<group>"; };
@@ -712,6 +714,7 @@
 				4015230528EDA44E00168595 /* SmallestIndexWithEqualValue.swift */,
 				4015230728EDABFB00168595 /* IntersectionOfMultipleArrays.swift */,
 				4015230928EDAE1800168595 /* FindDifference.swift */,
+				4015230B28EDB83D00168595 /* FindTriplets.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -859,6 +862,7 @@
 				402EF3E628DC509300A1D8A9 /* MinimumIndexSumOfTwoLists.swift in Sources */,
 				402EF3E228DB579A00A1D8A9 /* ConvertNumToHexadecimal.swift in Sources */,
 				402EF3DA28DB043F00A1D8A9 /* MinNumberOfOperationsToConvertTime.swift in Sources */,
+				4015230C28EDB83D00168595 /* FindTriplets.swift in Sources */,
 				40D5892928C2003300FC157E /* SmallerNumbersThanCurrent.swift in Sources */,
 				402EF40C28E1A32700A1D8A9 /* SelfDividingNumbers.swift in Sources */,
 				4078172B28AA65CB0089BB06 /* CountOfLetters.swift in Sources */,
