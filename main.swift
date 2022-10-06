@@ -1,3 +1,1 @@
-print(divideString("ctoyjrwtngqwt",
-                   8,
-                   "n"))
+print(transpose([[1,2,3],[4,5,6]]))

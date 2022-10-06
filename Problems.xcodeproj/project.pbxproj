@@ -35,6 +35,8 @@
 		4015230E28EEC03800168595 /* GoatLatin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015230D28EEC03800168595 /* GoatLatin.swift */; };
 		4015231028EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015230F28EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift */; };
 		4015231228EED33C00168595 /* DivideString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231128EED33C00168595 /* DivideString.swift */; };
+		4015231428EEDA2400168595 /* FindLucky.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231328EEDA2400168595 /* FindLucky.swift */; };
+		4015231628EEDC2B00168595 /* TransposeMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231528EEDC2B00168595 /* TransposeMatrix.swift */; };
 		40161FA5287C2CC700172E7E /* Skobochki.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA4287C2CC700172E7E /* Skobochki.swift */; };
 		40161FA7287D56DF00172E7E /* RomanToInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA6287D56DE00172E7E /* RomanToInt.swift */; };
 		40161FA9287D570600172E7E /* LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA8287D570600172E7E /* LongestCommonPrefix.swift */; };
@@ -273,6 +275,8 @@
 		4015230D28EEC03800168595 /* GoatLatin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoatLatin.swift; sourceTree = "<group>"; };
 		4015230F28EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoFurthestHousesWithDifferentColors.swift; sourceTree = "<group>"; };
 		4015231128EED33C00168595 /* DivideString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideString.swift; sourceTree = "<group>"; };
+		4015231328EEDA2400168595 /* FindLucky.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindLucky.swift; sourceTree = "<group>"; };
+		4015231528EEDC2B00168595 /* TransposeMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransposeMatrix.swift; sourceTree = "<group>"; };
 		40161FA4287C2CC700172E7E /* Skobochki.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skobochki.swift; sourceTree = "<group>"; };
 		40161FA6287D56DE00172E7E /* RomanToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInt.swift; sourceTree = "<group>"; };
 		40161FA8287D570600172E7E /* LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix.swift; sourceTree = "<group>"; };
@@ -724,6 +728,8 @@
 				4015230D28EEC03800168595 /* GoatLatin.swift */,
 				4015230F28EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift */,
 				4015231128EED33C00168595 /* DivideString.swift */,
+				4015231328EEDA2400168595 /* FindLucky.swift */,
+				4015231528EEDC2B00168595 /* TransposeMatrix.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -869,6 +875,7 @@
 				4033814A28CA2DD800ABBCD2 /* JewelsAndStones.swift in Sources */,
 				40F9C3CB28BF4E4C00C72C5E /* ConvertToBaseSeven.swift in Sources */,
 				400FC23028C8AA30009CC30E /* FindAllDisappearedNumbers.swift in Sources */,
+				4015231428EEDA2400168595 /* FindLucky.swift in Sources */,
 				402EF3E628DC509300A1D8A9 /* MinimumIndexSumOfTwoLists.swift in Sources */,
 				402EF3E228DB579A00A1D8A9 /* ConvertNumToHexadecimal.swift in Sources */,
 				402EF3DA28DB043F00A1D8A9 /* MinNumberOfOperationsToConvertTime.swift in Sources */,
@@ -900,6 +907,7 @@
 				402EF3D828DAFAA700A1D8A9 /* MinimumAmountOfTimeToFillCups.swift in Sources */,
 				408A919928AE329200231F15 /* MinSetSize.swift in Sources */,
 				4015231028EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift in Sources */,
+				4015231628EEDC2B00168595 /* TransposeMatrix.swift in Sources */,
 				4015230428ED98D200168595 /* RemoveDuplicates.swift in Sources */,
 				4033816028CF80CE00ABBCD2 /* CountingWordsWithAgivenPrefix.swift in Sources */,
 				402EF40228E1970C00A1D8A9 /* BalancedSplitString.swift in Sources */,
