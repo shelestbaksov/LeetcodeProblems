@@ -1,1 +1,3 @@
-print(replaceElements([17,18,5,4,6,1]))
+print(divideString("ctoyjrwtngqwt",
+                   8,
+                   "n"))

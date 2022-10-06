@@ -32,6 +32,9 @@
 		4015230828EDABFB00168595 /* IntersectionOfMultipleArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015230728EDABFB00168595 /* IntersectionOfMultipleArrays.swift */; };
 		4015230A28EDAE1800168595 /* FindDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015230928EDAE1800168595 /* FindDifference.swift */; };
 		4015230C28EDB83D00168595 /* FindTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015230B28EDB83D00168595 /* FindTriplets.swift */; };
+		4015230E28EEC03800168595 /* GoatLatin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015230D28EEC03800168595 /* GoatLatin.swift */; };
+		4015231028EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015230F28EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift */; };
+		4015231228EED33C00168595 /* DivideString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231128EED33C00168595 /* DivideString.swift */; };
 		40161FA5287C2CC700172E7E /* Skobochki.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA4287C2CC700172E7E /* Skobochki.swift */; };
 		40161FA7287D56DF00172E7E /* RomanToInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA6287D56DE00172E7E /* RomanToInt.swift */; };
 		40161FA9287D570600172E7E /* LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA8287D570600172E7E /* LongestCommonPrefix.swift */; };
@@ -267,6 +270,9 @@
 		4015230728EDABFB00168595 /* IntersectionOfMultipleArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfMultipleArrays.swift; sourceTree = "<group>"; };
 		4015230928EDAE1800168595 /* FindDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDifference.swift; sourceTree = "<group>"; };
 		4015230B28EDB83D00168595 /* FindTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTriplets.swift; sourceTree = "<group>"; };
+		4015230D28EEC03800168595 /* GoatLatin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoatLatin.swift; sourceTree = "<group>"; };
+		4015230F28EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoFurthestHousesWithDifferentColors.swift; sourceTree = "<group>"; };
+		4015231128EED33C00168595 /* DivideString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideString.swift; sourceTree = "<group>"; };
 		40161FA4287C2CC700172E7E /* Skobochki.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skobochki.swift; sourceTree = "<group>"; };
 		40161FA6287D56DE00172E7E /* RomanToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInt.swift; sourceTree = "<group>"; };
 		40161FA8287D570600172E7E /* LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix.swift; sourceTree = "<group>"; };
@@ -715,6 +721,9 @@
 				4015230728EDABFB00168595 /* IntersectionOfMultipleArrays.swift */,
 				4015230928EDAE1800168595 /* FindDifference.swift */,
 				4015230B28EDB83D00168595 /* FindTriplets.swift */,
+				4015230D28EEC03800168595 /* GoatLatin.swift */,
+				4015230F28EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift */,
+				4015231128EED33C00168595 /* DivideString.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -852,6 +861,7 @@
 				4078171728AA63D80089BB06 /* IsPowerOfTwo.swift in Sources */,
 				40F9C3CF28BFA78B00C72C5E /* Sqrt(x).swift in Sources */,
 				4033818928D21A1900ABBCD2 /* CountPrefixes.swift in Sources */,
+				4015231228EED33C00168595 /* DivideString.swift in Sources */,
 				407816FF28AA608C0089BB06 /* AccumulatingFunc.swift in Sources */,
 				402EF40A28E1A15F00A1D8A9 /* DetermineIfStringHalvesAreAlike.swift in Sources */,
 				402EF41628E2DCE300A1D8A9 /* RemoveAllOccurences.swift in Sources */,
@@ -889,6 +899,7 @@
 				40F9C3B928BCB12100C72C5E /* MinMovesToSeat.swift in Sources */,
 				402EF3D828DAFAA700A1D8A9 /* MinimumAmountOfTimeToFillCups.swift in Sources */,
 				408A919928AE329200231F15 /* MinSetSize.swift in Sources */,
+				4015231028EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift in Sources */,
 				4015230428ED98D200168595 /* RemoveDuplicates.swift in Sources */,
 				4033816028CF80CE00ABBCD2 /* CountingWordsWithAgivenPrefix.swift in Sources */,
 				402EF40228E1970C00A1D8A9 /* BalancedSplitString.swift in Sources */,
@@ -903,6 +914,7 @@
 				408A3DD328B39C0000B0DF19 /* HasGroupSizeX.swift in Sources */,
 				402EF44C28E710C000A1D8A9 /* DesignHashMap.swift in Sources */,
 				40D5893728C5E31400FC157E /* TruncateSentence.swift in Sources */,
+				4015230E28EEC03800168595 /* GoatLatin.swift in Sources */,
 				40F9C3C128BDFD3B00C72C5E /* Intersection.swift in Sources */,
 				401620132881773000172E7E /* EqualStrings.swift in Sources */,
 				4078170D28AA62250089BB06 /* BackSpaceCompare.swift in Sources */,
