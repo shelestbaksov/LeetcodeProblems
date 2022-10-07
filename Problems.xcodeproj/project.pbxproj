@@ -40,6 +40,9 @@
 		4015231828EEE11A00168595 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231728EEE11A00168595 /* AddDigits.swift */; };
 		4015231A28F0113100168595 /* IsLongPressedName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231928F0113100168595 /* IsLongPressedName.swift */; };
 		4015231E28F02B9600168595 /* ContainsNearbyDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231D28F02B9600168595 /* ContainsNearbyDuplicate.swift */; };
+		4015232028F0467300168595 /* MostCommonWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231F28F0467300168595 /* MostCommonWord.swift */; };
+		4015232228F04F7100168595 /* AddToArrayForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015232128F04F7100168595 /* AddToArrayForm.swift */; };
+		4015232628F05B0400168595 /* CheckIfIsInArange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015232528F05B0400168595 /* CheckIfIsInArange.swift */; };
 		40161FA5287C2CC700172E7E /* Skobochki.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA4287C2CC700172E7E /* Skobochki.swift */; };
 		40161FA7287D56DF00172E7E /* RomanToInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA6287D56DE00172E7E /* RomanToInt.swift */; };
 		40161FA9287D570600172E7E /* LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA8287D570600172E7E /* LongestCommonPrefix.swift */; };
@@ -283,6 +286,9 @@
 		4015231728EEE11A00168595 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
 		4015231928F0113100168595 /* IsLongPressedName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsLongPressedName.swift; sourceTree = "<group>"; };
 		4015231D28F02B9600168595 /* ContainsNearbyDuplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsNearbyDuplicate.swift; sourceTree = "<group>"; };
+		4015231F28F0467300168595 /* MostCommonWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostCommonWord.swift; sourceTree = "<group>"; };
+		4015232128F04F7100168595 /* AddToArrayForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToArrayForm.swift; sourceTree = "<group>"; };
+		4015232528F05B0400168595 /* CheckIfIsInArange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfIsInArange.swift; sourceTree = "<group>"; };
 		40161FA4287C2CC700172E7E /* Skobochki.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skobochki.swift; sourceTree = "<group>"; };
 		40161FA6287D56DE00172E7E /* RomanToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInt.swift; sourceTree = "<group>"; };
 		40161FA8287D570600172E7E /* LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix.swift; sourceTree = "<group>"; };
@@ -513,6 +519,8 @@
 			isa = PBXGroup;
 			children = (
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
+				4015232128F04F7100168595 /* AddToArrayForm.swift */,
+				4015232528F05B0400168595 /* CheckIfIsInArange.swift */,
 				4015231928F0113100168595 /* IsLongPressedName.swift */,
 				401522F128EC2AB400168595 /* CheckOccurancesOfAllCharacters.swift */,
 				401522F328EC323E00168595 /* SumOfDigitsInBase.swift */,
@@ -739,6 +747,7 @@
 				4015231528EEDC2B00168595 /* TransposeMatrix.swift */,
 				4015231728EEE11A00168595 /* AddDigits.swift */,
 				4015231D28F02B9600168595 /* ContainsNearbyDuplicate.swift */,
+				4015231F28F0467300168595 /* MostCommonWord.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -846,6 +855,7 @@
 				4089E8C5289A7C4800F52F84 /* LinkedListsMerge.swift in Sources */,
 				4015231E28F02B9600168595 /* ContainsNearbyDuplicate.swift in Sources */,
 				402EF3F828DDC32D00A1D8A9 /* PartitionArray.swift in Sources */,
+				4015232628F05B0400168595 /* CheckIfIsInArange.swift in Sources */,
 				402EF3DC28DB10A600A1D8A9 /* UglyNumber.swift in Sources */,
 				40D5891F28C1FA2C00FC157E /* BuildArrayPermutation.swift in Sources */,
 				4078177328ABB0110089BB06 /* FirstUniqueChar.swift in Sources */,
@@ -998,6 +1008,8 @@
 				402EF3F228DC94B200A1D8A9 /* DIStringMatch.swift in Sources */,
 				402EF3DE28DB1AEF00A1D8A9 /* RearrangeSpaces.swift in Sources */,
 				402EF42E28E45E5400A1D8A9 /* ReplaceWords.swift in Sources */,
+				4015232028F0467300168595 /* MostCommonWord.swift in Sources */,
+				4015232228F04F7100168595 /* AddToArrayForm.swift in Sources */,
 				40D5892328C1FBA800FC157E /* MostWordsFound.swift in Sources */,
 				402EF3C428D9AE9800A1D8A9 /* RotateString.swift in Sources */,
 				402EF43228E4806C00A1D8A9 /* RemoveStonesToMinimize.swift in Sources */,
