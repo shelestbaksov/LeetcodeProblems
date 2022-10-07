@@ -38,6 +38,8 @@
 		4015231428EEDA2400168595 /* FindLucky.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231328EEDA2400168595 /* FindLucky.swift */; };
 		4015231628EEDC2B00168595 /* TransposeMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231528EEDC2B00168595 /* TransposeMatrix.swift */; };
 		4015231828EEE11A00168595 /* AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231728EEE11A00168595 /* AddDigits.swift */; };
+		4015231A28F0113100168595 /* IsLongPressedName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231928F0113100168595 /* IsLongPressedName.swift */; };
+		4015231E28F02B9600168595 /* ContainsNearbyDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4015231D28F02B9600168595 /* ContainsNearbyDuplicate.swift */; };
 		40161FA5287C2CC700172E7E /* Skobochki.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA4287C2CC700172E7E /* Skobochki.swift */; };
 		40161FA7287D56DF00172E7E /* RomanToInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA6287D56DE00172E7E /* RomanToInt.swift */; };
 		40161FA9287D570600172E7E /* LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40161FA8287D570600172E7E /* LongestCommonPrefix.swift */; };
@@ -279,6 +281,8 @@
 		4015231328EEDA2400168595 /* FindLucky.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindLucky.swift; sourceTree = "<group>"; };
 		4015231528EEDC2B00168595 /* TransposeMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransposeMatrix.swift; sourceTree = "<group>"; };
 		4015231728EEE11A00168595 /* AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDigits.swift; sourceTree = "<group>"; };
+		4015231928F0113100168595 /* IsLongPressedName.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsLongPressedName.swift; sourceTree = "<group>"; };
+		4015231D28F02B9600168595 /* ContainsNearbyDuplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsNearbyDuplicate.swift; sourceTree = "<group>"; };
 		40161FA4287C2CC700172E7E /* Skobochki.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Skobochki.swift; sourceTree = "<group>"; };
 		40161FA6287D56DE00172E7E /* RomanToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInt.swift; sourceTree = "<group>"; };
 		40161FA8287D570600172E7E /* LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCommonPrefix.swift; sourceTree = "<group>"; };
@@ -509,6 +513,7 @@
 			isa = PBXGroup;
 			children = (
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
+				4015231928F0113100168595 /* IsLongPressedName.swift */,
 				401522F128EC2AB400168595 /* CheckOccurancesOfAllCharacters.swift */,
 				401522F328EC323E00168595 /* SumOfDigitsInBase.swift */,
 				401522F528EC39AC00168595 /* RemovePalindromicSub.swift */,
@@ -733,6 +738,7 @@
 				4015231328EEDA2400168595 /* FindLucky.swift */,
 				4015231528EEDC2B00168595 /* TransposeMatrix.swift */,
 				4015231728EEE11A00168595 /* AddDigits.swift */,
+				4015231D28F02B9600168595 /* ContainsNearbyDuplicate.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -817,6 +823,7 @@
 				4033818B28D21CEB00ABBCD2 /* CheckIfAllAAppersBeforeB.swift in Sources */,
 				400FC22A28C7A1A1009CC30E /* FindingTheUAM.swift in Sources */,
 				4033816228CF818600ABBCD2 /* MaxNumberOfPairs.swift in Sources */,
+				4015231A28F0113100168595 /* IsLongPressedName.swift in Sources */,
 				40F9C3CD28BF958900C72C5E /* DivisorGame.swift in Sources */,
 				402EF41C28E2ED3100A1D8A9 /* MinNumberOfStepsToMakeAnagram.swift in Sources */,
 				402EF41028E1A8CD00A1D8A9 /* FizzBuzz.swift in Sources */,
@@ -837,6 +844,7 @@
 				402EF3F028DC93A400A1D8A9 /* FindTargetIndicesArterSort.swift in Sources */,
 				40C5E8D52897CD25006F8C66 /* HaystackNeedle.swift in Sources */,
 				4089E8C5289A7C4800F52F84 /* LinkedListsMerge.swift in Sources */,
+				4015231E28F02B9600168595 /* ContainsNearbyDuplicate.swift in Sources */,
 				402EF3F828DDC32D00A1D8A9 /* PartitionArray.swift in Sources */,
 				402EF3DC28DB10A600A1D8A9 /* UglyNumber.swift in Sources */,
 				40D5891F28C1FA2C00FC157E /* BuildArrayPermutation.swift in Sources */,
