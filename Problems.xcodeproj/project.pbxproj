@@ -202,6 +202,8 @@
 		40A6B4E528F6FC8D000535B6 /* PositionsOfLargeGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4E428F6FC8D000535B6 /* PositionsOfLargeGroups.swift */; };
 		40A6B4E728F6FE3F000535B6 /* DayOfYear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4E628F6FE3F000535B6 /* DayOfYear.swift */; };
 		40A6B4E928F70188000535B6 /* MaxNumOfBalloons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4E828F70188000535B6 /* MaxNumOfBalloons.swift */; };
+		40A6B4EB28F709AA000535B6 /* UniqueNumberOfOccurances.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4EA28F709AA000535B6 /* UniqueNumberOfOccurances.swift */; };
+		40A6B4ED28F70A95000535B6 /* NumOfCommonFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4EC28F70A95000535B6 /* NumOfCommonFactors.swift */; };
 		40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C3E28873002000AAB4B /* TreeTraversal.swift */; };
 		40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C402887E578000AAB4B /* DecryptIntToStr.swift */; };
 		40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */; };
@@ -457,6 +459,8 @@
 		40A6B4E428F6FC8D000535B6 /* PositionsOfLargeGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionsOfLargeGroups.swift; sourceTree = "<group>"; };
 		40A6B4E628F6FE3F000535B6 /* DayOfYear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayOfYear.swift; sourceTree = "<group>"; };
 		40A6B4E828F70188000535B6 /* MaxNumOfBalloons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxNumOfBalloons.swift; sourceTree = "<group>"; };
+		40A6B4EA28F709AA000535B6 /* UniqueNumberOfOccurances.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueNumberOfOccurances.swift; sourceTree = "<group>"; };
+		40A6B4EC28F70A95000535B6 /* NumOfCommonFactors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumOfCommonFactors.swift; sourceTree = "<group>"; };
 		40B38C3E28873002000AAB4B /* TreeTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
 		40B38C402887E578000AAB4B /* DecryptIntToStr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptIntToStr.swift; sourceTree = "<group>"; };
 		40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAllOddArrays.swift; sourceTree = "<group>"; };
@@ -538,6 +542,8 @@
 				40A6B4E428F6FC8D000535B6 /* PositionsOfLargeGroups.swift */,
 				40A6B4E628F6FE3F000535B6 /* DayOfYear.swift */,
 				40A6B4E828F70188000535B6 /* MaxNumOfBalloons.swift */,
+				40A6B4EA28F709AA000535B6 /* UniqueNumberOfOccurances.swift */,
+				40A6B4EC28F70A95000535B6 /* NumOfCommonFactors.swift */,
 				40C68FDF28F5909D00D46AAB /* TwoOutOfThree.swift */,
 				40C68FE128F5944D00D46AAB /* ImplementStack.swift */,
 				40C68FE328F5965300D46AAB /* MissingNumber.swift */,
@@ -873,6 +879,7 @@
 				4050AE5428869A360037782F /* Goal.swift in Sources */,
 				4078172528AA65430089BB06 /* ReturnReversed.swift in Sources */,
 				402EF3CC28D9E81300A1D8A9 /* InOrderTraversal.swift in Sources */,
+				40A6B4ED28F70A95000535B6 /* NumOfCommonFactors.swift in Sources */,
 				40A6B4E928F70188000535B6 /* MaxNumOfBalloons.swift in Sources */,
 				4033819128D30D0800ABBCD2 /* NumberOfArithmeticTriplets.swift in Sources */,
 				40D25FBD28B8D20A00CE8D05 /* CheckIfExists.swift in Sources */,
@@ -1014,6 +1021,7 @@
 				4078172328AA65000089BB06 /* FineTheGCD.swift in Sources */,
 				402EF3E428DC494C00A1D8A9 /* CanPlaceFlower.swift in Sources */,
 				40D25FB328B618C100CE8D05 /* WateringPlants.swift in Sources */,
+				40A6B4EB28F709AA000535B6 /* UniqueNumberOfOccurances.swift in Sources */,
 				402EF3CA28D9CF6B00A1D8A9 /* LengthOfLastWord.swift in Sources */,
 				4091A82428ACE50900C079CE /* RearrangedArray.swift in Sources */,
 				402EF43E28E5B8AC00A1D8A9 /* CheckIfPangram.swift in Sources */,
