@@ -1,1 +1,1 @@
-print(maxNumberOfBalloons("leetcode"))
+print(numberOfMatches(7))
