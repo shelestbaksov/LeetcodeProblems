@@ -208,6 +208,8 @@
 		40A6B4F328F809DB000535B6 /* CountOfMatchesInTournament.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4F228F809DB000535B6 /* CountOfMatchesInTournament.swift */; };
 		40A6B4F528F80C3A000535B6 /* CountOfSegmentsInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4F428F80C3A000535B6 /* CountOfSegmentsInString.swift */; };
 		40A6B4F728F80F98000535B6 /* NumberOfLinesToWriteString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4F628F80F98000535B6 /* NumberOfLinesToWriteString.swift */; };
+		40A6B4F928F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4F828F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift */; };
+		40A6B4FB28F8379B000535B6 /* NumberOfStudentsUnableToEat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4FA28F8379B000535B6 /* NumberOfStudentsUnableToEat.swift */; };
 		40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C3E28873002000AAB4B /* TreeTraversal.swift */; };
 		40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C402887E578000AAB4B /* DecryptIntToStr.swift */; };
 		40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */; };
@@ -469,6 +471,8 @@
 		40A6B4F228F809DB000535B6 /* CountOfMatchesInTournament.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOfMatchesInTournament.swift; sourceTree = "<group>"; };
 		40A6B4F428F80C3A000535B6 /* CountOfSegmentsInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOfSegmentsInString.swift; sourceTree = "<group>"; };
 		40A6B4F628F80F98000535B6 /* NumberOfLinesToWriteString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLinesToWriteString.swift; sourceTree = "<group>"; };
+		40A6B4F828F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeSumOfArrayAfterKNegations.swift; sourceTree = "<group>"; };
+		40A6B4FA28F8379B000535B6 /* NumberOfStudentsUnableToEat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfStudentsUnableToEat.swift; sourceTree = "<group>"; };
 		40B38C3E28873002000AAB4B /* TreeTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
 		40B38C402887E578000AAB4B /* DecryptIntToStr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptIntToStr.swift; sourceTree = "<group>"; };
 		40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAllOddArrays.swift; sourceTree = "<group>"; };
@@ -552,6 +556,8 @@
 				40A6B4F228F809DB000535B6 /* CountOfMatchesInTournament.swift */,
 				40A6B4F428F80C3A000535B6 /* CountOfSegmentsInString.swift */,
 				40A6B4F628F80F98000535B6 /* NumberOfLinesToWriteString.swift */,
+				40A6B4F828F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift */,
+				40A6B4FA28F8379B000535B6 /* NumberOfStudentsUnableToEat.swift */,
 				40A6B4E628F6FE3F000535B6 /* DayOfYear.swift */,
 				40A6B4E828F70188000535B6 /* MaxNumOfBalloons.swift */,
 				40A6B4EA28F709AA000535B6 /* UniqueNumberOfOccurances.swift */,
@@ -976,6 +982,7 @@
 				402EF42428E30B0500A1D8A9 /* SumOfEvenAfterQueries.swift in Sources */,
 				40F9C3B928BCB12100C72C5E /* MinMovesToSeat.swift in Sources */,
 				402EF3D828DAFAA700A1D8A9 /* MinimumAmountOfTimeToFillCups.swift in Sources */,
+				40A6B4F928F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift in Sources */,
 				408A919928AE329200231F15 /* MinSetSize.swift in Sources */,
 				4015231028EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift in Sources */,
 				4015231628EEDC2B00168595 /* TransposeMatrix.swift in Sources */,
@@ -1029,6 +1036,7 @@
 				4078171B28AA64420089BB06 /* FindSum.swift in Sources */,
 				401522FA28EC4EC200168595 /* RobotReturnToOrigin.swift in Sources */,
 				400FC23828CA1C2B009CC30E /* PlusOne.swift in Sources */,
+				40A6B4FB28F8379B000535B6 /* NumberOfStudentsUnableToEat.swift in Sources */,
 				40D5891B28C1098100FC157E /* MajorityElement.swift in Sources */,
 				402EF3FA28DDCD4300A1D8A9 /* MinimizeMaxPairSumInArray.swift in Sources */,
 				4033814E28CB24E000ABBCD2 /* MergeSortedArray.swift in Sources */,
