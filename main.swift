@@ -1,1 +1,2 @@
-print(numberOfMatches(7))
+print(numberOfLines([10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10],
+                    "abcdefghijklmnopqrstuvwxyz"))
