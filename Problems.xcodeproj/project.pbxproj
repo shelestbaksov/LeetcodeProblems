@@ -210,6 +210,8 @@
 		40A6B4F728F80F98000535B6 /* NumberOfLinesToWriteString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4F628F80F98000535B6 /* NumberOfLinesToWriteString.swift */; };
 		40A6B4F928F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4F828F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift */; };
 		40A6B4FB28F8379B000535B6 /* NumberOfStudentsUnableToEat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4FA28F8379B000535B6 /* NumberOfStudentsUnableToEat.swift */; };
+		40A6B50128F96FC4000535B6 /* NumberCompliment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B50028F96FC4000535B6 /* NumberCompliment.swift */; };
+		40A6B50328F9707F000535B6 /* PerfectNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B50228F9707F000535B6 /* PerfectNumber.swift */; };
 		40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C3E28873002000AAB4B /* TreeTraversal.swift */; };
 		40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C402887E578000AAB4B /* DecryptIntToStr.swift */; };
 		40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */; };
@@ -473,6 +475,8 @@
 		40A6B4F628F80F98000535B6 /* NumberOfLinesToWriteString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfLinesToWriteString.swift; sourceTree = "<group>"; };
 		40A6B4F828F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximizeSumOfArrayAfterKNegations.swift; sourceTree = "<group>"; };
 		40A6B4FA28F8379B000535B6 /* NumberOfStudentsUnableToEat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfStudentsUnableToEat.swift; sourceTree = "<group>"; };
+		40A6B50028F96FC4000535B6 /* NumberCompliment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberCompliment.swift; sourceTree = "<group>"; };
+		40A6B50228F9707F000535B6 /* PerfectNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectNumber.swift; sourceTree = "<group>"; };
 		40B38C3E28873002000AAB4B /* TreeTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
 		40B38C402887E578000AAB4B /* DecryptIntToStr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptIntToStr.swift; sourceTree = "<group>"; };
 		40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAllOddArrays.swift; sourceTree = "<group>"; };
@@ -554,6 +558,8 @@
 				40A6B4EE28F7F3E5000535B6 /* SquaresOfSortedArray.swift */,
 				40A6B4E428F6FC8D000535B6 /* PositionsOfLargeGroups.swift */,
 				40A6B4F228F809DB000535B6 /* CountOfMatchesInTournament.swift */,
+				40A6B50028F96FC4000535B6 /* NumberCompliment.swift */,
+				40A6B50228F9707F000535B6 /* PerfectNumber.swift */,
 				40A6B4F428F80C3A000535B6 /* CountOfSegmentsInString.swift */,
 				40A6B4F628F80F98000535B6 /* NumberOfLinesToWriteString.swift */,
 				40A6B4F828F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift */,
@@ -972,6 +978,7 @@
 				40C5E8CF2897B732006F8C66 /* RunningSum.swift in Sources */,
 				4050AE4C288572640037782F /* MaxWealth.swift in Sources */,
 				4016201128816B7600172E7E /* HappyNumber.swift in Sources */,
+				40A6B50128F96FC4000535B6 /* NumberCompliment.swift in Sources */,
 				4033814828CA2CF100ABBCD2 /* DefangingAnIPAddress.swift in Sources */,
 				40D5893928C5E67E00FC157E /* MaximumProductDifference.swift in Sources */,
 				40D588B828C0952C00FC157E /* SingleNum.swift in Sources */,
@@ -985,6 +992,7 @@
 				40A6B4F928F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift in Sources */,
 				408A919928AE329200231F15 /* MinSetSize.swift in Sources */,
 				4015231028EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift in Sources */,
+				40A6B50328F9707F000535B6 /* PerfectNumber.swift in Sources */,
 				4015231628EEDC2B00168595 /* TransposeMatrix.swift in Sources */,
 				4015230428ED98D200168595 /* RemoveDuplicates.swift in Sources */,
 				4033816028CF80CE00ABBCD2 /* CountingWordsWithAgivenPrefix.swift in Sources */,

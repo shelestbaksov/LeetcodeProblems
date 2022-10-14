@@ -8,28 +8,18 @@
 import Foundation
 
 func merge(_ nums1: inout [Int], _ m: Int, _ nums2: [Int], _ n: Int) {
-    var firstPointer = 0
+    var array = [Int]()
     
-    for num in nums2 {
-        while num >= nums1[firstPointer] && nums1[firstPointer] != 0 {
-            firstPointer += 1
-            if firstPointer == nums1.count {
-                break
-            }
-        }
-        if num < nums1[firstPointer] {
-            nums1.insert(num, at: firstPointer)
-            nums1.popLast()
-            continue
-        }
-        if num == nums1[firstPointer] {
-            nums1.insert(num, at: firstPointer)
-            nums1.popLast()
-        }
-        if nums1[firstPointer] == 0 {
-            nums1.insert(num, at: firstPointer)
-            nums1.popLast()
+    for (index, value) in nums1.enumerated() {
+        if index <= m - 1 {
+            array.append(value)
         }
     }
-    print(nums1)
+    
+    for (index, value) in nums2.enumerated() {
+        if index <= n - 1 {
+            array.append(value)
+        }
+    }
+    nums1 = array.sorted()
 }
