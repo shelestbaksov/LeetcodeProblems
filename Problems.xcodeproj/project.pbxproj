@@ -213,6 +213,8 @@
 		40A6B50128F96FC4000535B6 /* NumberCompliment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B50028F96FC4000535B6 /* NumberCompliment.swift */; };
 		40A6B50328F9707F000535B6 /* PerfectNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B50228F9707F000535B6 /* PerfectNumber.swift */; };
 		40A6B50528F97F19000535B6 /* DetectCapital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B50428F97F19000535B6 /* DetectCapital.swift */; };
+		40A6B50728F98AB7000535B6 /* ReverseStringII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B50628F98AB7000535B6 /* ReverseStringII.swift */; };
+		40A6B50928F98E86000535B6 /* DegreeOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B50828F98E86000535B6 /* DegreeOfArray.swift */; };
 		40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C3E28873002000AAB4B /* TreeTraversal.swift */; };
 		40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C402887E578000AAB4B /* DecryptIntToStr.swift */; };
 		40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */; };
@@ -479,6 +481,8 @@
 		40A6B50028F96FC4000535B6 /* NumberCompliment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberCompliment.swift; sourceTree = "<group>"; };
 		40A6B50228F9707F000535B6 /* PerfectNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectNumber.swift; sourceTree = "<group>"; };
 		40A6B50428F97F19000535B6 /* DetectCapital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectCapital.swift; sourceTree = "<group>"; };
+		40A6B50628F98AB7000535B6 /* ReverseStringII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseStringII.swift; sourceTree = "<group>"; };
+		40A6B50828F98E86000535B6 /* DegreeOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DegreeOfArray.swift; sourceTree = "<group>"; };
 		40B38C3E28873002000AAB4B /* TreeTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
 		40B38C402887E578000AAB4B /* DecryptIntToStr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptIntToStr.swift; sourceTree = "<group>"; };
 		40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAllOddArrays.swift; sourceTree = "<group>"; };
@@ -563,6 +567,8 @@
 				40A6B50028F96FC4000535B6 /* NumberCompliment.swift */,
 				40A6B50228F9707F000535B6 /* PerfectNumber.swift */,
 				40A6B50428F97F19000535B6 /* DetectCapital.swift */,
+				40A6B50628F98AB7000535B6 /* ReverseStringII.swift */,
+				40A6B50828F98E86000535B6 /* DegreeOfArray.swift */,
 				40A6B4F428F80C3A000535B6 /* CountOfSegmentsInString.swift */,
 				40A6B4F628F80F98000535B6 /* NumberOfLinesToWriteString.swift */,
 				40A6B4F828F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift */,
@@ -868,6 +874,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				402EF3E828DC562800A1D8A9 /* FairCandySwap.swift in Sources */,
+				40A6B50728F98AB7000535B6 /* ReverseStringII.swift in Sources */,
 				402EF3C628D9B0D600A1D8A9 /* FindErrorNums.swift in Sources */,
 				402EF3EE28DC8DF200A1D8A9 /* BaseballGame.swift in Sources */,
 				4078170728AA61720089BB06 /* Fibonacci.swift in Sources */,
@@ -992,6 +999,7 @@
 				402EF42428E30B0500A1D8A9 /* SumOfEvenAfterQueries.swift in Sources */,
 				40F9C3B928BCB12100C72C5E /* MinMovesToSeat.swift in Sources */,
 				402EF3D828DAFAA700A1D8A9 /* MinimumAmountOfTimeToFillCups.swift in Sources */,
+				40A6B50928F98E86000535B6 /* DegreeOfArray.swift in Sources */,
 				40A6B4F928F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift in Sources */,
 				408A919928AE329200231F15 /* MinSetSize.swift in Sources */,
 				4015231028EECB3900168595 /* TwoFurthestHousesWithDifferentColors.swift in Sources */,
