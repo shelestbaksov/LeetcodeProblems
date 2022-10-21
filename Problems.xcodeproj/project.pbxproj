@@ -152,6 +152,8 @@
 		4033819F28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033819E28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift */; };
 		403381A128D32A6D00ABBCD2 /* DivideArrayIntoPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403381A028D32A6D00ABBCD2 /* DivideArrayIntoPairs.swift */; };
 		403381A328D32D2E00ABBCD2 /* HeightChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403381A228D32D2E00ABBCD2 /* HeightChecker.swift */; };
+		4042BCC4290294E600705147 /* 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCC3290294E600705147 /* 3Sum.swift */; };
+		4042BCC62902A06700705147 /* 3SumClosest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCC52902A06700705147 /* 3SumClosest.swift */; };
 		4050AE4A288569E20037782F /* RemoveZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE49288569E20037782F /* RemoveZeros.swift */; };
 		4050AE4C288572640037782F /* MaxWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE4B288572640037782F /* MaxWealth.swift */; };
 		4050AE522886951C0037782F /* MergeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE512886951C0037782F /* MergeWords.swift */; };
@@ -421,6 +423,8 @@
 		4033819E28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NrepeatedElementInSize2NArray.swift; sourceTree = "<group>"; };
 		403381A028D32A6D00ABBCD2 /* DivideArrayIntoPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideArrayIntoPairs.swift; sourceTree = "<group>"; };
 		403381A228D32D2E00ABBCD2 /* HeightChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeightChecker.swift; sourceTree = "<group>"; };
+		4042BCC3290294E600705147 /* 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3Sum.swift; sourceTree = "<group>"; };
+		4042BCC52902A06700705147 /* 3SumClosest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3SumClosest.swift; sourceTree = "<group>"; };
 		4050AE49288569E20037782F /* RemoveZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveZeros.swift; sourceTree = "<group>"; };
 		4050AE4B288572640037782F /* MaxWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxWealth.swift; sourceTree = "<group>"; };
 		4050AE512886951C0037782F /* MergeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeWords.swift; sourceTree = "<group>"; };
@@ -567,6 +571,8 @@
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
 				40EA3CCF28FD7E9B00B5641B /* ParkingSystem.swift */,
 				40EA3CD128FE9A2400B5641B /* ReverseInteger.swift */,
+				4042BCC3290294E600705147 /* 3Sum.swift */,
+				4042BCC52902A06700705147 /* 3SumClosest.swift */,
 				40A6B4EE28F7F3E5000535B6 /* SquaresOfSortedArray.swift */,
 				40A6B4E428F6FC8D000535B6 /* PositionsOfLargeGroups.swift */,
 				40A6B4F228F809DB000535B6 /* CountOfMatchesInTournament.swift */,
@@ -1004,6 +1010,7 @@
 				4016201C28854BB600172E7E /* NextGreaterElement.swift in Sources */,
 				4078171928AA63FA0089BB06 /* PrintAllNumbersFrom.swift in Sources */,
 				402EF42428E30B0500A1D8A9 /* SumOfEvenAfterQueries.swift in Sources */,
+				4042BCC4290294E600705147 /* 3Sum.swift in Sources */,
 				40F9C3B928BCB12100C72C5E /* MinMovesToSeat.swift in Sources */,
 				402EF3D828DAFAA700A1D8A9 /* MinimumAmountOfTimeToFillCups.swift in Sources */,
 				40A6B50928F98E86000535B6 /* DegreeOfArray.swift in Sources */,
@@ -1055,6 +1062,7 @@
 				408A3DD128B3798400B0DF19 /* ThirdMax.swift in Sources */,
 				40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */,
 				4033816C28D0A6F200ABBCD2 /* CountNegativeNumbersInMatrix.swift in Sources */,
+				4042BCC62902A06700705147 /* 3SumClosest.swift in Sources */,
 				4078170B28AA620B0089BB06 /* CountPoints.swift in Sources */,
 				402EF3F628DCA08600A1D8A9 /* MaximumBagsWithFullCapcity.swift in Sources */,
 				4033818128D209BC00ABBCD2 /* CountItemsMatchingArule.swift in Sources */,
