@@ -1,1 +1,1 @@
-print(letterCombinations("23"))
+print(countQuadruplets([1,1,1,3,5]))
