@@ -156,6 +156,8 @@
 		4042BCC62902A06700705147 /* 3SumClosest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCC52902A06700705147 /* 3SumClosest.swift */; };
 		4042BCCA2902A83B00705147 /* 4Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCC92902A83B00705147 /* 4Sum.swift */; };
 		4042BCCC2902AC5B00705147 /* CountQuadruplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCCB2902AC5B00705147 /* CountQuadruplets.swift */; };
+		4042BCD02906811700705147 /* CanWinNim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCCF2906811700705147 /* CanWinNim.swift */; };
+		4042BCD22906827700705147 /* MaxConsecutiveOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCD12906827700705147 /* MaxConsecutiveOnes.swift */; };
 		4050AE4A288569E20037782F /* RemoveZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE49288569E20037782F /* RemoveZeros.swift */; };
 		4050AE4C288572640037782F /* MaxWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE4B288572640037782F /* MaxWealth.swift */; };
 		4050AE522886951C0037782F /* MergeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE512886951C0037782F /* MergeWords.swift */; };
@@ -429,6 +431,8 @@
 		4042BCC52902A06700705147 /* 3SumClosest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3SumClosest.swift; sourceTree = "<group>"; };
 		4042BCC92902A83B00705147 /* 4Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4Sum.swift; sourceTree = "<group>"; };
 		4042BCCB2902AC5B00705147 /* CountQuadruplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountQuadruplets.swift; sourceTree = "<group>"; };
+		4042BCCF2906811700705147 /* CanWinNim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanWinNim.swift; sourceTree = "<group>"; };
+		4042BCD12906827700705147 /* MaxConsecutiveOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxConsecutiveOnes.swift; sourceTree = "<group>"; };
 		4050AE49288569E20037782F /* RemoveZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveZeros.swift; sourceTree = "<group>"; };
 		4050AE4B288572640037782F /* MaxWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxWealth.swift; sourceTree = "<group>"; };
 		4050AE512886951C0037782F /* MergeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeWords.swift; sourceTree = "<group>"; };
@@ -578,6 +582,8 @@
 				4042BCC3290294E600705147 /* 3Sum.swift */,
 				4042BCC92902A83B00705147 /* 4Sum.swift */,
 				4042BCCB2902AC5B00705147 /* CountQuadruplets.swift */,
+				4042BCCF2906811700705147 /* CanWinNim.swift */,
+				4042BCD12906827700705147 /* MaxConsecutiveOnes.swift */,
 				4042BCC52902A06700705147 /* 3SumClosest.swift */,
 				40A6B4EE28F7F3E5000535B6 /* SquaresOfSortedArray.swift */,
 				40A6B4E428F6FC8D000535B6 /* PositionsOfLargeGroups.swift */,
@@ -1013,6 +1019,7 @@
 				40D588B828C0952C00FC157E /* SingleNum.swift in Sources */,
 				402EF45228EACDCE00A1D8A9 /* MinimumSum.swift in Sources */,
 				408A3DD728B4BE6200B0DF19 /* LinkedListIsPalindrome.swift in Sources */,
+				4042BCD22906827700705147 /* MaxConsecutiveOnes.swift in Sources */,
 				4016201C28854BB600172E7E /* NextGreaterElement.swift in Sources */,
 				4078171928AA63FA0089BB06 /* PrintAllNumbersFrom.swift in Sources */,
 				402EF42428E30B0500A1D8A9 /* SumOfEvenAfterQueries.swift in Sources */,
@@ -1066,6 +1073,7 @@
 				40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */,
 				407816FD28AA60640089BB06 /* CountOdds.swift in Sources */,
 				40F9C3B728BCAE9900C72C5E /* CreateTargetArray.swift in Sources */,
+				4042BCD02906811700705147 /* CanWinNim.swift in Sources */,
 				408A3DD128B3798400B0DF19 /* ThirdMax.swift in Sources */,
 				40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */,
 				4033816C28D0A6F200ABBCD2 /* CountNegativeNumbersInMatrix.swift in Sources */,
