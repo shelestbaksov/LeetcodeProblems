@@ -1,1 +1,1 @@
-print(countQuadruplets([1,1,1,3,5]))
+print(capitalizeTitle("First leTTeR of EACH Word"))
