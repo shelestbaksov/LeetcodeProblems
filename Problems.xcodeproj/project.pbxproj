@@ -164,6 +164,9 @@
 		4042BCDC2906959500705147 /* CapitalizeTheTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCDB2906959500705147 /* CapitalizeTheTitle.swift */; };
 		4042BCDE2907EE4B00705147 /* ArrangeCoins.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCDD2907EE4B00705147 /* ArrangeCoins.swift */; };
 		4042BCE02907F2FA00705147 /* DistributeCandiesToPeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCDF2907F2FA00705147 /* DistributeCandiesToPeople.swift */; };
+		4042BCE22908010100705147 /* IsSameAfterReversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCE12908010100705147 /* IsSameAfterReversal.swift */; };
+		4042BCE42908042500705147 /* CountOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCE32908042500705147 /* CountOperations.swift */; };
+		4042BCE62908060F00705147 /* CalculateMoneyInLeetcodeBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCE52908060F00705147 /* CalculateMoneyInLeetcodeBank.swift */; };
 		4050AE4A288569E20037782F /* RemoveZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE49288569E20037782F /* RemoveZeros.swift */; };
 		4050AE4C288572640037782F /* MaxWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE4B288572640037782F /* MaxWealth.swift */; };
 		4050AE522886951C0037782F /* MergeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE512886951C0037782F /* MergeWords.swift */; };
@@ -445,6 +448,9 @@
 		4042BCDB2906959500705147 /* CapitalizeTheTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapitalizeTheTitle.swift; sourceTree = "<group>"; };
 		4042BCDD2907EE4B00705147 /* ArrangeCoins.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrangeCoins.swift; sourceTree = "<group>"; };
 		4042BCDF2907F2FA00705147 /* DistributeCandiesToPeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistributeCandiesToPeople.swift; sourceTree = "<group>"; };
+		4042BCE12908010100705147 /* IsSameAfterReversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsSameAfterReversal.swift; sourceTree = "<group>"; };
+		4042BCE32908042500705147 /* CountOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOperations.swift; sourceTree = "<group>"; };
+		4042BCE52908060F00705147 /* CalculateMoneyInLeetcodeBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateMoneyInLeetcodeBank.swift; sourceTree = "<group>"; };
 		4050AE49288569E20037782F /* RemoveZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveZeros.swift; sourceTree = "<group>"; };
 		4050AE4B288572640037782F /* MaxWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxWealth.swift; sourceTree = "<group>"; };
 		4050AE512886951C0037782F /* MergeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeWords.swift; sourceTree = "<group>"; };
@@ -602,6 +608,9 @@
 				4042BCDB2906959500705147 /* CapitalizeTheTitle.swift */,
 				4042BCDD2907EE4B00705147 /* ArrangeCoins.swift */,
 				4042BCDF2907F2FA00705147 /* DistributeCandiesToPeople.swift */,
+				4042BCE12908010100705147 /* IsSameAfterReversal.swift */,
+				4042BCE32908042500705147 /* CountOperations.swift */,
+				4042BCE52908060F00705147 /* CalculateMoneyInLeetcodeBank.swift */,
 				4042BCC52902A06700705147 /* 3SumClosest.swift */,
 				40A6B4EE28F7F3E5000535B6 /* SquaresOfSortedArray.swift */,
 				40A6B4E428F6FC8D000535B6 /* PositionsOfLargeGroups.swift */,
@@ -946,6 +955,7 @@
 				402EF41C28E2ED3100A1D8A9 /* MinNumberOfStepsToMakeAnagram.swift in Sources */,
 				402EF41028E1A8CD00A1D8A9 /* FizzBuzz.swift in Sources */,
 				4033819928D3229700ABBCD2 /* FindGCDOfArray.swift in Sources */,
+				4042BCE62908060F00705147 /* CalculateMoneyInLeetcodeBank.swift in Sources */,
 				40161FAB287D573400172E7E /* BinarySearch.swift in Sources */,
 				4033818528D2101A00ABBCD2 /* DetermineColorOfChessBoardSquare.swift in Sources */,
 				402EF43828E5A51D00A1D8A9 /* ConvertBinaryToIntLinkedList.swift in Sources */,
@@ -1016,6 +1026,7 @@
 				402EF3DA28DB043F00A1D8A9 /* MinNumberOfOperationsToConvertTime.swift in Sources */,
 				4015230C28EDB83D00168595 /* FindTriplets.swift in Sources */,
 				40A6B4E728F6FE3F000535B6 /* DayOfYear.swift in Sources */,
+				4042BCE42908042500705147 /* CountOperations.swift in Sources */,
 				40D5892928C2003300FC157E /* SmallerNumbersThanCurrent.swift in Sources */,
 				402EF40C28E1A32700A1D8A9 /* SelfDividingNumbers.swift in Sources */,
 				4078172B28AA65CB0089BB06 /* CountOfLetters.swift in Sources */,
@@ -1108,6 +1119,7 @@
 				401522FA28EC4EC200168595 /* RobotReturnToOrigin.swift in Sources */,
 				400FC23828CA1C2B009CC30E /* PlusOne.swift in Sources */,
 				40A6B4FB28F8379B000535B6 /* NumberOfStudentsUnableToEat.swift in Sources */,
+				4042BCE22908010100705147 /* IsSameAfterReversal.swift in Sources */,
 				40D5891B28C1098100FC157E /* MajorityElement.swift in Sources */,
 				402EF3FA28DDCD4300A1D8A9 /* MinimizeMaxPairSumInArray.swift in Sources */,
 				4033814E28CB24E000ABBCD2 /* MergeSortedArray.swift in Sources */,

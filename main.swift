@@ -1,1 +1,1 @@
-print(distributeCandies(10, 3))
+print(totalMoney(20))
