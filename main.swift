@@ -1,1 +1,1 @@
-print(capitalizeTitle("First leTTeR of EACH Word"))
+print(distributeCandies(10, 3))

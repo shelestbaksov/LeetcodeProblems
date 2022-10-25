@@ -162,6 +162,8 @@
 		4042BCD6290687A100705147 /* SecondLargeDigitInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCD5290687A100705147 /* SecondLargeDigitInString.swift */; };
 		4042BCD829068AF100705147 /* ThreeDivisors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCD729068AF100705147 /* ThreeDivisors.swift */; };
 		4042BCDC2906959500705147 /* CapitalizeTheTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCDB2906959500705147 /* CapitalizeTheTitle.swift */; };
+		4042BCDE2907EE4B00705147 /* ArrangeCoins.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCDD2907EE4B00705147 /* ArrangeCoins.swift */; };
+		4042BCE02907F2FA00705147 /* DistributeCandiesToPeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4042BCDF2907F2FA00705147 /* DistributeCandiesToPeople.swift */; };
 		4050AE4A288569E20037782F /* RemoveZeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE49288569E20037782F /* RemoveZeros.swift */; };
 		4050AE4C288572640037782F /* MaxWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE4B288572640037782F /* MaxWealth.swift */; };
 		4050AE522886951C0037782F /* MergeWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4050AE512886951C0037782F /* MergeWords.swift */; };
@@ -441,6 +443,8 @@
 		4042BCD5290687A100705147 /* SecondLargeDigitInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondLargeDigitInString.swift; sourceTree = "<group>"; };
 		4042BCD729068AF100705147 /* ThreeDivisors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeDivisors.swift; sourceTree = "<group>"; };
 		4042BCDB2906959500705147 /* CapitalizeTheTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapitalizeTheTitle.swift; sourceTree = "<group>"; };
+		4042BCDD2907EE4B00705147 /* ArrangeCoins.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrangeCoins.swift; sourceTree = "<group>"; };
+		4042BCDF2907F2FA00705147 /* DistributeCandiesToPeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistributeCandiesToPeople.swift; sourceTree = "<group>"; };
 		4050AE49288569E20037782F /* RemoveZeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveZeros.swift; sourceTree = "<group>"; };
 		4050AE4B288572640037782F /* MaxWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxWealth.swift; sourceTree = "<group>"; };
 		4050AE512886951C0037782F /* MergeWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeWords.swift; sourceTree = "<group>"; };
@@ -596,6 +600,8 @@
 				4042BCD5290687A100705147 /* SecondLargeDigitInString.swift */,
 				4042BCD729068AF100705147 /* ThreeDivisors.swift */,
 				4042BCDB2906959500705147 /* CapitalizeTheTitle.swift */,
+				4042BCDD2907EE4B00705147 /* ArrangeCoins.swift */,
+				4042BCDF2907F2FA00705147 /* DistributeCandiesToPeople.swift */,
 				4042BCC52902A06700705147 /* 3SumClosest.swift */,
 				40A6B4EE28F7F3E5000535B6 /* SquaresOfSortedArray.swift */,
 				40A6B4E428F6FC8D000535B6 /* PositionsOfLargeGroups.swift */,
@@ -975,6 +981,7 @@
 				40C97C3A28990B52006EFB17 /* IsomorphicStrings.swift in Sources */,
 				400FC22C28C89C9C009CC30E /* MaxNumberOfCoinsYouCanGet.swift in Sources */,
 				4033816E28D0BB7F00ABBCD2 /* KeepMultiplyingFoundValue.swift in Sources */,
+				4042BCE02907F2FA00705147 /* DistributeCandiesToPeople.swift in Sources */,
 				40D5892528C1FDBA00FC157E /* NumOfGoodPairs.swift in Sources */,
 				4078171128AA62660089BB06 /* TopKfrequent.swift in Sources */,
 				4033816428D09CB300ABBCD2 /* NumberOfStudentsDoingHW.swift in Sources */,
@@ -1019,6 +1026,7 @@
 				40C97C3C28991535006EFB17 /* Subsequence.swift in Sources */,
 				4078170F28AA62490089BB06 /* LastStoneWeight.swift in Sources */,
 				402EF40E28E1A74C00A1D8A9 /* RepeatedCharacter.swift in Sources */,
+				4042BCDE2907EE4B00705147 /* ArrangeCoins.swift in Sources */,
 				4015230228ED967700168595 /* SortArrayByParityII.swift in Sources */,
 				4033818728D214D400ABBCD2 /* PercentageOfLetterInString.swift in Sources */,
 				40D25FB528B77C4100CE8D05 /* RansomNote.swift in Sources */,
