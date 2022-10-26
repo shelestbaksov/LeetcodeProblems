@@ -1,1 +1,4 @@
-print(totalMoney(20))
+
+
+print(countCharacters(["cat","bt","hat","tree"],
+                      "atach" ))

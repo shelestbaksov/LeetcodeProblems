@@ -251,6 +251,8 @@
 		40D25FBD28B8D20A00CE8D05 /* CheckIfExists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D25FBC28B8D20A00CE8D05 /* CheckIfExists.swift */; };
 		40D5647F2909195B00881090 /* FindTheTownJudge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5647E2909195B00881090 /* FindTheTownJudge.swift */; };
 		40D564812909264E00881090 /* ComplementOfBase10Int.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D564802909264E00881090 /* ComplementOfBase10Int.swift */; };
+		40D5648329092BE400881090 /* OccurencesAfterBigram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5648229092BE400881090 /* OccurencesAfterBigram.swift */; };
+		40D56489290948F300881090 /* CountCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D56488290948F300881090 /* CountCharacters.swift */; };
 		40D588B828C0952C00FC157E /* SingleNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B728C0952C00FC157E /* SingleNum.swift */; };
 		40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B928C09C6B00FC157E /* isPalindromeString.swift */; };
 		40D588BC28C0A2B500FC157E /* ReduceMapFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */; };
@@ -538,6 +540,8 @@
 		40D25FBC28B8D20A00CE8D05 /* CheckIfExists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfExists.swift; sourceTree = "<group>"; };
 		40D5647E2909195B00881090 /* FindTheTownJudge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheTownJudge.swift; sourceTree = "<group>"; };
 		40D564802909264E00881090 /* ComplementOfBase10Int.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplementOfBase10Int.swift; sourceTree = "<group>"; };
+		40D5648229092BE400881090 /* OccurencesAfterBigram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OccurencesAfterBigram.swift; sourceTree = "<group>"; };
+		40D56488290948F300881090 /* CountCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountCharacters.swift; sourceTree = "<group>"; };
 		40D588B728C0952C00FC157E /* SingleNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNum.swift; sourceTree = "<group>"; };
 		40D588B928C09C6B00FC157E /* isPalindromeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPalindromeString.swift; sourceTree = "<group>"; };
 		40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMapFilter.swift; sourceTree = "<group>"; };
@@ -599,8 +603,10 @@
 			isa = PBXGroup;
 			children = (
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
+				40D56488290948F300881090 /* CountCharacters.swift */,
 				40D5647E2909195B00881090 /* FindTheTownJudge.swift */,
 				40D564802909264E00881090 /* ComplementOfBase10Int.swift */,
+				40D5648229092BE400881090 /* OccurencesAfterBigram.swift */,
 				40EA3CCF28FD7E9B00B5641B /* ParkingSystem.swift */,
 				40EA3CD128FE9A2400B5641B /* ReverseInteger.swift */,
 				4042BCC3290294E600705147 /* 3Sum.swift */,
@@ -1043,6 +1049,7 @@
 				402EF42A28E4377B00A1D8A9 /* MaximumIceCreamBars.swift in Sources */,
 				40C97C3C28991535006EFB17 /* Subsequence.swift in Sources */,
 				4078170F28AA62490089BB06 /* LastStoneWeight.swift in Sources */,
+				40D56489290948F300881090 /* CountCharacters.swift in Sources */,
 				402EF40E28E1A74C00A1D8A9 /* RepeatedCharacter.swift in Sources */,
 				4042BCDE2907EE4B00705147 /* ArrangeCoins.swift in Sources */,
 				4015230228ED967700168595 /* SortArrayByParityII.swift in Sources */,
@@ -1142,6 +1149,7 @@
 				4091A82428ACE50900C079CE /* RearrangedArray.swift in Sources */,
 				40A6B50528F97F19000535B6 /* DetectCapital.swift in Sources */,
 				402EF43E28E5B8AC00A1D8A9 /* CheckIfPangram.swift in Sources */,
+				40D5648329092BE400881090 /* OccurencesAfterBigram.swift in Sources */,
 				400FC22428C793C2009CC30E /* FindFirstPalindromicStringInArray.swift in Sources */,
 				40D588BC28C0A2B500FC157E /* ReduceMapFilter.swift in Sources */,
 				4050AE4A288569E20037782F /* RemoveZeros.swift in Sources */,
