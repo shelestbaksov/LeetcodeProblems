@@ -249,6 +249,8 @@
 		40D25FB328B618C100CE8D05 /* WateringPlants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D25FB228B618C000CE8D05 /* WateringPlants.swift */; };
 		40D25FB528B77C4100CE8D05 /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D25FB428B77C4100CE8D05 /* RansomNote.swift */; };
 		40D25FBD28B8D20A00CE8D05 /* CheckIfExists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D25FBC28B8D20A00CE8D05 /* CheckIfExists.swift */; };
+		40D5647F2909195B00881090 /* FindTheTownJudge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5647E2909195B00881090 /* FindTheTownJudge.swift */; };
+		40D564812909264E00881090 /* ComplementOfBase10Int.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D564802909264E00881090 /* ComplementOfBase10Int.swift */; };
 		40D588B828C0952C00FC157E /* SingleNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B728C0952C00FC157E /* SingleNum.swift */; };
 		40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B928C09C6B00FC157E /* isPalindromeString.swift */; };
 		40D588BC28C0A2B500FC157E /* ReduceMapFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */; };
@@ -534,6 +536,8 @@
 		40D25FB228B618C000CE8D05 /* WateringPlants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WateringPlants.swift; sourceTree = "<group>"; };
 		40D25FB428B77C4100CE8D05 /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
 		40D25FBC28B8D20A00CE8D05 /* CheckIfExists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckIfExists.swift; sourceTree = "<group>"; };
+		40D5647E2909195B00881090 /* FindTheTownJudge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheTownJudge.swift; sourceTree = "<group>"; };
+		40D564802909264E00881090 /* ComplementOfBase10Int.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplementOfBase10Int.swift; sourceTree = "<group>"; };
 		40D588B728C0952C00FC157E /* SingleNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNum.swift; sourceTree = "<group>"; };
 		40D588B928C09C6B00FC157E /* isPalindromeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPalindromeString.swift; sourceTree = "<group>"; };
 		40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMapFilter.swift; sourceTree = "<group>"; };
@@ -595,6 +599,8 @@
 			isa = PBXGroup;
 			children = (
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
+				40D5647E2909195B00881090 /* FindTheTownJudge.swift */,
+				40D564802909264E00881090 /* ComplementOfBase10Int.swift */,
 				40EA3CCF28FD7E9B00B5641B /* ParkingSystem.swift */,
 				40EA3CD128FE9A2400B5641B /* ReverseInteger.swift */,
 				4042BCC3290294E600705147 /* 3Sum.swift */,
@@ -1028,6 +1034,7 @@
 				40A6B4E728F6FE3F000535B6 /* DayOfYear.swift in Sources */,
 				4042BCE42908042500705147 /* CountOperations.swift in Sources */,
 				40D5892928C2003300FC157E /* SmallerNumbersThanCurrent.swift in Sources */,
+				40D5647F2909195B00881090 /* FindTheTownJudge.swift in Sources */,
 				402EF40C28E1A32700A1D8A9 /* SelfDividingNumbers.swift in Sources */,
 				4078172B28AA65CB0089BB06 /* CountOfLetters.swift in Sources */,
 				4015231828EEE11A00168595 /* AddDigits.swift in Sources */,
@@ -1101,6 +1108,7 @@
 				4033815E28CF7EB900ABBCD2 /* FindClosestNumber.swift in Sources */,
 				401522F628EC39AC00168595 /* RemovePalindromicSub.swift in Sources */,
 				40EA3CD228FE9A2400B5641B /* ReverseInteger.swift in Sources */,
+				40D564812909264E00881090 /* ComplementOfBase10Int.swift in Sources */,
 				40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */,
 				407816FD28AA60640089BB06 /* CountOdds.swift in Sources */,
 				40F9C3B728BCAE9900C72C5E /* CreateTargetArray.swift in Sources */,
