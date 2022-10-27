@@ -253,6 +253,8 @@
 		40D564812909264E00881090 /* ComplementOfBase10Int.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D564802909264E00881090 /* ComplementOfBase10Int.swift */; };
 		40D5648329092BE400881090 /* OccurencesAfterBigram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5648229092BE400881090 /* OccurencesAfterBigram.swift */; };
 		40D56489290948F300881090 /* CountCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D56488290948F300881090 /* CountCharacters.swift */; };
+		40D5648B290A78C400881090 /* LongestCIS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5648A290A78C400881090 /* LongestCIS.swift */; };
+		40D5648D290A836E00881090 /* PartitionArrayInThreeEqualParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */; };
 		40D588B828C0952C00FC157E /* SingleNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B728C0952C00FC157E /* SingleNum.swift */; };
 		40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B928C09C6B00FC157E /* isPalindromeString.swift */; };
 		40D588BC28C0A2B500FC157E /* ReduceMapFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */; };
@@ -542,6 +544,8 @@
 		40D564802909264E00881090 /* ComplementOfBase10Int.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplementOfBase10Int.swift; sourceTree = "<group>"; };
 		40D5648229092BE400881090 /* OccurencesAfterBigram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OccurencesAfterBigram.swift; sourceTree = "<group>"; };
 		40D56488290948F300881090 /* CountCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountCharacters.swift; sourceTree = "<group>"; };
+		40D5648A290A78C400881090 /* LongestCIS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCIS.swift; sourceTree = "<group>"; };
+		40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionArrayInThreeEqualParts.swift; sourceTree = "<group>"; };
 		40D588B728C0952C00FC157E /* SingleNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNum.swift; sourceTree = "<group>"; };
 		40D588B928C09C6B00FC157E /* isPalindromeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPalindromeString.swift; sourceTree = "<group>"; };
 		40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMapFilter.swift; sourceTree = "<group>"; };
@@ -604,6 +608,8 @@
 			children = (
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
 				40D56488290948F300881090 /* CountCharacters.swift */,
+				40D5648A290A78C400881090 /* LongestCIS.swift */,
+				40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */,
 				40D5647E2909195B00881090 /* FindTheTownJudge.swift */,
 				40D564802909264E00881090 /* ComplementOfBase10Int.swift */,
 				40D5648229092BE400881090 /* OccurencesAfterBigram.swift */,
@@ -990,6 +996,7 @@
 				402EF3F828DDC32D00A1D8A9 /* PartitionArray.swift in Sources */,
 				4015232628F05B0400168595 /* CheckIfIsInArange.swift in Sources */,
 				402EF3DC28DB10A600A1D8A9 /* UglyNumber.swift in Sources */,
+				40D5648D290A836E00881090 /* PartitionArrayInThreeEqualParts.swift in Sources */,
 				40D5891F28C1FA2C00FC157E /* BuildArrayPermutation.swift in Sources */,
 				4078177328ABB0110089BB06 /* FirstUniqueChar.swift in Sources */,
 				4089E8D428A53F2800F52F84 /* MaxIncreaseSkyline.swift in Sources */,
@@ -1146,6 +1153,7 @@
 				4042BCCA2902A83B00705147 /* 4Sum.swift in Sources */,
 				402EF3CA28D9CF6B00A1D8A9 /* LengthOfLastWord.swift in Sources */,
 				4042BCD42906841500705147 /* FlipAndInvertImage.swift in Sources */,
+				40D5648B290A78C400881090 /* LongestCIS.swift in Sources */,
 				4091A82428ACE50900C079CE /* RearrangedArray.swift in Sources */,
 				40A6B50528F97F19000535B6 /* DetectCapital.swift in Sources */,
 				402EF43E28E5B8AC00A1D8A9 /* CheckIfPangram.swift in Sources */,
