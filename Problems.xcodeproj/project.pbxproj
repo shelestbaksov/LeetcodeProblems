@@ -257,6 +257,8 @@
 		40D5648D290A836E00881090 /* PartitionArrayInThreeEqualParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */; };
 		40D5648F290A9A6300881090 /* HardestWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5648E290A9A6300881090 /* HardestWorker.swift */; };
 		40D56491290AA82900881090 /* DetermineIfTwoEventsHaveConflicts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D56490290AA82900881090 /* DetermineIfTwoEventsHaveConflicts.swift */; };
+		40D56495290ABC6C00881090 /* RedistributeCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D56494290ABC6C00881090 /* RedistributeCharacters.swift */; };
+		40D56497290ABF2200881090 /* CountCommonWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D56496290ABF2200881090 /* CountCommonWords.swift */; };
 		40D588B828C0952C00FC157E /* SingleNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B728C0952C00FC157E /* SingleNum.swift */; };
 		40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B928C09C6B00FC157E /* isPalindromeString.swift */; };
 		40D588BC28C0A2B500FC157E /* ReduceMapFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */; };
@@ -550,6 +552,8 @@
 		40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionArrayInThreeEqualParts.swift; sourceTree = "<group>"; };
 		40D5648E290A9A6300881090 /* HardestWorker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HardestWorker.swift; sourceTree = "<group>"; };
 		40D56490290AA82900881090 /* DetermineIfTwoEventsHaveConflicts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetermineIfTwoEventsHaveConflicts.swift; sourceTree = "<group>"; };
+		40D56494290ABC6C00881090 /* RedistributeCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedistributeCharacters.swift; sourceTree = "<group>"; };
+		40D56496290ABF2200881090 /* CountCommonWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountCommonWords.swift; sourceTree = "<group>"; };
 		40D588B728C0952C00FC157E /* SingleNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNum.swift; sourceTree = "<group>"; };
 		40D588B928C09C6B00FC157E /* isPalindromeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPalindromeString.swift; sourceTree = "<group>"; };
 		40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMapFilter.swift; sourceTree = "<group>"; };
@@ -616,6 +620,8 @@
 				40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */,
 				40D5648E290A9A6300881090 /* HardestWorker.swift */,
 				40D56490290AA82900881090 /* DetermineIfTwoEventsHaveConflicts.swift */,
+				40D56494290ABC6C00881090 /* RedistributeCharacters.swift */,
+				40D56496290ABF2200881090 /* CountCommonWords.swift */,
 				40D5647E2909195B00881090 /* FindTheTownJudge.swift */,
 				40D564802909264E00881090 /* ComplementOfBase10Int.swift */,
 				40D5648229092BE400881090 /* OccurencesAfterBigram.swift */,
@@ -961,6 +967,7 @@
 				4033819528D311E900ABBCD2 /* CountEqualAndDivisible.swift in Sources */,
 				4015230828EDABFB00168595 /* IntersectionOfMultipleArrays.swift in Sources */,
 				406A44572843DE33007BE6F6 /* main.swift in Sources */,
+				40D56495290ABC6C00881090 /* RedistributeCharacters.swift in Sources */,
 				401522F828EC3F4200168595 /* ReverseString.swift in Sources */,
 				403381A128D32A6D00ABBCD2 /* DivideArrayIntoPairs.swift in Sources */,
 				40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */,
@@ -1030,6 +1037,7 @@
 				402EF3D628DA03BD00A1D8A9 /* MinimumHoursOfTrainingToWinCompetition.swift in Sources */,
 				4015230A28EDAE1800168595 /* FindDifference.swift in Sources */,
 				4091A82228ACDCA500C079CE /* MorseCode.swift in Sources */,
+				40D56497290ABF2200881090 /* CountCommonWords.swift in Sources */,
 				40A6B4EF28F7F3E5000535B6 /* SquaresOfSortedArray.swift in Sources */,
 				408A3DD528B3D8E900B0DF19 /* ValidPerfectSquare.swift in Sources */,
 				401522FE28EC638100168595 /* ReplaceElementsWithGreatestRight.swift in Sources */,
