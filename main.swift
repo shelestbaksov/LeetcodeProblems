@@ -1,3 +1,4 @@
 
 
-print(canThreePartsEqualSum([12,-4,16,-5,9,-3,3,8,0]))
+print(hardestWorker(10,
+                    [[0,3],[2,5],[0,9],[1,15]]))

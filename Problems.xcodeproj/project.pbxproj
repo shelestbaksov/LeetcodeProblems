@@ -255,6 +255,8 @@
 		40D56489290948F300881090 /* CountCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D56488290948F300881090 /* CountCharacters.swift */; };
 		40D5648B290A78C400881090 /* LongestCIS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5648A290A78C400881090 /* LongestCIS.swift */; };
 		40D5648D290A836E00881090 /* PartitionArrayInThreeEqualParts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */; };
+		40D5648F290A9A6300881090 /* HardestWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5648E290A9A6300881090 /* HardestWorker.swift */; };
+		40D56491290AA82900881090 /* DetermineIfTwoEventsHaveConflicts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D56490290AA82900881090 /* DetermineIfTwoEventsHaveConflicts.swift */; };
 		40D588B828C0952C00FC157E /* SingleNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B728C0952C00FC157E /* SingleNum.swift */; };
 		40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B928C09C6B00FC157E /* isPalindromeString.swift */; };
 		40D588BC28C0A2B500FC157E /* ReduceMapFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */; };
@@ -546,6 +548,8 @@
 		40D56488290948F300881090 /* CountCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountCharacters.swift; sourceTree = "<group>"; };
 		40D5648A290A78C400881090 /* LongestCIS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestCIS.swift; sourceTree = "<group>"; };
 		40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartitionArrayInThreeEqualParts.swift; sourceTree = "<group>"; };
+		40D5648E290A9A6300881090 /* HardestWorker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HardestWorker.swift; sourceTree = "<group>"; };
+		40D56490290AA82900881090 /* DetermineIfTwoEventsHaveConflicts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetermineIfTwoEventsHaveConflicts.swift; sourceTree = "<group>"; };
 		40D588B728C0952C00FC157E /* SingleNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNum.swift; sourceTree = "<group>"; };
 		40D588B928C09C6B00FC157E /* isPalindromeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPalindromeString.swift; sourceTree = "<group>"; };
 		40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMapFilter.swift; sourceTree = "<group>"; };
@@ -610,6 +614,8 @@
 				40D56488290948F300881090 /* CountCharacters.swift */,
 				40D5648A290A78C400881090 /* LongestCIS.swift */,
 				40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */,
+				40D5648E290A9A6300881090 /* HardestWorker.swift */,
+				40D56490290AA82900881090 /* DetermineIfTwoEventsHaveConflicts.swift */,
 				40D5647E2909195B00881090 /* FindTheTownJudge.swift */,
 				40D564802909264E00881090 /* ComplementOfBase10Int.swift */,
 				40D5648229092BE400881090 /* OccurencesAfterBigram.swift */,
@@ -986,6 +992,7 @@
 				402EF3CC28D9E81300A1D8A9 /* InOrderTraversal.swift in Sources */,
 				40A6B4ED28F70A95000535B6 /* NumOfCommonFactors.swift in Sources */,
 				40A6B4E928F70188000535B6 /* MaxNumOfBalloons.swift in Sources */,
+				40D56491290AA82900881090 /* DetermineIfTwoEventsHaveConflicts.swift in Sources */,
 				4033819128D30D0800ABBCD2 /* NumberOfArithmeticTriplets.swift in Sources */,
 				40D25FBD28B8D20A00CE8D05 /* CheckIfExists.swift in Sources */,
 				4078172728AA65560089BB06 /* FindAmountOfPairs.swift in Sources */,
@@ -1069,6 +1076,7 @@
 				4033814828CA2CF100ABBCD2 /* DefangingAnIPAddress.swift in Sources */,
 				40D5893928C5E67E00FC157E /* MaximumProductDifference.swift in Sources */,
 				40D588B828C0952C00FC157E /* SingleNum.swift in Sources */,
+				40D5648F290A9A6300881090 /* HardestWorker.swift in Sources */,
 				402EF45228EACDCE00A1D8A9 /* MinimumSum.swift in Sources */,
 				408A3DD728B4BE6200B0DF19 /* LinkedListIsPalindrome.swift in Sources */,
 				4042BCD22906827700705147 /* MaxConsecutiveOnes.swift in Sources */,
