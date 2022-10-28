@@ -1,3 +1,3 @@
 
-
-print(makeEqual(["abc","aabc","bc"]))
+print(checkAlmostEquivalent("abcdeef",
+                            "abaaacc"))
