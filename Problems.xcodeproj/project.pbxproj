@@ -262,6 +262,7 @@
 		40D56499290C2C3600881090 /* CheckAlmostEquivalent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D56498290C2C3600881090 /* CheckAlmostEquivalent.swift */; };
 		40D5649B290FC61500881090 /* MergeSimilarItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5649A290FC61500881090 /* MergeSimilarItems.swift */; };
 		40D5649D290FCC3900881090 /* LargestPositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5649C290FCC3900881090 /* LargestPositive.swift */; };
+		40D564A1290FEB6200881090 /* MinMaxGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D564A0290FEB6200881090 /* MinMaxGame.swift */; };
 		40D588B828C0952C00FC157E /* SingleNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B728C0952C00FC157E /* SingleNum.swift */; };
 		40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B928C09C6B00FC157E /* isPalindromeString.swift */; };
 		40D588BC28C0A2B500FC157E /* ReduceMapFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */; };
@@ -560,6 +561,7 @@
 		40D56498290C2C3600881090 /* CheckAlmostEquivalent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckAlmostEquivalent.swift; sourceTree = "<group>"; };
 		40D5649A290FC61500881090 /* MergeSimilarItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSimilarItems.swift; sourceTree = "<group>"; };
 		40D5649C290FCC3900881090 /* LargestPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPositive.swift; sourceTree = "<group>"; };
+		40D564A0290FEB6200881090 /* MinMaxGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinMaxGame.swift; sourceTree = "<group>"; };
 		40D588B728C0952C00FC157E /* SingleNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNum.swift; sourceTree = "<group>"; };
 		40D588B928C09C6B00FC157E /* isPalindromeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPalindromeString.swift; sourceTree = "<group>"; };
 		40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMapFilter.swift; sourceTree = "<group>"; };
@@ -624,6 +626,7 @@
 				40D56498290C2C3600881090 /* CheckAlmostEquivalent.swift */,
 				40D5649A290FC61500881090 /* MergeSimilarItems.swift */,
 				40D5649C290FCC3900881090 /* LargestPositive.swift */,
+				40D564A0290FEB6200881090 /* MinMaxGame.swift */,
 				40D56488290948F300881090 /* CountCharacters.swift */,
 				40D5648A290A78C400881090 /* LongestCIS.swift */,
 				40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */,
@@ -1141,6 +1144,7 @@
 				40C68FE428F5965300D46AAB /* MissingNumber.swift in Sources */,
 				4033819F28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift in Sources */,
 				402EF40628E19CB400A1D8A9 /* SortThePeople.swift in Sources */,
+				40D564A1290FEB6200881090 /* MinMaxGame.swift in Sources */,
 				402EF3E028DB4BFD00A1D8A9 /* GuessNumberHigherOrLower.swift in Sources */,
 				40D5892128C1FAF800FC157E /* FinalValueAfterOperations.swift in Sources */,
 				40A6B4F728F80F98000535B6 /* NumberOfLinesToWriteString.swift in Sources */,
