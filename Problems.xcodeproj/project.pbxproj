@@ -260,6 +260,8 @@
 		40D56495290ABC6C00881090 /* RedistributeCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D56494290ABC6C00881090 /* RedistributeCharacters.swift */; };
 		40D56497290ABF2200881090 /* CountCommonWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D56496290ABF2200881090 /* CountCommonWords.swift */; };
 		40D56499290C2C3600881090 /* CheckAlmostEquivalent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D56498290C2C3600881090 /* CheckAlmostEquivalent.swift */; };
+		40D5649B290FC61500881090 /* MergeSimilarItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5649A290FC61500881090 /* MergeSimilarItems.swift */; };
+		40D5649D290FCC3900881090 /* LargestPositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5649C290FCC3900881090 /* LargestPositive.swift */; };
 		40D588B828C0952C00FC157E /* SingleNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B728C0952C00FC157E /* SingleNum.swift */; };
 		40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B928C09C6B00FC157E /* isPalindromeString.swift */; };
 		40D588BC28C0A2B500FC157E /* ReduceMapFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */; };
@@ -556,6 +558,8 @@
 		40D56494290ABC6C00881090 /* RedistributeCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedistributeCharacters.swift; sourceTree = "<group>"; };
 		40D56496290ABF2200881090 /* CountCommonWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountCommonWords.swift; sourceTree = "<group>"; };
 		40D56498290C2C3600881090 /* CheckAlmostEquivalent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckAlmostEquivalent.swift; sourceTree = "<group>"; };
+		40D5649A290FC61500881090 /* MergeSimilarItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSimilarItems.swift; sourceTree = "<group>"; };
+		40D5649C290FCC3900881090 /* LargestPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPositive.swift; sourceTree = "<group>"; };
 		40D588B728C0952C00FC157E /* SingleNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNum.swift; sourceTree = "<group>"; };
 		40D588B928C09C6B00FC157E /* isPalindromeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPalindromeString.swift; sourceTree = "<group>"; };
 		40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMapFilter.swift; sourceTree = "<group>"; };
@@ -618,6 +622,8 @@
 			children = (
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
 				40D56498290C2C3600881090 /* CheckAlmostEquivalent.swift */,
+				40D5649A290FC61500881090 /* MergeSimilarItems.swift */,
+				40D5649C290FCC3900881090 /* LargestPositive.swift */,
 				40D56488290948F300881090 /* CountCharacters.swift */,
 				40D5648A290A78C400881090 /* LongestCIS.swift */,
 				40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */,
@@ -1114,6 +1120,7 @@
 				40F9C3C928BE35B200C72C5E /* ArithmeticSubarray.swift in Sources */,
 				4042BCCC2902AC5B00705147 /* CountQuadruplets.swift in Sources */,
 				4033814C28CA309900ABBCD2 /* SortingTheSentence.swift in Sources */,
+				40D5649B290FC61500881090 /* MergeSimilarItems.swift in Sources */,
 				401522F228EC2AB400168595 /* CheckOccurancesOfAllCharacters.swift in Sources */,
 				408A3DC928AF8B6200B0DF19 /* RemoveElement.swift in Sources */,
 				408A3DD328B39C0000B0DF19 /* HasGroupSizeX.swift in Sources */,
@@ -1163,6 +1170,7 @@
 				40A6B4FB28F8379B000535B6 /* NumberOfStudentsUnableToEat.swift in Sources */,
 				4042BCE22908010100705147 /* IsSameAfterReversal.swift in Sources */,
 				40D5891B28C1098100FC157E /* MajorityElement.swift in Sources */,
+				40D5649D290FCC3900881090 /* LargestPositive.swift in Sources */,
 				402EF3FA28DDCD4300A1D8A9 /* MinimizeMaxPairSumInArray.swift in Sources */,
 				4033814E28CB24E000ABBCD2 /* MergeSortedArray.swift in Sources */,
 				40161FB3288012C000172E7E /* NearestPoint.swift in Sources */,
