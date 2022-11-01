@@ -264,6 +264,7 @@
 		40D5649D290FCC3900881090 /* LargestPositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5649C290FCC3900881090 /* LargestPositive.swift */; };
 		40D564A1290FEB6200881090 /* MinMaxGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D564A0290FEB6200881090 /* MinMaxGame.swift */; };
 		40D564A3290FF1B600881090 /* DeleteAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D564A2290FF1B600881090 /* DeleteAnagram.swift */; };
+		40D564A529110C5D00881090 /* FindAllKDistanceIndices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D564A429110C5D00881090 /* FindAllKDistanceIndices.swift */; };
 		40D588B828C0952C00FC157E /* SingleNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B728C0952C00FC157E /* SingleNum.swift */; };
 		40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588B928C09C6B00FC157E /* isPalindromeString.swift */; };
 		40D588BC28C0A2B500FC157E /* ReduceMapFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */; };
@@ -564,6 +565,7 @@
 		40D5649C290FCC3900881090 /* LargestPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestPositive.swift; sourceTree = "<group>"; };
 		40D564A0290FEB6200881090 /* MinMaxGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinMaxGame.swift; sourceTree = "<group>"; };
 		40D564A2290FF1B600881090 /* DeleteAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteAnagram.swift; sourceTree = "<group>"; };
+		40D564A429110C5D00881090 /* FindAllKDistanceIndices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllKDistanceIndices.swift; sourceTree = "<group>"; };
 		40D588B728C0952C00FC157E /* SingleNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNum.swift; sourceTree = "<group>"; };
 		40D588B928C09C6B00FC157E /* isPalindromeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isPalindromeString.swift; sourceTree = "<group>"; };
 		40D588BB28C0A2B500FC157E /* ReduceMapFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReduceMapFilter.swift; sourceTree = "<group>"; };
@@ -630,6 +632,7 @@
 				40D5649C290FCC3900881090 /* LargestPositive.swift */,
 				40D564A0290FEB6200881090 /* MinMaxGame.swift */,
 				40D564A2290FF1B600881090 /* DeleteAnagram.swift */,
+				40D564A429110C5D00881090 /* FindAllKDistanceIndices.swift */,
 				40D56488290948F300881090 /* CountCharacters.swift */,
 				40D5648A290A78C400881090 /* LongestCIS.swift */,
 				40D5648C290A836E00881090 /* PartitionArrayInThreeEqualParts.swift */,
@@ -1068,6 +1071,7 @@
 				402EF41628E2DCE300A1D8A9 /* RemoveAllOccurences.swift in Sources */,
 				40F9C3BB28BCBBEE00C72C5E /* CountKdifference.swift in Sources */,
 				4033814A28CA2DD800ABBCD2 /* JewelsAndStones.swift in Sources */,
+				40D564A529110C5D00881090 /* FindAllKDistanceIndices.swift in Sources */,
 				40F9C3CB28BF4E4C00C72C5E /* ConvertToBaseSeven.swift in Sources */,
 				400FC23028C8AA30009CC30E /* FindAllDisappearedNumbers.swift in Sources */,
 				4015231428EEDA2400168595 /* FindLucky.swift in Sources */,
