@@ -212,6 +212,7 @@
 		408A3DD728B4BE6200B0DF19 /* LinkedListIsPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408A3DD628B4BE6100B0DF19 /* LinkedListIsPalindrome.swift */; };
 		408A919928AE329200231F15 /* MinSetSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408A919828AE329200231F15 /* MinSetSize.swift */; };
 		408C27DC2913C19000A87178 /* MinOperationsToMake.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408C27DB2913C19000A87178 /* MinOperationsToMake.swift */; };
+		408C27DE2913C5BD00A87178 /* FindMaxAvreage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408C27DD2913C5BD00A87178 /* FindMaxAvreage.swift */; };
 		4091A82228ACDCA500C079CE /* MorseCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4091A82128ACDCA500C079CE /* MorseCode.swift */; };
 		4091A82428ACE50900C079CE /* RearrangedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4091A82328ACE50900C079CE /* RearrangedArray.swift */; };
 		40A6B4E128F6DF82000535B6 /* PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4E028F6DF81000535B6 /* PowerOfTwo.swift */; };
@@ -514,6 +515,7 @@
 		408A3DD628B4BE6100B0DF19 /* LinkedListIsPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedListIsPalindrome.swift; sourceTree = "<group>"; };
 		408A919828AE329200231F15 /* MinSetSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinSetSize.swift; sourceTree = "<group>"; };
 		408C27DB2913C19000A87178 /* MinOperationsToMake.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinOperationsToMake.swift; sourceTree = "<group>"; };
+		408C27DD2913C5BD00A87178 /* FindMaxAvreage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMaxAvreage.swift; sourceTree = "<group>"; };
 		4091A82128ACDCA500C079CE /* MorseCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MorseCode.swift; sourceTree = "<group>"; };
 		4091A82328ACE50900C079CE /* RearrangedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RearrangedArray.swift; sourceTree = "<group>"; };
 		40A6B4E028F6DF81000535B6 /* PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfTwo.swift; sourceTree = "<group>"; };
@@ -630,6 +632,7 @@
 			children = (
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
 				408C27DB2913C19000A87178 /* MinOperationsToMake.swift */,
+				408C27DD2913C5BD00A87178 /* FindMaxAvreage.swift */,
 				40D56498290C2C3600881090 /* CheckAlmostEquivalent.swift */,
 				40D5649A290FC61500881090 /* MergeSimilarItems.swift */,
 				40D5649C290FCC3900881090 /* LargestPositive.swift */,
@@ -1211,6 +1214,7 @@
 				40F9C3BF28BD049B00C72C5E /* maxSatisfaction.swift in Sources */,
 				4016200F288165D000172E7E /* ArithmeticProgression.swift in Sources */,
 				408A3DCF28B36AD900B0DF19 /* CanBeIncreasing.swift in Sources */,
+				408C27DE2913C5BD00A87178 /* FindMaxAvreage.swift in Sources */,
 				40C5E8D12897B9F6006F8C66 /* PivotIndex.swift in Sources */,
 				40161FAD287D57B200172E7E /* FirstBadVersion.swift in Sources */,
 				4015230628EDA44E00168595 /* SmallestIndexWithEqualValue.swift in Sources */,
