@@ -239,6 +239,8 @@
 		40A82E28291A810600AF59E3 /* IsMonotonic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A82E27291A810600AF59E3 /* IsMonotonic.swift */; };
 		40A82E2A291A861100AF59E3 /* WaterBottles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A82E29291A861100AF59E3 /* WaterBottles.swift */; };
 		40A82E2C291B928800AF59E3 /* FindMedianSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A82E2B291B928800AF59E3 /* FindMedianSortedArray.swift */; };
+		40A82E30291B9B2300AF59E3 /* DivideTwoIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A82E2F291B9B2300AF59E3 /* DivideTwoIntegers.swift */; };
+		40A82E32291BA26600AF59E3 /* Pow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A82E31291BA26600AF59E3 /* Pow.swift */; };
 		40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C3E28873002000AAB4B /* TreeTraversal.swift */; };
 		40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C402887E578000AAB4B /* DecryptIntToStr.swift */; };
 		40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */; };
@@ -549,6 +551,8 @@
 		40A82E27291A810600AF59E3 /* IsMonotonic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsMonotonic.swift; sourceTree = "<group>"; };
 		40A82E29291A861100AF59E3 /* WaterBottles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterBottles.swift; sourceTree = "<group>"; };
 		40A82E2B291B928800AF59E3 /* FindMedianSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMedianSortedArray.swift; sourceTree = "<group>"; };
+		40A82E2F291B9B2300AF59E3 /* DivideTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoIntegers.swift; sourceTree = "<group>"; };
+		40A82E31291BA26600AF59E3 /* Pow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pow.swift; sourceTree = "<group>"; };
 		40B38C3E28873002000AAB4B /* TreeTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
 		40B38C402887E578000AAB4B /* DecryptIntToStr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptIntToStr.swift; sourceTree = "<group>"; };
 		40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAllOddArrays.swift; sourceTree = "<group>"; };
@@ -654,6 +658,8 @@
 				40A82E27291A810600AF59E3 /* IsMonotonic.swift */,
 				40A82E29291A861100AF59E3 /* WaterBottles.swift */,
 				40A82E2B291B928800AF59E3 /* FindMedianSortedArray.swift */,
+				40A82E2F291B9B2300AF59E3 /* DivideTwoIntegers.swift */,
+				40A82E31291BA26600AF59E3 /* Pow.swift */,
 				40D56498290C2C3600881090 /* CheckAlmostEquivalent.swift */,
 				40D5649A290FC61500881090 /* MergeSimilarItems.swift */,
 				40D5649C290FCC3900881090 /* LargestPositive.swift */,
@@ -1145,6 +1151,7 @@
 				402EF42428E30B0500A1D8A9 /* SumOfEvenAfterQueries.swift in Sources */,
 				4042BCC4290294E600705147 /* 3Sum.swift in Sources */,
 				40F9C3B928BCB12100C72C5E /* MinMovesToSeat.swift in Sources */,
+				40A82E32291BA26600AF59E3 /* Pow.swift in Sources */,
 				402EF3D828DAFAA700A1D8A9 /* MinimumAmountOfTimeToFillCups.swift in Sources */,
 				40A6B50928F98E86000535B6 /* DegreeOfArray.swift in Sources */,
 				40A6B4F928F82870000535B6 /* MaximizeSumOfArrayAfterKNegations.swift in Sources */,
@@ -1264,6 +1271,7 @@
 				401522EA28EB06EA00168595 /* FindCenterOfStarGraph.swift in Sources */,
 				40A82E22291926FA00AF59E3 /* CountValidWords.swift in Sources */,
 				40161FAF287D5F0700172E7E /* MergeTwoSortedLists.swift in Sources */,
+				40A82E30291B9B2300AF59E3 /* DivideTwoIntegers.swift in Sources */,
 				40D25FAF28B60B6600CE8D05 /* PowerOfThree.swift in Sources */,
 				401522EC28EB083600168595 /* ReverseWordsInAstring.swift in Sources */,
 				4033815428CB426300ABBCD2 /* ReversePrefixOfWord.swift in Sources */,
