@@ -241,6 +241,8 @@
 		40A82E2C291B928800AF59E3 /* FindMedianSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A82E2B291B928800AF59E3 /* FindMedianSortedArray.swift */; };
 		40A82E30291B9B2300AF59E3 /* DivideTwoIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A82E2F291B9B2300AF59E3 /* DivideTwoIntegers.swift */; };
 		40A82E32291BA26600AF59E3 /* Pow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A82E31291BA26600AF59E3 /* Pow.swift */; };
+		40A82E34291BBCED00AF59E3 /* RemoveNthFromEnd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A82E33291BBCED00AF59E3 /* RemoveNthFromEnd.swift */; };
+		40A82E36291BDA9F00AF59E3 /* EliminationGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A82E35291BDA9F00AF59E3 /* EliminationGame.swift */; };
 		40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C3E28873002000AAB4B /* TreeTraversal.swift */; };
 		40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C402887E578000AAB4B /* DecryptIntToStr.swift */; };
 		40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */; };
@@ -553,6 +555,8 @@
 		40A82E2B291B928800AF59E3 /* FindMedianSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMedianSortedArray.swift; sourceTree = "<group>"; };
 		40A82E2F291B9B2300AF59E3 /* DivideTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoIntegers.swift; sourceTree = "<group>"; };
 		40A82E31291BA26600AF59E3 /* Pow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pow.swift; sourceTree = "<group>"; };
+		40A82E33291BBCED00AF59E3 /* RemoveNthFromEnd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveNthFromEnd.swift; sourceTree = "<group>"; };
+		40A82E35291BDA9F00AF59E3 /* EliminationGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EliminationGame.swift; sourceTree = "<group>"; };
 		40B38C3E28873002000AAB4B /* TreeTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
 		40B38C402887E578000AAB4B /* DecryptIntToStr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptIntToStr.swift; sourceTree = "<group>"; };
 		40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAllOddArrays.swift; sourceTree = "<group>"; };
@@ -649,6 +653,7 @@
 			isa = PBXGroup;
 			children = (
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
+				40A82E35291BDA9F00AF59E3 /* EliminationGame.swift */,
 				408C27DB2913C19000A87178 /* MinOperationsToMake.swift */,
 				408C27DD2913C5BD00A87178 /* FindMaxAvreage.swift */,
 				40A82E1F29191A4B00AF59E3 /* SlowestKey.swift */,
@@ -660,6 +665,7 @@
 				40A82E2B291B928800AF59E3 /* FindMedianSortedArray.swift */,
 				40A82E2F291B9B2300AF59E3 /* DivideTwoIntegers.swift */,
 				40A82E31291BA26600AF59E3 /* Pow.swift */,
+				40A82E33291BBCED00AF59E3 /* RemoveNthFromEnd.swift */,
 				40D56498290C2C3600881090 /* CheckAlmostEquivalent.swift */,
 				40D5649A290FC61500881090 /* MergeSimilarItems.swift */,
 				40D5649C290FCC3900881090 /* LargestPositive.swift */,
@@ -1058,6 +1064,7 @@
 				40D25FBD28B8D20A00CE8D05 /* CheckIfExists.swift in Sources */,
 				4078172728AA65560089BB06 /* FindAmountOfPairs.swift in Sources */,
 				402EF3F028DC93A400A1D8A9 /* FindTargetIndicesArterSort.swift in Sources */,
+				40A82E34291BBCED00AF59E3 /* RemoveNthFromEnd.swift in Sources */,
 				40C5E8D52897CD25006F8C66 /* HaystackNeedle.swift in Sources */,
 				4089E8C5289A7C4800F52F84 /* LinkedListsMerge.swift in Sources */,
 				4015231E28F02B9600168595 /* ContainsNearbyDuplicate.swift in Sources */,
@@ -1071,6 +1078,7 @@
 				40A82E24291A664900AF59E3 /* ModifyString.swift in Sources */,
 				4078170528AA613A0089BB06 /* LongestPalindrome.swift in Sources */,
 				40C5E8CD288A849E006F8C66 /* SortIntByTheNumOf1.swift in Sources */,
+				40A82E36291BDA9F00AF59E3 /* EliminationGame.swift in Sources */,
 				402EF43428E49CA700A1D8A9 /* AddingSpaces.swift in Sources */,
 				402EF43A28E5AB3C00A1D8A9 /* RemoveDuplicatesFromSortedList.swift in Sources */,
 				4078171328AA62F30089BB06 /* IsPalindrome.swift in Sources */,

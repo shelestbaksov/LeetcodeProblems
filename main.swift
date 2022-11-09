@@ -1,2 +1,1 @@
-
-print(findMedianSortedArrays([1,2], [3,4]))
+print(lastRemaining(10))
