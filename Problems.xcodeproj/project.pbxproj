@@ -253,6 +253,7 @@
 		40B8EE9D28F467FB0031A451 /* MostFrequentEvenElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B8EE9C28F467FB0031A451 /* MostFrequentEvenElement.swift */; };
 		40BF023429227BBC005A3AFA /* ConvertTempreature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF023329227BBC005A3AFA /* ConvertTempreature.swift */; };
 		40BF023629228468005A3AFA /* FindTheWinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF023529228468005A3AFA /* FindTheWinner.swift */; };
+		40BF023C2923888E005A3AFA /* FrequencySort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF023B2923888E005A3AFA /* FrequencySort.swift */; };
 		40C5E8CD288A849E006F8C66 /* SortIntByTheNumOf1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */; };
 		40C5E8CF2897B732006F8C66 /* RunningSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CE2897B731006F8C66 /* RunningSum.swift */; };
 		40C5E8D12897B9F6006F8C66 /* PivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */; };
@@ -573,6 +574,7 @@
 		40B8EE9C28F467FB0031A451 /* MostFrequentEvenElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MostFrequentEvenElement.swift; sourceTree = "<group>"; };
 		40BF023329227BBC005A3AFA /* ConvertTempreature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertTempreature.swift; sourceTree = "<group>"; };
 		40BF023529228468005A3AFA /* FindTheWinner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheWinner.swift; sourceTree = "<group>"; };
+		40BF023B2923888E005A3AFA /* FrequencySort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrequencySort.swift; sourceTree = "<group>"; };
 		40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortIntByTheNumOf1.swift; sourceTree = "<group>"; };
 		40C5E8CE2897B731006F8C66 /* RunningSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSum.swift; sourceTree = "<group>"; };
 		40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PivotIndex.swift; sourceTree = "<group>"; };
@@ -669,6 +671,7 @@
 				40BF023329227BBC005A3AFA /* ConvertTempreature.swift */,
 				40BF023529228468005A3AFA /* FindTheWinner.swift */,
 				40A82E39291CF02C00AF59E3 /* SortColors.swift */,
+				40BF023B2923888E005A3AFA /* FrequencySort.swift */,
 				40A82E3B291D0EE300AF59E3 /* InsertDelete.swift */,
 				40A82E3D291D246D00AF59E3 /* UncommonWordsFromTwoStrings.swift */,
 				40A82E3F291E3DB400AF59E3 /* RearrangeCharacters.swift */,
@@ -1127,6 +1130,7 @@
 				40C5E8D32897BD79006F8C66 /* DominantIndex.swift in Sources */,
 				4078171728AA63D80089BB06 /* IsPowerOfTwo.swift in Sources */,
 				40F9C3CF28BFA78B00C72C5E /* Sqrt(x).swift in Sources */,
+				40BF023C2923888E005A3AFA /* FrequencySort.swift in Sources */,
 				4033818928D21A1900ABBCD2 /* CountPrefixes.swift in Sources */,
 				40A6B4E128F6DF82000535B6 /* PowerOfTwo.swift in Sources */,
 				4015231228EED33C00168595 /* DivideString.swift in Sources */,
