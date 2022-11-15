@@ -256,6 +256,8 @@
 		40BF023C2923888E005A3AFA /* FrequencySort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF023B2923888E005A3AFA /* FrequencySort.swift */; };
 		40BF023E29238D94005A3AFA /* MaximumProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF023D29238D94005A3AFA /* MaximumProduct.swift */; };
 		40BF02402923B78A005A3AFA /* SubtractToMakeZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF023F2923B78A005A3AFA /* SubtractToMakeZero.swift */; };
+		40BF02422923C031005A3AFA /* CanBeEqual.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF02412923C031005A3AFA /* CanBeEqual.swift */; };
+		40BF02442923C119005A3AFA /* SpecialArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF02432923C119005A3AFA /* SpecialArray.swift */; };
 		40C5E8CD288A849E006F8C66 /* SortIntByTheNumOf1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */; };
 		40C5E8CF2897B732006F8C66 /* RunningSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CE2897B731006F8C66 /* RunningSum.swift */; };
 		40C5E8D12897B9F6006F8C66 /* PivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */; };
@@ -579,6 +581,8 @@
 		40BF023B2923888E005A3AFA /* FrequencySort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrequencySort.swift; sourceTree = "<group>"; };
 		40BF023D29238D94005A3AFA /* MaximumProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProduct.swift; sourceTree = "<group>"; };
 		40BF023F2923B78A005A3AFA /* SubtractToMakeZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtractToMakeZero.swift; sourceTree = "<group>"; };
+		40BF02412923C031005A3AFA /* CanBeEqual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanBeEqual.swift; sourceTree = "<group>"; };
+		40BF02432923C119005A3AFA /* SpecialArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialArray.swift; sourceTree = "<group>"; };
 		40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortIntByTheNumOf1.swift; sourceTree = "<group>"; };
 		40C5E8CE2897B731006F8C66 /* RunningSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSum.swift; sourceTree = "<group>"; };
 		40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PivotIndex.swift; sourceTree = "<group>"; };
@@ -678,6 +682,8 @@
 				40BF023B2923888E005A3AFA /* FrequencySort.swift */,
 				40BF023D29238D94005A3AFA /* MaximumProduct.swift */,
 				40BF023F2923B78A005A3AFA /* SubtractToMakeZero.swift */,
+				40BF02412923C031005A3AFA /* CanBeEqual.swift */,
+				40BF02432923C119005A3AFA /* SpecialArray.swift */,
 				40A82E3B291D0EE300AF59E3 /* InsertDelete.swift */,
 				40A82E3D291D246D00AF59E3 /* UncommonWordsFromTwoStrings.swift */,
 				40A82E3F291E3DB400AF59E3 /* RearrangeCharacters.swift */,
@@ -1046,6 +1052,7 @@
 				400FC23628CA161D009CC30E /* SearchInsertPosition.swift in Sources */,
 				40EA3CD028FD7E9B00B5641B /* ParkingSystem.swift in Sources */,
 				4015230028ED945000168595 /* MaximumNumberOfWordsYouCanType.swift in Sources */,
+				40BF02422923C031005A3AFA /* CanBeEqual.swift in Sources */,
 				400FC22228C79161009CC30E /* FindTheHighestAltitude.swift in Sources */,
 				407816FB28AA60450089BB06 /* AverageSalary.swift in Sources */,
 				4033819528D311E900ABBCD2 /* CountEqualAndDivisible.swift in Sources */,
@@ -1158,6 +1165,7 @@
 				40A82E3C291D0EE300AF59E3 /* InsertDelete.swift in Sources */,
 				40BF023629228468005A3AFA /* FindTheWinner.swift in Sources */,
 				40A6B4E728F6FE3F000535B6 /* DayOfYear.swift in Sources */,
+				40BF02442923C119005A3AFA /* SpecialArray.swift in Sources */,
 				4042BCE42908042500705147 /* CountOperations.swift in Sources */,
 				40D5892928C2003300FC157E /* SmallerNumbersThanCurrent.swift in Sources */,
 				40D5647F2909195B00881090 /* FindTheTownJudge.swift in Sources */,

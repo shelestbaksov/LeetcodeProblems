@@ -1,2 +1,2 @@
 
-print(minimumOperations([1,5,0,3,5]))
+print(specialArray([0,0]))
