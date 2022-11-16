@@ -1,2 +1,2 @@
 
-print(specialArray([0,0]))
+print(digitCount("1210"))
