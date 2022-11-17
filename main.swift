@@ -1,2 +1,2 @@
 
-print(digitCount("1210"))
+print(replaceDigits("a1b2c3d4e"))
