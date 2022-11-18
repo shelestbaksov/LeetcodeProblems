@@ -263,6 +263,7 @@
 		40BF024C29261E71005A3AFA /* Maximum69Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF024B29261E71005A3AFA /* Maximum69Number.swift */; };
 		40BF024E29262058005A3AFA /* NumberOfStringsThatAppearSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF024D29262058005A3AFA /* NumberOfStringsThatAppearSubstrings.swift */; };
 		40BF02502926231B005A3AFA /* ReplaceDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF024F2926231B005A3AFA /* ReplaceDigits.swift */; };
+		40BF02522927802C005A3AFA /* CountVowelString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF02512927802C005A3AFA /* CountVowelString.swift */; };
 		40C5E8CD288A849E006F8C66 /* SortIntByTheNumOf1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */; };
 		40C5E8CF2897B732006F8C66 /* RunningSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CE2897B731006F8C66 /* RunningSum.swift */; };
 		40C5E8D12897B9F6006F8C66 /* PivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */; };
@@ -593,6 +594,7 @@
 		40BF024B29261E71005A3AFA /* Maximum69Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Maximum69Number.swift; sourceTree = "<group>"; };
 		40BF024D29262058005A3AFA /* NumberOfStringsThatAppearSubstrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfStringsThatAppearSubstrings.swift; sourceTree = "<group>"; };
 		40BF024F2926231B005A3AFA /* ReplaceDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceDigits.swift; sourceTree = "<group>"; };
+		40BF02512927802C005A3AFA /* CountVowelString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountVowelString.swift; sourceTree = "<group>"; };
 		40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortIntByTheNumOf1.swift; sourceTree = "<group>"; };
 		40C5E8CE2897B731006F8C66 /* RunningSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSum.swift; sourceTree = "<group>"; };
 		40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PivotIndex.swift; sourceTree = "<group>"; };
@@ -692,6 +694,7 @@
 				40BF024B29261E71005A3AFA /* Maximum69Number.swift */,
 				40BF024D29262058005A3AFA /* NumberOfStringsThatAppearSubstrings.swift */,
 				40BF024F2926231B005A3AFA /* ReplaceDigits.swift */,
+				40BF02512927802C005A3AFA /* CountVowelString.swift */,
 				40BF023529228468005A3AFA /* FindTheWinner.swift */,
 				40A82E39291CF02C00AF59E3 /* SortColors.swift */,
 				40BF023B2923888E005A3AFA /* FrequencySort.swift */,
@@ -1354,6 +1357,7 @@
 				40D5892728C1FF1B00FC157E /* KidsWithGreatestNumberOfCandies.swift in Sources */,
 				402EF3D228D9FBFA00A1D8A9 /* LemonadeChange.swift in Sources */,
 				4078172128AA64EC0089BB06 /* FindTheAmountOfEvenNumbers.swift in Sources */,
+				40BF02522927802C005A3AFA /* CountVowelString.swift in Sources */,
 				402EF3EA28DC764E00A1D8A9 /* SortEvenAndOddIndices.swift in Sources */,
 				402EF44828E6FBA200A1D8A9 /* RelativeRanks.swift in Sources */,
 				402EF40428E1997200A1D8A9 /* RangeSumBST.swift in Sources */,
