@@ -266,6 +266,8 @@
 		40BF02522927802C005A3AFA /* CountVowelString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF02512927802C005A3AFA /* CountVowelString.swift */; };
 		40BF0256292B7060005A3AFA /* FindKthDistinct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF0255292B7060005A3AFA /* FindKthDistinct.swift */; };
 		40BF0258292E2852005A3AFA /* FindWinners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF0257292E2852005A3AFA /* FindWinners.swift */; };
+		40BF025A292F628A005A3AFA /* FindSpecialInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF0259292F628A005A3AFA /* FindSpecialInteger.swift */; };
+		40BF025C292F6774005A3AFA /* MaxScoreSightseeingPair.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF025B292F6774005A3AFA /* MaxScoreSightseeingPair.swift */; };
 		40C5E8CD288A849E006F8C66 /* SortIntByTheNumOf1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */; };
 		40C5E8CF2897B732006F8C66 /* RunningSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CE2897B731006F8C66 /* RunningSum.swift */; };
 		40C5E8D12897B9F6006F8C66 /* PivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */; };
@@ -599,6 +601,8 @@
 		40BF02512927802C005A3AFA /* CountVowelString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountVowelString.swift; sourceTree = "<group>"; };
 		40BF0255292B7060005A3AFA /* FindKthDistinct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindKthDistinct.swift; sourceTree = "<group>"; };
 		40BF0257292E2852005A3AFA /* FindWinners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindWinners.swift; sourceTree = "<group>"; };
+		40BF0259292F628A005A3AFA /* FindSpecialInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSpecialInteger.swift; sourceTree = "<group>"; };
+		40BF025B292F6774005A3AFA /* MaxScoreSightseeingPair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxScoreSightseeingPair.swift; sourceTree = "<group>"; };
 		40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortIntByTheNumOf1.swift; sourceTree = "<group>"; };
 		40C5E8CE2897B731006F8C66 /* RunningSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSum.swift; sourceTree = "<group>"; };
 		40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PivotIndex.swift; sourceTree = "<group>"; };
@@ -693,6 +697,8 @@
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
 				40A82E35291BDA9F00AF59E3 /* EliminationGame.swift */,
 				40BF02472924FDAD005A3AFA /* DigitCount.swift */,
+				40BF0259292F628A005A3AFA /* FindSpecialInteger.swift */,
+				40BF025B292F6774005A3AFA /* MaxScoreSightseeingPair.swift */,
 				40BF023329227BBC005A3AFA /* ConvertTempreature.swift */,
 				40BF024929253255005A3AFA /* TopKfrequentNums.swift */,
 				40BF024B29261E71005A3AFA /* Maximum69Number.swift */,
@@ -1172,6 +1178,7 @@
 				401522FE28EC638100168595 /* ReplaceElementsWithGreatestRight.swift in Sources */,
 				40C5E8D32897BD79006F8C66 /* DominantIndex.swift in Sources */,
 				4078171728AA63D80089BB06 /* IsPowerOfTwo.swift in Sources */,
+				40BF025C292F6774005A3AFA /* MaxScoreSightseeingPair.swift in Sources */,
 				40F9C3CF28BFA78B00C72C5E /* Sqrt(x).swift in Sources */,
 				40BF023C2923888E005A3AFA /* FrequencySort.swift in Sources */,
 				4033818928D21A1900ABBCD2 /* CountPrefixes.swift in Sources */,
@@ -1207,6 +1214,7 @@
 				4078170F28AA62490089BB06 /* LastStoneWeight.swift in Sources */,
 				40D56489290948F300881090 /* CountCharacters.swift in Sources */,
 				402EF40E28E1A74C00A1D8A9 /* RepeatedCharacter.swift in Sources */,
+				40BF025A292F628A005A3AFA /* FindSpecialInteger.swift in Sources */,
 				4042BCDE2907EE4B00705147 /* ArrangeCoins.swift in Sources */,
 				4015230228ED967700168595 /* SortArrayByParityII.swift in Sources */,
 				4033818728D214D400ABBCD2 /* PercentageOfLetterInString.swift in Sources */,
