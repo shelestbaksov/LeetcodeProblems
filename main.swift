@@ -1,3 +1,3 @@
 
-print(countEven(30))
+print(getLucky("leetcode", 2))
 
