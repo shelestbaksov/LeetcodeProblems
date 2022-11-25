@@ -268,6 +268,8 @@
 		40BF0258292E2852005A3AFA /* FindWinners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF0257292E2852005A3AFA /* FindWinners.swift */; };
 		40BF025A292F628A005A3AFA /* FindSpecialInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF0259292F628A005A3AFA /* FindSpecialInteger.swift */; };
 		40BF025C292F6774005A3AFA /* MaxScoreSightseeingPair.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF025B292F6774005A3AFA /* MaxScoreSightseeingPair.swift */; };
+		40BF025E292F7300005A3AFA /* SortArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF025D292F7300005A3AFA /* SortArray.swift */; };
+		40BF02622930C376005A3AFA /* FreqSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF02612930C376005A3AFA /* FreqSort.swift */; };
 		40C5E8CD288A849E006F8C66 /* SortIntByTheNumOf1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */; };
 		40C5E8CF2897B732006F8C66 /* RunningSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CE2897B731006F8C66 /* RunningSum.swift */; };
 		40C5E8D12897B9F6006F8C66 /* PivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */; };
@@ -603,6 +605,8 @@
 		40BF0257292E2852005A3AFA /* FindWinners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindWinners.swift; sourceTree = "<group>"; };
 		40BF0259292F628A005A3AFA /* FindSpecialInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSpecialInteger.swift; sourceTree = "<group>"; };
 		40BF025B292F6774005A3AFA /* MaxScoreSightseeingPair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxScoreSightseeingPair.swift; sourceTree = "<group>"; };
+		40BF025D292F7300005A3AFA /* SortArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortArray.swift; sourceTree = "<group>"; };
+		40BF02612930C376005A3AFA /* FreqSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreqSort.swift; sourceTree = "<group>"; };
 		40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortIntByTheNumOf1.swift; sourceTree = "<group>"; };
 		40C5E8CE2897B731006F8C66 /* RunningSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSum.swift; sourceTree = "<group>"; };
 		40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PivotIndex.swift; sourceTree = "<group>"; };
@@ -699,6 +703,8 @@
 				40BF02472924FDAD005A3AFA /* DigitCount.swift */,
 				40BF0259292F628A005A3AFA /* FindSpecialInteger.swift */,
 				40BF025B292F6774005A3AFA /* MaxScoreSightseeingPair.swift */,
+				40BF025D292F7300005A3AFA /* SortArray.swift */,
+				40BF02612930C376005A3AFA /* FreqSort.swift */,
 				40BF023329227BBC005A3AFA /* ConvertTempreature.swift */,
 				40BF024929253255005A3AFA /* TopKfrequentNums.swift */,
 				40BF024B29261E71005A3AFA /* Maximum69Number.swift */,
@@ -1159,6 +1165,7 @@
 				400FC22C28C89C9C009CC30E /* MaxNumberOfCoinsYouCanGet.swift in Sources */,
 				4033816E28D0BB7F00ABBCD2 /* KeepMultiplyingFoundValue.swift in Sources */,
 				4042BCE02907F2FA00705147 /* DistributeCandiesToPeople.swift in Sources */,
+				40BF02622930C376005A3AFA /* FreqSort.swift in Sources */,
 				40D5892528C1FDBA00FC157E /* NumOfGoodPairs.swift in Sources */,
 				4078171128AA62660089BB06 /* TopKfrequent.swift in Sources */,
 				4033816428D09CB300ABBCD2 /* NumberOfStudentsDoingHW.swift in Sources */,
@@ -1283,6 +1290,7 @@
 				40A6B4F728F80F98000535B6 /* NumberOfLinesToWriteString.swift in Sources */,
 				40A6B4F528F80C3A000535B6 /* CountOfSegmentsInString.swift in Sources */,
 				4033816A28D0A3CF00ABBCD2 /* FinalPricesWithASpecialDiscount.swift in Sources */,
+				40BF025E292F7300005A3AFA /* SortArray.swift in Sources */,
 				4033815E28CF7EB900ABBCD2 /* FindClosestNumber.swift in Sources */,
 				401522F628EC39AC00168595 /* RemovePalindromicSub.swift in Sources */,
 				40EA3CD228FE9A2400B5641B /* ReverseInteger.swift in Sources */,

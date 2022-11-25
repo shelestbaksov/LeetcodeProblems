@@ -1,3 +1,3 @@
 
-print(replaceDigits("a1b2c3d4e"))
+print(sortArray([5,1,1,2,0,0]))
 
