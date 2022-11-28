@@ -272,6 +272,7 @@
 		40BF02622930C376005A3AFA /* FreqSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF02612930C376005A3AFA /* FreqSort.swift */; };
 		40BF02642930D405005A3AFA /* CountEven.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF02632930D405005A3AFA /* CountEven.swift */; };
 		40BF02662930F2B8005A3AFA /* GetLucky.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF02652930F2B8005A3AFA /* GetLucky.swift */; };
+		40BF02682934A404005A3AFA /* LargestOddNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF02672934A404005A3AFA /* LargestOddNumber.swift */; };
 		40C5E8CD288A849E006F8C66 /* SortIntByTheNumOf1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */; };
 		40C5E8CF2897B732006F8C66 /* RunningSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CE2897B731006F8C66 /* RunningSum.swift */; };
 		40C5E8D12897B9F6006F8C66 /* PivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */; };
@@ -611,6 +612,7 @@
 		40BF02612930C376005A3AFA /* FreqSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreqSort.swift; sourceTree = "<group>"; };
 		40BF02632930D405005A3AFA /* CountEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountEven.swift; sourceTree = "<group>"; };
 		40BF02652930F2B8005A3AFA /* GetLucky.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetLucky.swift; sourceTree = "<group>"; };
+		40BF02672934A404005A3AFA /* LargestOddNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestOddNumber.swift; sourceTree = "<group>"; };
 		40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortIntByTheNumOf1.swift; sourceTree = "<group>"; };
 		40C5E8CE2897B731006F8C66 /* RunningSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSum.swift; sourceTree = "<group>"; };
 		40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PivotIndex.swift; sourceTree = "<group>"; };
@@ -702,6 +704,7 @@
 		406A44552843DE33007BE6F6 /* Problems */ = {
 			isa = PBXGroup;
 			children = (
+				40BF02672934A404005A3AFA /* LargestOddNumber.swift */,
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
 				40A82E35291BDA9F00AF59E3 /* EliminationGame.swift */,
 				40BF02472924FDAD005A3AFA /* DigitCount.swift */,
@@ -1173,6 +1176,7 @@
 				4033816E28D0BB7F00ABBCD2 /* KeepMultiplyingFoundValue.swift in Sources */,
 				4042BCE02907F2FA00705147 /* DistributeCandiesToPeople.swift in Sources */,
 				40BF02622930C376005A3AFA /* FreqSort.swift in Sources */,
+				40BF02682934A404005A3AFA /* LargestOddNumber.swift in Sources */,
 				40D5892528C1FDBA00FC157E /* NumOfGoodPairs.swift in Sources */,
 				4078171128AA62660089BB06 /* TopKfrequent.swift in Sources */,
 				4033816428D09CB300ABBCD2 /* NumberOfStudentsDoingHW.swift in Sources */,
