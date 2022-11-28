@@ -274,6 +274,7 @@
 		40BF02662930F2B8005A3AFA /* GetLucky.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF02652930F2B8005A3AFA /* GetLucky.swift */; };
 		40BF02682934A404005A3AFA /* LargestOddNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF02672934A404005A3AFA /* LargestOddNumber.swift */; };
 		40BF026C2934DDE0005A3AFA /* ReformatDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF026B2934DDDF005A3AFA /* ReformatDate.swift */; };
+		40BF026E2934E1BA005A3AFA /* SumOfFourDivisors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BF026D2934E1BA005A3AFA /* SumOfFourDivisors.swift */; };
 		40C5E8CD288A849E006F8C66 /* SortIntByTheNumOf1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */; };
 		40C5E8CF2897B732006F8C66 /* RunningSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8CE2897B731006F8C66 /* RunningSum.swift */; };
 		40C5E8D12897B9F6006F8C66 /* PivotIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */; };
@@ -615,6 +616,7 @@
 		40BF02652930F2B8005A3AFA /* GetLucky.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetLucky.swift; sourceTree = "<group>"; };
 		40BF02672934A404005A3AFA /* LargestOddNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestOddNumber.swift; sourceTree = "<group>"; };
 		40BF026B2934DDDF005A3AFA /* ReformatDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReformatDate.swift; sourceTree = "<group>"; };
+		40BF026D2934E1BA005A3AFA /* SumOfFourDivisors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfFourDivisors.swift; sourceTree = "<group>"; };
 		40C5E8CC288A849E006F8C66 /* SortIntByTheNumOf1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortIntByTheNumOf1.swift; sourceTree = "<group>"; };
 		40C5E8CE2897B731006F8C66 /* RunningSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningSum.swift; sourceTree = "<group>"; };
 		40C5E8D02897B9F6006F8C66 /* PivotIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PivotIndex.swift; sourceTree = "<group>"; };
@@ -708,6 +710,7 @@
 			children = (
 				40BF02672934A404005A3AFA /* LargestOddNumber.swift */,
 				40BF026B2934DDDF005A3AFA /* ReformatDate.swift */,
+				40BF026D2934E1BA005A3AFA /* SumOfFourDivisors.swift */,
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
 				40A82E35291BDA9F00AF59E3 /* EliminationGame.swift */,
 				40BF02472924FDAD005A3AFA /* DigitCount.swift */,
@@ -1401,6 +1404,7 @@
 				402EF3EA28DC764E00A1D8A9 /* SortEvenAndOddIndices.swift in Sources */,
 				402EF44828E6FBA200A1D8A9 /* RelativeRanks.swift in Sources */,
 				402EF40428E1997200A1D8A9 /* RangeSumBST.swift in Sources */,
+				40BF026E2934E1BA005A3AFA /* SumOfFourDivisors.swift in Sources */,
 				402EF40828E19FA900A1D8A9 /* CountAsterisks.swift in Sources */,
 				40D5893328C5DE2900FC157E /* CountNumberOfConsistentString.swift in Sources */,
 				4033817F28D2067100ABBCD2 /* DecodeMessage.swift in Sources */,

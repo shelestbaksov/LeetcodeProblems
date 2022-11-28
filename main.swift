@@ -1,3 +1,3 @@
 
-print(largestOddNumber("239537672423884969653287101"))
+print(sumFourDivisors([21,4,7]))
 
