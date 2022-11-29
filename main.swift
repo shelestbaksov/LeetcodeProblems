@@ -1,3 +1,3 @@
 
-print(sumFourDivisors([21,4,7]))
+print(reverseOnlyLetters("a-bC-dEf-ghIj"))
 
