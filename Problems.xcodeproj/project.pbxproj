@@ -215,6 +215,8 @@
 		408C27DE2913C5BD00A87178 /* FindMaxAvreage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408C27DD2913C5BD00A87178 /* FindMaxAvreage.swift */; };
 		4091A82228ACDCA500C079CE /* MorseCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4091A82128ACDCA500C079CE /* MorseCode.swift */; };
 		4091A82428ACE50900C079CE /* RearrangedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4091A82328ACE50900C079CE /* RearrangedArray.swift */; };
+		4094C61B2937709A0025324A /* AddStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4094C61A2937709A0025324A /* AddStrings.swift */; };
+		4094C61F293778330025324A /* FancyString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4094C61E293778330025324A /* FancyString.swift */; };
 		40A6B4E128F6DF82000535B6 /* PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4E028F6DF81000535B6 /* PowerOfTwo.swift */; };
 		40A6B4E528F6FC8D000535B6 /* PositionsOfLargeGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4E428F6FC8D000535B6 /* PositionsOfLargeGroups.swift */; };
 		40A6B4E728F6FE3F000535B6 /* DayOfYear.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6B4E628F6FE3F000535B6 /* DayOfYear.swift */; };
@@ -558,6 +560,8 @@
 		408C27DD2913C5BD00A87178 /* FindMaxAvreage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMaxAvreage.swift; sourceTree = "<group>"; };
 		4091A82128ACDCA500C079CE /* MorseCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MorseCode.swift; sourceTree = "<group>"; };
 		4091A82328ACE50900C079CE /* RearrangedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RearrangedArray.swift; sourceTree = "<group>"; };
+		4094C61A2937709A0025324A /* AddStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddStrings.swift; sourceTree = "<group>"; };
+		4094C61E293778330025324A /* FancyString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FancyString.swift; sourceTree = "<group>"; };
 		40A6B4E028F6DF81000535B6 /* PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfTwo.swift; sourceTree = "<group>"; };
 		40A6B4E428F6FC8D000535B6 /* PositionsOfLargeGroups.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PositionsOfLargeGroups.swift; sourceTree = "<group>"; };
 		40A6B4E628F6FE3F000535B6 /* DayOfYear.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayOfYear.swift; sourceTree = "<group>"; };
@@ -714,6 +718,8 @@
 				40BF026B2934DDDF005A3AFA /* ReformatDate.swift */,
 				40BF026D2934E1BA005A3AFA /* SumOfFourDivisors.swift */,
 				40BF02712935FA07005A3AFA /* ReverseOnlyLetters.swift */,
+				4094C61A2937709A0025324A /* AddStrings.swift */,
+				4094C61E293778330025324A /* FancyString.swift */,
 				4033818E28D3067300ABBCD2 /* DecompressRunLengthEncode.swift */,
 				40A82E35291BDA9F00AF59E3 /* EliminationGame.swift */,
 				40BF02472924FDAD005A3AFA /* DigitCount.swift */,
@@ -1146,6 +1152,7 @@
 				40161FA9287D570600172E7E /* LongestCommonPrefix.swift in Sources */,
 				4078170328AA611C0089BB06 /* MaxProfit.swift in Sources */,
 				40D588BA28C09C6B00FC157E /* isPalindromeString.swift in Sources */,
+				4094C61F293778330025324A /* FancyString.swift in Sources */,
 				4050AE5428869A360037782F /* Goal.swift in Sources */,
 				4078172528AA65430089BB06 /* ReturnReversed.swift in Sources */,
 				40BF02662930F2B8005A3AFA /* GetLucky.swift in Sources */,
@@ -1280,6 +1287,7 @@
 				4033816028CF80CE00ABBCD2 /* CountingWordsWithAgivenPrefix.swift in Sources */,
 				402EF40228E1970C00A1D8A9 /* BalancedSplitString.swift in Sources */,
 				402EF44428E6E75C00A1D8A9 /* ReverseVowelsOfString.swift in Sources */,
+				4094C61B2937709A0025324A /* AddStrings.swift in Sources */,
 				402EF45028EACAD300A1D8A9 /* MinPartitions.swift in Sources */,
 				4033819B28D323D700ABBCD2 /* FindNumbersWithEvenNumberOfDigits.swift in Sources */,
 				40D5893528C5E13500FC157E /* CheckIfTwoStringAreEqual.swift in Sources */,
