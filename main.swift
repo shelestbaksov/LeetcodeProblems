@@ -1,3 +1,3 @@
 
-print(convert("PAYPALISHIRING", 3))
+print(minimumCost([1,2,3]))
 

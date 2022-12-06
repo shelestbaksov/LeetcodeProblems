@@ -177,6 +177,7 @@
 		406130EE293F38E0004AF569 /* FindKthPositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406130ED293F38E0004AF569 /* FindKthPositive.swift */; };
 		406130F0293F3D7A004AF569 /* LargestSubstringBetweenTwoEqualChar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406130EF293F3D7A004AF569 /* LargestSubstringBetweenTwoEqualChar.swift */; };
 		406130F2293F46C7004AF569 /* MaxNumOfBallsInaBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406130F1293F46C7004AF569 /* MaxNumOfBallsInaBox.swift */; };
+		40613107293F6BFB004AF569 /* MinCostCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40613106293F6BFB004AF569 /* MinCostCandies.swift */; };
 		406A44572843DE33007BE6F6 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406A44562843DE33007BE6F6 /* main.swift */; };
 		407816FB28AA60450089BB06 /* AverageSalary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407816FA28AA60450089BB06 /* AverageSalary.swift */; };
 		407816FD28AA60640089BB06 /* CountOdds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407816FC28AA60640089BB06 /* CountOdds.swift */; };
@@ -527,6 +528,7 @@
 		406130ED293F38E0004AF569 /* FindKthPositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindKthPositive.swift; sourceTree = "<group>"; };
 		406130EF293F3D7A004AF569 /* LargestSubstringBetweenTwoEqualChar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LargestSubstringBetweenTwoEqualChar.swift; sourceTree = "<group>"; };
 		406130F1293F46C7004AF569 /* MaxNumOfBallsInaBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxNumOfBallsInaBox.swift; sourceTree = "<group>"; };
+		40613106293F6BFB004AF569 /* MinCostCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinCostCandies.swift; sourceTree = "<group>"; };
 		406A44532843DE33007BE6F6 /* Problems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problems; sourceTree = BUILT_PRODUCTS_DIR; };
 		406A44562843DE33007BE6F6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		407816FA28AA60450089BB06 /* AverageSalary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageSalary.swift; sourceTree = "<group>"; };
@@ -734,6 +736,7 @@
 				406130ED293F38E0004AF569 /* FindKthPositive.swift */,
 				406130EF293F3D7A004AF569 /* LargestSubstringBetweenTwoEqualChar.swift */,
 				406130F1293F46C7004AF569 /* MaxNumOfBallsInaBox.swift */,
+				40613106293F6BFB004AF569 /* MinCostCandies.swift */,
 				40BF02712935FA07005A3AFA /* ReverseOnlyLetters.swift */,
 				4094C61A2937709A0025324A /* AddStrings.swift */,
 				4094C61E293778330025324A /* FancyString.swift */,
@@ -1317,6 +1320,7 @@
 				401522F228EC2AB400168595 /* CheckOccurancesOfAllCharacters.swift in Sources */,
 				408A3DC928AF8B6200B0DF19 /* RemoveElement.swift in Sources */,
 				408A3DD328B39C0000B0DF19 /* HasGroupSizeX.swift in Sources */,
+				40613107293F6BFB004AF569 /* MinCostCandies.swift in Sources */,
 				402EF44C28E710C000A1D8A9 /* DesignHashMap.swift in Sources */,
 				40D5893728C5E31400FC157E /* TruncateSentence.swift in Sources */,
 				4015230E28EEC03800168595 /* GoatLatin.swift in Sources */,
