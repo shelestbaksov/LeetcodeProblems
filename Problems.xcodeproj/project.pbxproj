@@ -182,6 +182,7 @@
 		4061310B29407BB7004AF569 /* FindAllLonelyNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4061310A29407BB7004AF569 /* FindAllLonelyNumbers.swift */; };
 		4061310D294088A3004AF569 /* MinStartValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4061310C294088A3004AF569 /* MinStartValue.swift */; };
 		4061310F2940938A004AF569 /* ThousendSeparator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4061310E2940938A004AF569 /* ThousendSeparator.swift */; };
+		406131112940A581004AF569 /* UnequalTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406131102940A581004AF569 /* UnequalTriplets.swift */; };
 		406A44572843DE33007BE6F6 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406A44562843DE33007BE6F6 /* main.swift */; };
 		407816FB28AA60450089BB06 /* AverageSalary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407816FA28AA60450089BB06 /* AverageSalary.swift */; };
 		407816FD28AA60640089BB06 /* CountOdds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407816FC28AA60640089BB06 /* CountOdds.swift */; };
@@ -537,6 +538,7 @@
 		4061310A29407BB7004AF569 /* FindAllLonelyNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindAllLonelyNumbers.swift; sourceTree = "<group>"; };
 		4061310C294088A3004AF569 /* MinStartValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinStartValue.swift; sourceTree = "<group>"; };
 		4061310E2940938A004AF569 /* ThousendSeparator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThousendSeparator.swift; sourceTree = "<group>"; };
+		406131102940A581004AF569 /* UnequalTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnequalTriplets.swift; sourceTree = "<group>"; };
 		406A44532843DE33007BE6F6 /* Problems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problems; sourceTree = BUILT_PRODUCTS_DIR; };
 		406A44562843DE33007BE6F6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		407816FA28AA60450089BB06 /* AverageSalary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageSalary.swift; sourceTree = "<group>"; };
@@ -749,6 +751,7 @@
 				4061310A29407BB7004AF569 /* FindAllLonelyNumbers.swift */,
 				4061310C294088A3004AF569 /* MinStartValue.swift */,
 				4061310E2940938A004AF569 /* ThousendSeparator.swift */,
+				406131102940A581004AF569 /* UnequalTriplets.swift */,
 				40BF02712935FA07005A3AFA /* ReverseOnlyLetters.swift */,
 				4094C61A2937709A0025324A /* AddStrings.swift */,
 				4094C61E293778330025324A /* FancyString.swift */,
@@ -1205,6 +1208,7 @@
 				40A82E34291BBCED00AF59E3 /* RemoveNthFromEnd.swift in Sources */,
 				40C5E8D52897CD25006F8C66 /* HaystackNeedle.swift in Sources */,
 				4061310F2940938A004AF569 /* ThousendSeparator.swift in Sources */,
+				406131112940A581004AF569 /* UnequalTriplets.swift in Sources */,
 				4089E8C5289A7C4800F52F84 /* LinkedListsMerge.swift in Sources */,
 				4015231E28F02B9600168595 /* ContainsNearbyDuplicate.swift in Sources */,
 				402EF3F828DDC32D00A1D8A9 /* PartitionArray.swift in Sources */,
