@@ -184,6 +184,7 @@
 		4061310F2940938A004AF569 /* ThousendSeparator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4061310E2940938A004AF569 /* ThousendSeparator.swift */; };
 		406131112940A581004AF569 /* UnequalTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406131102940A581004AF569 /* UnequalTriplets.swift */; };
 		4061311329421E8C004AF569 /* DiagonalSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4061311229421E8C004AF569 /* DiagonalSum.swift */; };
+		406131152943567E004AF569 /* CountGoodSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406131142943567E004AF569 /* CountGoodSubstring.swift */; };
 		406A44572843DE33007BE6F6 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406A44562843DE33007BE6F6 /* main.swift */; };
 		407816FB28AA60450089BB06 /* AverageSalary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407816FA28AA60450089BB06 /* AverageSalary.swift */; };
 		407816FD28AA60640089BB06 /* CountOdds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407816FC28AA60640089BB06 /* CountOdds.swift */; };
@@ -541,6 +542,7 @@
 		4061310E2940938A004AF569 /* ThousendSeparator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThousendSeparator.swift; sourceTree = "<group>"; };
 		406131102940A581004AF569 /* UnequalTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnequalTriplets.swift; sourceTree = "<group>"; };
 		4061311229421E8C004AF569 /* DiagonalSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagonalSum.swift; sourceTree = "<group>"; };
+		406131142943567E004AF569 /* CountGoodSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodSubstring.swift; sourceTree = "<group>"; };
 		406A44532843DE33007BE6F6 /* Problems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problems; sourceTree = BUILT_PRODUCTS_DIR; };
 		406A44562843DE33007BE6F6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		407816FA28AA60450089BB06 /* AverageSalary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageSalary.swift; sourceTree = "<group>"; };
@@ -746,6 +748,7 @@
 				406130E52938F7FC004AF569 /* StringMatching.swift */,
 				406130E9293DF5DD004AF569 /* PathCrossing.swift */,
 				406130ED293F38E0004AF569 /* FindKthPositive.swift */,
+				406131142943567E004AF569 /* CountGoodSubstring.swift */,
 				406130EF293F3D7A004AF569 /* LargestSubstringBetweenTwoEqualChar.swift */,
 				406130F1293F46C7004AF569 /* MaxNumOfBallsInaBox.swift */,
 				40613106293F6BFB004AF569 /* MinCostCandies.swift */,
@@ -1479,6 +1482,7 @@
 				4042BCD6290687A100705147 /* SecondLargeDigitInString.swift in Sources */,
 				4016200D28814EA700172E7E /* SignFunc.swift in Sources */,
 				4078172928AA656D0089BB06 /* GetNewSortedArray.swift in Sources */,
+				406131152943567E004AF569 /* CountGoodSubstring.swift in Sources */,
 				40161FB1287EB30700172E7E /* ProductAndSum.swift in Sources */,
 				402EF3FC28DDDF2600A1D8A9 /* SmallestEvenMultiple.swift in Sources */,
 				40D25FB128B60DA800CE8D05 /* MinOperations.swift in Sources */,
