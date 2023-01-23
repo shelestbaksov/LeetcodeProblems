@@ -342,6 +342,7 @@
 		40D5893928C5E67E00FC157E /* MaximumProductDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D5893828C5E67E00FC157E /* MaximumProductDifference.swift */; };
 		40E630FB297E779A00903DF8 /* AlternateDigitSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E630FA297E779900903DF8 /* AlternateDigitSum.swift */; };
 		40E630FD297E7EA000903DF8 /* CategorizeBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E630FC297E7EA000903DF8 /* CategorizeBox.swift */; };
+		40E630FF297E90FD00903DF8 /* CountDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E630FE297E90FD00903DF8 /* CountDigits.swift */; };
 		40E9D45B297A94B4001383AE /* DifferentOfSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E9D45A297A94B4001383AE /* DifferentOfSum.swift */; };
 		40E9D45D297A962B001383AE /* MaxCountPosAndNeg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E9D45C297A962B001383AE /* MaxCountPosAndNeg.swift */; };
 		40EA3CD028FD7E9B00B5641B /* ParkingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40EA3CCF28FD7E9B00B5641B /* ParkingSystem.swift */; };
@@ -707,6 +708,7 @@
 		40D5893828C5E67E00FC157E /* MaximumProductDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductDifference.swift; sourceTree = "<group>"; };
 		40E630FA297E779900903DF8 /* AlternateDigitSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlternateDigitSum.swift; sourceTree = "<group>"; };
 		40E630FC297E7EA000903DF8 /* CategorizeBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategorizeBox.swift; sourceTree = "<group>"; };
+		40E630FE297E90FD00903DF8 /* CountDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountDigits.swift; sourceTree = "<group>"; };
 		40E9D45A297A94B4001383AE /* DifferentOfSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferentOfSum.swift; sourceTree = "<group>"; };
 		40E9D45C297A962B001383AE /* MaxCountPosAndNeg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxCountPosAndNeg.swift; sourceTree = "<group>"; };
 		40EA3CCF28FD7E9B00B5641B /* ParkingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingSystem.swift; sourceTree = "<group>"; };
@@ -767,6 +769,7 @@
 				40E9D45C297A962B001383AE /* MaxCountPosAndNeg.swift */,
 				40E630FA297E779900903DF8 /* AlternateDigitSum.swift */,
 				40E630FC297E7EA000903DF8 /* CategorizeBox.swift */,
+				40E630FE297E90FD00903DF8 /* CountDigits.swift */,
 				406130EF293F3D7A004AF569 /* LargestSubstringBetweenTwoEqualChar.swift */,
 				406130F1293F46C7004AF569 /* MaxNumOfBallsInaBox.swift */,
 				40613106293F6BFB004AF569 /* MinCostCandies.swift */,
@@ -1289,6 +1292,7 @@
 				407816FF28AA608C0089BB06 /* AccumulatingFunc.swift in Sources */,
 				402EF40A28E1A15F00A1D8A9 /* DetermineIfStringHalvesAreAlike.swift in Sources */,
 				402EF41628E2DCE300A1D8A9 /* RemoveAllOccurences.swift in Sources */,
+				40E630FF297E90FD00903DF8 /* CountDigits.swift in Sources */,
 				40F9C3BB28BCBBEE00C72C5E /* CountKdifference.swift in Sources */,
 				4033814A28CA2DD800ABBCD2 /* JewelsAndStones.swift in Sources */,
 				40D564A529110C5D00881090 /* FindAllKDistanceIndices.swift in Sources */,
