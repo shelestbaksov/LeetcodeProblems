@@ -1,3 +1,3 @@
 
-print(minimumCost([1,2,3]))
+print(alternateDigitSum(521))
 
