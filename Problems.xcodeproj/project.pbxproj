@@ -343,6 +343,7 @@
 		40E630FB297E779A00903DF8 /* AlternateDigitSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E630FA297E779900903DF8 /* AlternateDigitSum.swift */; };
 		40E630FD297E7EA000903DF8 /* CategorizeBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E630FC297E7EA000903DF8 /* CategorizeBox.swift */; };
 		40E630FF297E90FD00903DF8 /* CountDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E630FE297E90FD00903DF8 /* CountDigits.swift */; };
+		40E63101297FC83C00903DF8 /* KthFactor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E63100297FC83C00903DF8 /* KthFactor.swift */; };
 		40E9D45B297A94B4001383AE /* DifferentOfSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E9D45A297A94B4001383AE /* DifferentOfSum.swift */; };
 		40E9D45D297A962B001383AE /* MaxCountPosAndNeg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E9D45C297A962B001383AE /* MaxCountPosAndNeg.swift */; };
 		40EA3CD028FD7E9B00B5641B /* ParkingSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40EA3CCF28FD7E9B00B5641B /* ParkingSystem.swift */; };
@@ -709,6 +710,7 @@
 		40E630FA297E779900903DF8 /* AlternateDigitSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlternateDigitSum.swift; sourceTree = "<group>"; };
 		40E630FC297E7EA000903DF8 /* CategorizeBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategorizeBox.swift; sourceTree = "<group>"; };
 		40E630FE297E90FD00903DF8 /* CountDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountDigits.swift; sourceTree = "<group>"; };
+		40E63100297FC83C00903DF8 /* KthFactor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthFactor.swift; sourceTree = "<group>"; };
 		40E9D45A297A94B4001383AE /* DifferentOfSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DifferentOfSum.swift; sourceTree = "<group>"; };
 		40E9D45C297A962B001383AE /* MaxCountPosAndNeg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxCountPosAndNeg.swift; sourceTree = "<group>"; };
 		40EA3CCF28FD7E9B00B5641B /* ParkingSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkingSystem.swift; sourceTree = "<group>"; };
@@ -770,6 +772,7 @@
 				40E630FA297E779900903DF8 /* AlternateDigitSum.swift */,
 				40E630FC297E7EA000903DF8 /* CategorizeBox.swift */,
 				40E630FE297E90FD00903DF8 /* CountDigits.swift */,
+				40E63100297FC83C00903DF8 /* KthFactor.swift */,
 				406130EF293F3D7A004AF569 /* LargestSubstringBetweenTwoEqualChar.swift */,
 				406130F1293F46C7004AF569 /* MaxNumOfBallsInaBox.swift */,
 				40613106293F6BFB004AF569 /* MinCostCandies.swift */,
@@ -1275,6 +1278,7 @@
 				4056FB6D29794D660041506F /* NumberOfDiffIntInString.swift in Sources */,
 				408C27DC2913C19000A87178 /* MinOperationsToMake.swift in Sources */,
 				402EF3D628DA03BD00A1D8A9 /* MinimumHoursOfTrainingToWinCompetition.swift in Sources */,
+				40E63101297FC83C00903DF8 /* KthFactor.swift in Sources */,
 				4015230A28EDAE1800168595 /* FindDifference.swift in Sources */,
 				4091A82228ACDCA500C079CE /* MorseCode.swift in Sources */,
 				40D56497290ABF2200881090 /* CountCommonWords.swift in Sources */,
