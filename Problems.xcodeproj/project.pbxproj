@@ -120,6 +120,7 @@
 		402EF45028EACAD300A1D8A9 /* MinPartitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF44F28EACAD300A1D8A9 /* MinPartitions.swift */; };
 		402EF45228EACDCE00A1D8A9 /* MinimumSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402EF45128EACDCE00A1D8A9 /* MinimumSum.swift */; };
 		402FF4B82981301900D860E4 /* LongestHarmoniousSub.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402FF4B72981301900D860E4 /* LongestHarmoniousSub.swift */; };
+		402FF4BA298150E300D860E4 /* GetCommon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402FF4B9298150E300D860E4 /* GetCommon.swift */; };
 		4033814828CA2CF100ABBCD2 /* DefangingAnIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814728CA2CF100ABBCD2 /* DefangingAnIPAddress.swift */; };
 		4033814A28CA2DD800ABBCD2 /* JewelsAndStones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814928CA2DD800ABBCD2 /* JewelsAndStones.swift */; };
 		4033814C28CA309900ABBCD2 /* SortingTheSentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4033814B28CA309900ABBCD2 /* SortingTheSentence.swift */; };
@@ -487,6 +488,7 @@
 		402EF44F28EACAD300A1D8A9 /* MinPartitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinPartitions.swift; sourceTree = "<group>"; };
 		402EF45128EACDCE00A1D8A9 /* MinimumSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumSum.swift; sourceTree = "<group>"; };
 		402FF4B72981301900D860E4 /* LongestHarmoniousSub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestHarmoniousSub.swift; sourceTree = "<group>"; };
+		402FF4B9298150E300D860E4 /* GetCommon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetCommon.swift; sourceTree = "<group>"; };
 		4033814728CA2CF100ABBCD2 /* DefangingAnIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefangingAnIPAddress.swift; sourceTree = "<group>"; };
 		4033814928CA2DD800ABBCD2 /* JewelsAndStones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JewelsAndStones.swift; sourceTree = "<group>"; };
 		4033814B28CA309900ABBCD2 /* SortingTheSentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingTheSentence.swift; sourceTree = "<group>"; };
@@ -776,6 +778,7 @@
 				40E630FE297E90FD00903DF8 /* CountDigits.swift */,
 				40E63100297FC83C00903DF8 /* KthFactor.swift */,
 				402FF4B72981301900D860E4 /* LongestHarmoniousSub.swift */,
+				402FF4B9298150E300D860E4 /* GetCommon.swift */,
 				406130EF293F3D7A004AF569 /* LargestSubstringBetweenTwoEqualChar.swift */,
 				406130F1293F46C7004AF569 /* MaxNumOfBallsInaBox.swift */,
 				40613106293F6BFB004AF569 /* MinCostCandies.swift */,
@@ -1525,6 +1528,7 @@
 				402EF40028DDEEB200A1D8A9 /* RingsAndRods.swift in Sources */,
 				4078177528ABC70D0089BB06 /* GroupThePeople.swift in Sources */,
 				4033818328D20E3E00ABBCD2 /* GenerateStringWithCharacters.swift in Sources */,
+				402FF4BA298150E300D860E4 /* GetCommon.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
