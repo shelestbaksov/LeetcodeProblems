@@ -1,3 +1,3 @@
 
-print(alternateDigitSum(521))
+print(wordPattern("abba", "dog cat cat dog"))
 
