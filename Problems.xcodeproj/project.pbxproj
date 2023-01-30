@@ -269,6 +269,8 @@
 		40A82E40291E3DB400AF59E3 /* RearrangeCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A82E3F291E3DB400AF59E3 /* RearrangeCharacters.swift */; };
 		40B0DBB2298298C300FCE400 /* ArrayRank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DBB1298298C300FCE400 /* ArrayRank.swift */; };
 		40B0DBB42983D9C500FCE400 /* NextGreatestLetter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DBB32983D9C500FCE400 /* NextGreatestLetter.swift */; };
+		40B0DBB62983DB4100FCE400 /* WordFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DBB52983DB4100FCE400 /* WordFilter.swift */; };
+		40B0DBB82987BB3100FCE400 /* Tribonacci.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DBB72987BB3100FCE400 /* Tribonacci.swift */; };
 		40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C3E28873002000AAB4B /* TreeTraversal.swift */; };
 		40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C402887E578000AAB4B /* DecryptIntToStr.swift */; };
 		40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */; };
@@ -640,6 +642,8 @@
 		40A82E3F291E3DB400AF59E3 /* RearrangeCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RearrangeCharacters.swift; sourceTree = "<group>"; };
 		40B0DBB1298298C300FCE400 /* ArrayRank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayRank.swift; sourceTree = "<group>"; };
 		40B0DBB32983D9C500FCE400 /* NextGreatestLetter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextGreatestLetter.swift; sourceTree = "<group>"; };
+		40B0DBB52983DB4100FCE400 /* WordFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordFilter.swift; sourceTree = "<group>"; };
+		40B0DBB72987BB3100FCE400 /* Tribonacci.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tribonacci.swift; sourceTree = "<group>"; };
 		40B38C3E28873002000AAB4B /* TreeTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
 		40B38C402887E578000AAB4B /* DecryptIntToStr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptIntToStr.swift; sourceTree = "<group>"; };
 		40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAllOddArrays.swift; sourceTree = "<group>"; };
@@ -785,6 +789,8 @@
 				402FF4B9298150E300D860E4 /* GetCommon.swift */,
 				40B0DBB1298298C300FCE400 /* ArrayRank.swift */,
 				40B0DBB32983D9C500FCE400 /* NextGreatestLetter.swift */,
+				40B0DBB52983DB4100FCE400 /* WordFilter.swift */,
+				40B0DBB72987BB3100FCE400 /* Tribonacci.swift */,
 				406130EF293F3D7A004AF569 /* LargestSubstringBetweenTwoEqualChar.swift */,
 				406130F1293F46C7004AF569 /* MaxNumOfBallsInaBox.swift */,
 				40613106293F6BFB004AF569 /* MinCostCandies.swift */,
@@ -1239,6 +1245,7 @@
 				40D56499290C2C3600881090 /* CheckAlmostEquivalent.swift in Sources */,
 				402EF3CC28D9E81300A1D8A9 /* InOrderTraversal.swift in Sources */,
 				40BF0258292E2852005A3AFA /* FindWinners.swift in Sources */,
+				40B0DBB62983DB4100FCE400 /* WordFilter.swift in Sources */,
 				406130F0293F3D7A004AF569 /* LargestSubstringBetweenTwoEqualChar.swift in Sources */,
 				40A6B4ED28F70A95000535B6 /* NumOfCommonFactors.swift in Sources */,
 				40BF023E29238D94005A3AFA /* MaximumProduct.swift in Sources */,
@@ -1381,6 +1388,7 @@
 				402EF45028EACAD300A1D8A9 /* MinPartitions.swift in Sources */,
 				4033819B28D323D700ABBCD2 /* FindNumbersWithEvenNumberOfDigits.swift in Sources */,
 				40D5893528C5E13500FC157E /* CheckIfTwoStringAreEqual.swift in Sources */,
+				40B0DBB82987BB3100FCE400 /* Tribonacci.swift in Sources */,
 				40F9C3C928BE35B200C72C5E /* ArithmeticSubarray.swift in Sources */,
 				4042BCCC2902AC5B00705147 /* CountQuadruplets.swift in Sources */,
 				4033814C28CA309900ABBCD2 /* SortingTheSentence.swift in Sources */,
