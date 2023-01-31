@@ -1,3 +1,3 @@
 
-print(wordPattern("abba", "dog cat cat dog"))
+print(validPalindrome("tcaac"))
 
