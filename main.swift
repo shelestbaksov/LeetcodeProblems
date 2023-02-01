@@ -1,3 +1,3 @@
 
-print(validPalindrome("tcaac"))
+print(gcdOfStrings("ABCDEF", "ABC"))
 
