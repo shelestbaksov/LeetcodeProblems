@@ -275,6 +275,7 @@
 		40B0DBBC2989166400FCE400 /* ValidPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DBBB2989166400FCE400 /* ValidPalindrome.swift */; };
 		40B0DBBE298A8A7700FCE400 /* GCDofStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DBBD298A8A7700FCE400 /* GCDofStrings.swift */; };
 		40B0DBC0298BAE9300FCE400 /* DeleteGreatestValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DBBF298BAE9300FCE400 /* DeleteGreatestValue.swift */; };
+		40B0DBC2298BB11D00FCE400 /* MaximumValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DBC1298BB11D00FCE400 /* MaximumValue.swift */; };
 		40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C3E28873002000AAB4B /* TreeTraversal.swift */; };
 		40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C402887E578000AAB4B /* DecryptIntToStr.swift */; };
 		40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */; };
@@ -652,6 +653,7 @@
 		40B0DBBB2989166400FCE400 /* ValidPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome.swift; sourceTree = "<group>"; };
 		40B0DBBD298A8A7700FCE400 /* GCDofStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GCDofStrings.swift; sourceTree = "<group>"; };
 		40B0DBBF298BAE9300FCE400 /* DeleteGreatestValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteGreatestValue.swift; sourceTree = "<group>"; };
+		40B0DBC1298BB11D00FCE400 /* MaximumValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumValue.swift; sourceTree = "<group>"; };
 		40B38C3E28873002000AAB4B /* TreeTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
 		40B38C402887E578000AAB4B /* DecryptIntToStr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptIntToStr.swift; sourceTree = "<group>"; };
 		40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAllOddArrays.swift; sourceTree = "<group>"; };
@@ -792,6 +794,7 @@
 				40E630FA297E779900903DF8 /* AlternateDigitSum.swift */,
 				40B0DBBD298A8A7700FCE400 /* GCDofStrings.swift */,
 				40B0DBBF298BAE9300FCE400 /* DeleteGreatestValue.swift */,
+				40B0DBC1298BB11D00FCE400 /* MaximumValue.swift */,
 				40E630FC297E7EA000903DF8 /* CategorizeBox.swift */,
 				40E630FE297E90FD00903DF8 /* CountDigits.swift */,
 				40E63100297FC83C00903DF8 /* KthFactor.swift */,
@@ -1170,7 +1173,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1300;
-				LastUpgradeCheck = 1340;
+				LastUpgradeCheck = 1420;
 				TargetAttributes = {
 					406A44522843DE33007BE6F6 = {
 						CreatedOnToolsVersion = 13.0;
@@ -1548,6 +1551,7 @@
 				4033817F28D2067100ABBCD2 /* DecodeMessage.swift in Sources */,
 				40B8EE9D28F467FB0031A451 /* MostFrequentEvenElement.swift in Sources */,
 				4078170128AA60FB0089BB06 /* ContainsDuplicates.swift in Sources */,
+				40B0DBC2298BB11D00FCE400 /* MaximumValue.swift in Sources */,
 				40A82E2C291B928800AF59E3 /* FindMedianSortedArray.swift in Sources */,
 				4033816828D0A28E00ABBCD2 /* SumOfUnique.swift in Sources */,
 				4042BCD6290687A100705147 /* SecondLargeDigitInString.swift in Sources */,
@@ -1601,6 +1605,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -1618,7 +1623,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MACOSX_DEPLOYMENT_TARGET = 12.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -1662,6 +1667,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -1673,7 +1679,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MACOSX_DEPLOYMENT_TARGET = 12.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
@@ -1687,6 +1693,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 4R74NDZ36U;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1699,6 +1706,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 4R74NDZ36U;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
