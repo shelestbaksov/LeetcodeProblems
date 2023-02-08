@@ -288,6 +288,8 @@
 		40B0DC2B2992498C00FCE400 /* ApplyOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC2A2992498C00FCE400 /* ApplyOperations.swift */; };
 		40B0DC2D29924D0300FCE400 /* AverageValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC2C29924D0300FCE400 /* AverageValue.swift */; };
 		40B0DC2F29938E8700FCE400 /* VowelString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC2E29938E8700FCE400 /* VowelString.swift */; };
+		40B0DC312993985E00FCE400 /* TwoEdits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC302993985E00FCE400 /* TwoEdits.swift */; };
+		40B0DC332993A5A800FCE400 /* CountDistinct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC322993A5A800FCE400 /* CountDistinct.swift */; };
 		40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C3E28873002000AAB4B /* TreeTraversal.swift */; };
 		40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C402887E578000AAB4B /* DecryptIntToStr.swift */; };
 		40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */; };
@@ -678,6 +680,8 @@
 		40B0DC2A2992498C00FCE400 /* ApplyOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplyOperations.swift; sourceTree = "<group>"; };
 		40B0DC2C29924D0300FCE400 /* AverageValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageValue.swift; sourceTree = "<group>"; };
 		40B0DC2E29938E8700FCE400 /* VowelString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VowelString.swift; sourceTree = "<group>"; };
+		40B0DC302993985E00FCE400 /* TwoEdits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoEdits.swift; sourceTree = "<group>"; };
+		40B0DC322993A5A800FCE400 /* CountDistinct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountDistinct.swift; sourceTree = "<group>"; };
 		40B38C3E28873002000AAB4B /* TreeTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
 		40B38C402887E578000AAB4B /* DecryptIntToStr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptIntToStr.swift; sourceTree = "<group>"; };
 		40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAllOddArrays.swift; sourceTree = "<group>"; };
@@ -814,6 +818,8 @@
 				40B0DC2A2992498C00FCE400 /* ApplyOperations.swift */,
 				40B0DC2C29924D0300FCE400 /* AverageValue.swift */,
 				40B0DC2E29938E8700FCE400 /* VowelString.swift */,
+				40B0DC302993985E00FCE400 /* TwoEdits.swift */,
+				40B0DC322993A5A800FCE400 /* CountDistinct.swift */,
 				40B0DC1A299100E900FCE400 /* PickGifts.swift */,
 				40B0DC1C2991023B00FCE400 /* SeparateDigits.swift */,
 				40B0DC1E2991042000FCE400 /* SortTheStudents.swift */,
@@ -1266,6 +1272,7 @@
 				40B0DC272992460700FCE400 /* NumberOfCuts.swift in Sources */,
 				402EF3FE28DDECE500A1D8A9 /* RootEqualsSumOfChildren.swift in Sources */,
 				4078171528AA63840089BB06 /* IsEqualColor.swift in Sources */,
+				40B0DC312993985E00FCE400 /* TwoEdits.swift in Sources */,
 				40C68FE028F5909D00D46AAB /* TwoOutOfThree.swift in Sources */,
 				40A82E40291E3DB400AF59E3 /* RearrangeCharacters.swift in Sources */,
 				402EF3F428DC991100A1D8A9 /* MaximumUnitsOnATrack.swift in Sources */,
@@ -1471,6 +1478,7 @@
 				4078170D28AA62250089BB06 /* BackSpaceCompare.swift in Sources */,
 				40161FB528801CE100172E7E /* Perimeterr.swift in Sources */,
 				4078171F28AA64D20089BB06 /* FindTheAmountOfMaxNumber.swift in Sources */,
+				40B0DC332993A5A800FCE400 /* CountDistinct.swift in Sources */,
 				4033816628D09DB900ABBCD2 /* SortArrayByParity.swift in Sources */,
 				402EF42228E3067F00A1D8A9 /* CountNumberOfTeams.swift in Sources */,
 				402EF41428E1B22B00A1D8A9 /* ThreeConsecutiveOdds.swift in Sources */,
