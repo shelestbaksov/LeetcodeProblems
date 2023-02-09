@@ -291,6 +291,7 @@
 		40B0DC312993985E00FCE400 /* TwoEdits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC302993985E00FCE400 /* TwoEdits.swift */; };
 		40B0DC332993A5A800FCE400 /* CountDistinct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC322993A5A800FCE400 /* CountDistinct.swift */; };
 		40B0DC372994E87100FCE400 /* MinimumRecolors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC362994E87100FCE400 /* MinimumRecolors.swift */; };
+		40B0DC392994EF5600FCE400 /* AnswerQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC382994EF5600FCE400 /* AnswerQueries.swift */; };
 		40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C3E28873002000AAB4B /* TreeTraversal.swift */; };
 		40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C402887E578000AAB4B /* DecryptIntToStr.swift */; };
 		40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */; };
@@ -684,6 +685,7 @@
 		40B0DC302993985E00FCE400 /* TwoEdits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoEdits.swift; sourceTree = "<group>"; };
 		40B0DC322993A5A800FCE400 /* CountDistinct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountDistinct.swift; sourceTree = "<group>"; };
 		40B0DC362994E87100FCE400 /* MinimumRecolors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumRecolors.swift; sourceTree = "<group>"; };
+		40B0DC382994EF5600FCE400 /* AnswerQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerQueries.swift; sourceTree = "<group>"; };
 		40B38C3E28873002000AAB4B /* TreeTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
 		40B38C402887E578000AAB4B /* DecryptIntToStr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptIntToStr.swift; sourceTree = "<group>"; };
 		40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAllOddArrays.swift; sourceTree = "<group>"; };
@@ -824,6 +826,7 @@
 				40B0DC322993A5A800FCE400 /* CountDistinct.swift */,
 				40B0DC1A299100E900FCE400 /* PickGifts.swift */,
 				40B0DC362994E87100FCE400 /* MinimumRecolors.swift */,
+				40B0DC382994EF5600FCE400 /* AnswerQueries.swift */,
 				40B0DC1C2991023B00FCE400 /* SeparateDigits.swift */,
 				40B0DC1E2991042000FCE400 /* SortTheStudents.swift */,
 				40BF026B2934DDDF005A3AFA /* ReformatDate.swift */,
@@ -1490,6 +1493,7 @@
 				402EF41828E2E47000A1D8A9 /* OptimalPartitionOfString.swift in Sources */,
 				40C68FE428F5965300D46AAB /* MissingNumber.swift in Sources */,
 				4033819F28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift in Sources */,
+				40B0DC392994EF5600FCE400 /* AnswerQueries.swift in Sources */,
 				402EF40628E19CB400A1D8A9 /* SortThePeople.swift in Sources */,
 				40D564A1290FEB6200881090 /* MinMaxGame.swift in Sources */,
 				402EF3E028DB4BFD00A1D8A9 /* GuessNumberHigherOrLower.swift in Sources */,
