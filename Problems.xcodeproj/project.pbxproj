@@ -294,6 +294,7 @@
 		40B0DC392994EF5600FCE400 /* AnswerQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC382994EF5600FCE400 /* AnswerQueries.swift */; };
 		40B0DC3B2994F7B000FCE400 /* StrongPasswordChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC3A2994F7B000FCE400 /* StrongPasswordChecker.swift */; };
 		40B0DC3D29963F3700FCE400 /* BestPokerHand.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC3C29963F3700FCE400 /* BestPokerHand.swift */; };
+		40B0DC3F299B7E4900FCE400 /* FindArrayConcValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B0DC3E299B7E4900FCE400 /* FindArrayConcValue.swift */; };
 		40B38C3F28873002000AAB4B /* TreeTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C3E28873002000AAB4B /* TreeTraversal.swift */; };
 		40B38C412887E578000AAB4B /* DecryptIntToStr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C402887E578000AAB4B /* DecryptIntToStr.swift */; };
 		40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */; };
@@ -690,6 +691,7 @@
 		40B0DC382994EF5600FCE400 /* AnswerQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerQueries.swift; sourceTree = "<group>"; };
 		40B0DC3A2994F7B000FCE400 /* StrongPasswordChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrongPasswordChecker.swift; sourceTree = "<group>"; };
 		40B0DC3C29963F3700FCE400 /* BestPokerHand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BestPokerHand.swift; sourceTree = "<group>"; };
+		40B0DC3E299B7E4900FCE400 /* FindArrayConcValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindArrayConcValue.swift; sourceTree = "<group>"; };
 		40B38C3E28873002000AAB4B /* TreeTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeTraversal.swift; sourceTree = "<group>"; };
 		40B38C402887E578000AAB4B /* DecryptIntToStr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecryptIntToStr.swift; sourceTree = "<group>"; };
 		40B38C422887F9D1000AAB4B /* SumOfAllOddArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfAllOddArrays.swift; sourceTree = "<group>"; };
@@ -833,6 +835,7 @@
 				40B0DC382994EF5600FCE400 /* AnswerQueries.swift */,
 				40B0DC3A2994F7B000FCE400 /* StrongPasswordChecker.swift */,
 				40B0DC3C29963F3700FCE400 /* BestPokerHand.swift */,
+				40B0DC3E299B7E4900FCE400 /* FindArrayConcValue.swift */,
 				40B0DC1C2991023B00FCE400 /* SeparateDigits.swift */,
 				40B0DC1E2991042000FCE400 /* SortTheStudents.swift */,
 				40BF026B2934DDDF005A3AFA /* ReformatDate.swift */,
@@ -1407,6 +1410,7 @@
 				402EF3E228DB579A00A1D8A9 /* ConvertNumToHexadecimal.swift in Sources */,
 				402EF3DA28DB043F00A1D8A9 /* MinNumberOfOperationsToConvertTime.swift in Sources */,
 				40BF026C2934DDE0005A3AFA /* ReformatDate.swift in Sources */,
+				40B0DC3F299B7E4900FCE400 /* FindArrayConcValue.swift in Sources */,
 				4015230C28EDB83D00168595 /* FindTriplets.swift in Sources */,
 				40A82E3C291D0EE300AF59E3 /* InsertDelete.swift in Sources */,
 				40BF023629228468005A3AFA /* FindTheWinner.swift in Sources */,
