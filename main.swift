@@ -1,1 +1,1 @@
-print(answerQueries([4,5,2,1], [3,10,21]))
+print(countFairPairs([0,1,7,4,4,5], 3, 6))
