@@ -1,1 +1,1 @@
-print(findSubarrays([4,2,4]))
+print(digitSum("11111222223", 3))
