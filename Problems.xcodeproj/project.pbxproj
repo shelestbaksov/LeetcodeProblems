@@ -339,6 +339,7 @@
 		40C68FE428F5965300D46AAB /* MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C68FE328F5965300D46AAB /* MissingNumber.swift */; };
 		40C739CD299CFFB0001D05C6 /* LatestTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C739CC299CFFB0001D05C6 /* LatestTime.swift */; };
 		40C739CF299D056A001D05C6 /* FindDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C739CE299D056A001D05C6 /* FindDistance.swift */; };
+		40C739D1299E23B0001D05C6 /* ValidMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C739D0299E23B0001D05C6 /* ValidMountainArray.swift */; };
 		40C97C3A28990B52006EFB17 /* IsomorphicStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C97C3928990B52006EFB17 /* IsomorphicStrings.swift */; };
 		40C97C3C28991535006EFB17 /* Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C97C3B28991535006EFB17 /* Subsequence.swift */; };
 		40D25FAF28B60B6600CE8D05 /* PowerOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D25FAE28B60B6600CE8D05 /* PowerOfThree.swift */; };
@@ -743,6 +744,7 @@
 		40C68FE328F5965300D46AAB /* MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumber.swift; sourceTree = "<group>"; };
 		40C739CC299CFFB0001D05C6 /* LatestTime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LatestTime.swift; sourceTree = "<group>"; };
 		40C739CE299D056A001D05C6 /* FindDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDistance.swift; sourceTree = "<group>"; };
+		40C739D0299E23B0001D05C6 /* ValidMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArray.swift; sourceTree = "<group>"; };
 		40C97C3928990B52006EFB17 /* IsomorphicStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsomorphicStrings.swift; sourceTree = "<group>"; };
 		40C97C3B28991535006EFB17 /* Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsequence.swift; sourceTree = "<group>"; };
 		40D25FAE28B60B6600CE8D05 /* PowerOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfThree.swift; sourceTree = "<group>"; };
@@ -857,6 +859,7 @@
 				40B0DC48299CE04800FCE400 /* MinimumRounds.swift */,
 				40C739CC299CFFB0001D05C6 /* LatestTime.swift */,
 				40C739CE299D056A001D05C6 /* FindDistance.swift */,
+				40C739D0299E23B0001D05C6 /* ValidMountainArray.swift */,
 				40B0DC1C2991023B00FCE400 /* SeparateDigits.swift */,
 				40B0DC1E2991042000FCE400 /* SortTheStudents.swift */,
 				40BF026B2934DDDF005A3AFA /* ReformatDate.swift */,
@@ -1469,6 +1472,7 @@
 				40A82E3E291D246D00AF59E3 /* UncommonWordsFromTwoStrings.swift in Sources */,
 				40D5893928C5E67E00FC157E /* MaximumProductDifference.swift in Sources */,
 				40A82E26291A7F7E00AF59E3 /* RangeSum.swift in Sources */,
+				40C739D1299E23B0001D05C6 /* ValidMountainArray.swift in Sources */,
 				40D588B828C0952C00FC157E /* SingleNum.swift in Sources */,
 				40C739CF299D056A001D05C6 /* FindDistance.swift in Sources */,
 				40D5648F290A9A6300881090 /* HardestWorker.swift in Sources */,
