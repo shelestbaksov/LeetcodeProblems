@@ -9,14 +9,14 @@ import Foundation
 
 func maxProfit(_ prices: [Int]) -> Int {
     guard prices.count > 1 else { return 0 }
-    var priceOfBuying = prices[0]
+    
     var profit = 0
 
-    for price in prices {
-        if price < priceOfBuying {
-            priceOfBuying = price
+    for i in 0..<prices.count - 1 {
+        let diff = prices[i + 1] - prices[i]
+        if diff > 0 {
+            profit += diff
         }
-        profit = max(profit, price - priceOfBuying)
     }
     return profit
 }
