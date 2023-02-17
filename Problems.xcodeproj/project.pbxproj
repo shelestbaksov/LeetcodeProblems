@@ -341,6 +341,7 @@
 		40C739CF299D056A001D05C6 /* FindDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C739CE299D056A001D05C6 /* FindDistance.swift */; };
 		40C739D1299E23B0001D05C6 /* ValidMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C739D0299E23B0001D05C6 /* ValidMountainArray.swift */; };
 		40C739D3299F67DF001D05C6 /* DefuseTheBomb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C739D2299F67DF001D05C6 /* DefuseTheBomb.swift */; };
+		40C739D5299F961C001D05C6 /* MaxArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C739D4299F961C001D05C6 /* MaxArea.swift */; };
 		40C97C3A28990B52006EFB17 /* IsomorphicStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C97C3928990B52006EFB17 /* IsomorphicStrings.swift */; };
 		40C97C3C28991535006EFB17 /* Subsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C97C3B28991535006EFB17 /* Subsequence.swift */; };
 		40D25FAF28B60B6600CE8D05 /* PowerOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40D25FAE28B60B6600CE8D05 /* PowerOfThree.swift */; };
@@ -747,6 +748,7 @@
 		40C739CE299D056A001D05C6 /* FindDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDistance.swift; sourceTree = "<group>"; };
 		40C739D0299E23B0001D05C6 /* ValidMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArray.swift; sourceTree = "<group>"; };
 		40C739D2299F67DF001D05C6 /* DefuseTheBomb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefuseTheBomb.swift; sourceTree = "<group>"; };
+		40C739D4299F961C001D05C6 /* MaxArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxArea.swift; sourceTree = "<group>"; };
 		40C97C3928990B52006EFB17 /* IsomorphicStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsomorphicStrings.swift; sourceTree = "<group>"; };
 		40C97C3B28991535006EFB17 /* Subsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subsequence.swift; sourceTree = "<group>"; };
 		40D25FAE28B60B6600CE8D05 /* PowerOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfThree.swift; sourceTree = "<group>"; };
@@ -863,6 +865,7 @@
 				40C739CE299D056A001D05C6 /* FindDistance.swift */,
 				40C739D0299E23B0001D05C6 /* ValidMountainArray.swift */,
 				40C739D2299F67DF001D05C6 /* DefuseTheBomb.swift */,
+				40C739D4299F961C001D05C6 /* MaxArea.swift */,
 				40B0DC1C2991023B00FCE400 /* SeparateDigits.swift */,
 				40B0DC1E2991042000FCE400 /* SortTheStudents.swift */,
 				40BF026B2934DDDF005A3AFA /* ReformatDate.swift */,
@@ -1538,6 +1541,7 @@
 				402EF41828E2E47000A1D8A9 /* OptimalPartitionOfString.swift in Sources */,
 				40C68FE428F5965300D46AAB /* MissingNumber.swift in Sources */,
 				4033819F28D329A500ABBCD2 /* NrepeatedElementInSize2NArray.swift in Sources */,
+				40C739D5299F961C001D05C6 /* MaxArea.swift in Sources */,
 				40B0DC392994EF5600FCE400 /* AnswerQueries.swift in Sources */,
 				402EF40628E19CB400A1D8A9 /* SortThePeople.swift in Sources */,
 				40D564A1290FEB6200881090 /* MinMaxGame.swift in Sources */,
