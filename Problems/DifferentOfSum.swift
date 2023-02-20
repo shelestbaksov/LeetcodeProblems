@@ -17,7 +17,7 @@ func differenceOfSum(_ nums: [Int]) -> Int {
             var temp = num
             
             while temp > 0 {
-                var digit = temp % 10
+                let digit = temp % 10
                 sum += digit
                 temp /= 10
             }

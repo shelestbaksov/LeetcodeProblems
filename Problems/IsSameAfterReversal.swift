@@ -11,7 +11,7 @@ func isSameAfterReversals(_ num: Int) -> Bool {
     if num <= 9 {
         return true
     } else {
-        var num = num
+        let num = num
         let lastDigit = num % 10
         if lastDigit == 0 {
             return false

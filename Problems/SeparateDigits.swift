@@ -11,7 +11,7 @@ func separateDigits(_ nums: [Int]) -> [Int] {
     var result = [Int]()
     
     for num in nums {
-        var str = String(num).compactMap { Int(String($0)) }
+        let str = String(num).compactMap { Int(String($0)) }
         
         for digit in str {
             result.append(digit)
