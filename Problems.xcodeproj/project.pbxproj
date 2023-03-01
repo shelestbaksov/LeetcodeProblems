@@ -16,6 +16,7 @@
 		003CCE0929AE2EDA005AC76A /* MaxRepeating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003CCE0829AE2EDA005AC76A /* MaxRepeating.swift */; };
 		003CCE0B29AF4319005AC76A /* SmallestRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003CCE0A29AF4319005AC76A /* SmallestRange.swift */; };
 		003CCE0D29AF5CE3005AC76A /* CountLargestGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003CCE0C29AF5CE3005AC76A /* CountLargestGroup.swift */; };
+		003CCE0F29AF7717005AC76A /* MaxPower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003CCE0E29AF7717005AC76A /* MaxPower.swift */; };
 		400FC22028C78D6D009CC30E /* MaximumProductOfTwoElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400FC21F28C78D6D009CC30E /* MaximumProductOfTwoElements.swift */; };
 		400FC22228C79161009CC30E /* FindTheHighestAltitude.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400FC22128C79161009CC30E /* FindTheHighestAltitude.swift */; };
 		400FC22428C793C2009CC30E /* FindFirstPalindromicStringInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400FC22328C793C2009CC30E /* FindFirstPalindromicStringInArray.swift */; };
@@ -431,6 +432,7 @@
 		003CCE0829AE2EDA005AC76A /* MaxRepeating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxRepeating.swift; sourceTree = "<group>"; };
 		003CCE0A29AF4319005AC76A /* SmallestRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestRange.swift; sourceTree = "<group>"; };
 		003CCE0C29AF5CE3005AC76A /* CountLargestGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountLargestGroup.swift; sourceTree = "<group>"; };
+		003CCE0E29AF7717005AC76A /* MaxPower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxPower.swift; sourceTree = "<group>"; };
 		400FC21F28C78D6D009CC30E /* MaximumProductOfTwoElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumProductOfTwoElements.swift; sourceTree = "<group>"; };
 		400FC22128C79161009CC30E /* FindTheHighestAltitude.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheHighestAltitude.swift; sourceTree = "<group>"; };
 		400FC22328C793C2009CC30E /* FindFirstPalindromicStringInArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindFirstPalindromicStringInArray.swift; sourceTree = "<group>"; };
@@ -858,6 +860,7 @@
 			children = (
 				40BF02672934A404005A3AFA /* LargestOddNumber.swift */,
 				003CCE0C29AF5CE3005AC76A /* CountLargestGroup.swift */,
+				003CCE0E29AF7717005AC76A /* MaxPower.swift */,
 				0031FF2529A367D000CA5627 /* WeakestRows.swift */,
 				003CCDFC29A4B7FF005AC76A /* 2DSortedArray.swift */,
 				003CCDFE29ACA5BB005AC76A /* LeftRightSum.swift */,
@@ -1616,6 +1619,7 @@
 				4042BCE22908010100705147 /* IsSameAfterReversal.swift in Sources */,
 				40D5891B28C1098100FC157E /* MajorityElement.swift in Sources */,
 				40D5649D290FCC3900881090 /* LargestPositive.swift in Sources */,
+				003CCE0F29AF7717005AC76A /* MaxPower.swift in Sources */,
 				402EF3FA28DDCD4300A1D8A9 /* MinimizeMaxPairSumInArray.swift in Sources */,
 				4033814E28CB24E000ABBCD2 /* MergeSortedArray.swift in Sources */,
 				40161FB3288012C000172E7E /* NearestPoint.swift in Sources */,
