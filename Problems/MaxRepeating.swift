@@ -15,7 +15,7 @@ func maxRepeating(_ sequence: String, _ word: String) -> Int {
     var max = 1
     
     while true {
-        var array = Array(repeating: word, count: max)
+        let array = Array(repeating: word, count: max)
         
         if sequence.contains(array.joined()) {
             max += 1
