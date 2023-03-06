@@ -1,1 +1,1 @@
-print(getNoZeroIntegers(11))
+print(reformat("ab123"))
