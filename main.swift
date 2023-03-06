@@ -1,1 +1,1 @@
-print(makeGood("leEeetcode"))
+print(getNoZeroIntegers(11))
