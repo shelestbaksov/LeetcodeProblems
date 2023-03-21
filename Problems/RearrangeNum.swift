@@ -8,7 +8,7 @@
 import Foundation
 
 func splitNum(_ num: Int) -> Int {
-    var arr = Array(String(num)).sorted()
+    let arr = Array(String(num)).sorted()
     var str1 = ""
     var str2 = ""
     
