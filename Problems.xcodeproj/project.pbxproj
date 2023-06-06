@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		002301BB2A2F220A0053848B /* SemiOrderedPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002301BA2A2F220A0053848B /* SemiOrderedPermutation.swift */; };
+		002301BD2A2F24AC0053848B /* MinimizedStringLength.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002301BC2A2F24AC0053848B /* MinimizedStringLength.swift */; };
 		0031FF2629A367D000CA5627 /* WeakestRows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0031FF2529A367D000CA5627 /* WeakestRows.swift */; };
 		003CCDFD29A4B7FF005AC76A /* 2DSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003CCDFC29A4B7FF005AC76A /* 2DSortedArray.swift */; };
 		003CCDFF29ACA5BB005AC76A /* LeftRightSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003CCDFE29ACA5BB005AC76A /* LeftRightSum.swift */; };
@@ -436,6 +437,7 @@
 
 /* Begin PBXFileReference section */
 		002301BA2A2F220A0053848B /* SemiOrderedPermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SemiOrderedPermutation.swift; sourceTree = "<group>"; };
+		002301BC2A2F24AC0053848B /* MinimizedStringLength.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizedStringLength.swift; sourceTree = "<group>"; };
 		0031FF2529A367D000CA5627 /* WeakestRows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakestRows.swift; sourceTree = "<group>"; };
 		003CCDFC29A4B7FF005AC76A /* 2DSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2DSortedArray.swift; sourceTree = "<group>"; };
 		003CCDFE29ACA5BB005AC76A /* LeftRightSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeftRightSum.swift; sourceTree = "<group>"; };
@@ -885,6 +887,7 @@
 				40BF02672934A404005A3AFA /* LargestOddNumber.swift */,
 				003CCE2829DD7227005AC76A /* Kitems.swift */,
 				002301BA2A2F220A0053848B /* SemiOrderedPermutation.swift */,
+				002301BC2A2F24AC0053848B /* MinimizedStringLength.swift */,
 				003CCE0C29AF5CE3005AC76A /* CountLargestGroup.swift */,
 				003CCE0E29AF7717005AC76A /* MaxPower.swift */,
 				003CCE1229B0AC77005AC76A /* CountRect.swift */,
@@ -1527,6 +1530,7 @@
 				40D5647F2909195B00881090 /* FindTheTownJudge.swift in Sources */,
 				402EF40C28E1A32700A1D8A9 /* SelfDividingNumbers.swift in Sources */,
 				4078172B28AA65CB0089BB06 /* CountOfLetters.swift in Sources */,
+				002301BD2A2F24AC0053848B /* MinimizedStringLength.swift in Sources */,
 				4015231828EEE11A00168595 /* AddDigits.swift in Sources */,
 				4050AE562886A15D0037782F /* FindTheDifference.swift in Sources */,
 				403381A328D32D2E00ABBCD2 /* HeightChecker.swift in Sources */,
