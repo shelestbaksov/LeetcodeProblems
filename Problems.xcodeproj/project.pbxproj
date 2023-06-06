@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		002301BB2A2F220A0053848B /* SemiOrderedPermutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002301BA2A2F220A0053848B /* SemiOrderedPermutation.swift */; };
 		0031FF2629A367D000CA5627 /* WeakestRows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0031FF2529A367D000CA5627 /* WeakestRows.swift */; };
 		003CCDFD29A4B7FF005AC76A /* 2DSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003CCDFC29A4B7FF005AC76A /* 2DSortedArray.swift */; };
 		003CCDFF29ACA5BB005AC76A /* LeftRightSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003CCDFE29ACA5BB005AC76A /* LeftRightSum.swift */; };
@@ -434,6 +435,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		002301BA2A2F220A0053848B /* SemiOrderedPermutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SemiOrderedPermutation.swift; sourceTree = "<group>"; };
 		0031FF2529A367D000CA5627 /* WeakestRows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakestRows.swift; sourceTree = "<group>"; };
 		003CCDFC29A4B7FF005AC76A /* 2DSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2DSortedArray.swift; sourceTree = "<group>"; };
 		003CCDFE29ACA5BB005AC76A /* LeftRightSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeftRightSum.swift; sourceTree = "<group>"; };
@@ -882,6 +884,7 @@
 			children = (
 				40BF02672934A404005A3AFA /* LargestOddNumber.swift */,
 				003CCE2829DD7227005AC76A /* Kitems.swift */,
+				002301BA2A2F220A0053848B /* SemiOrderedPermutation.swift */,
 				003CCE0C29AF5CE3005AC76A /* CountLargestGroup.swift */,
 				003CCE0E29AF7717005AC76A /* MaxPower.swift */,
 				003CCE1229B0AC77005AC76A /* CountRect.swift */,
@@ -1635,6 +1638,7 @@
 				40B0DC372994E87100FCE400 /* MinimumRecolors.swift in Sources */,
 				4042BCD02906811700705147 /* CanWinNim.swift in Sources */,
 				408A3DD128B3798400B0DF19 /* ThirdMax.swift in Sources */,
+				002301BB2A2F220A0053848B /* SemiOrderedPermutation.swift in Sources */,
 				40B38C432887F9D1000AAB4B /* SumOfAllOddArrays.swift in Sources */,
 				406130EE293F38E0004AF569 /* FindKthPositive.swift in Sources */,
 				4033816C28D0A6F200ABBCD2 /* CountNegativeNumbersInMatrix.swift in Sources */,
